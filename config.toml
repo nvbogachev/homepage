@@ -20,13 +20,13 @@ defaultContentLanguageInSubdir = false
 
 [params]
   name = "Nikolay V. Bogachev"
-  role = "Lecturer at the Department of Discrete Mathematics, Research Scientist at the Laboratory of Advanced Combinatorics and Network Applications"
+  role = "Lecturer and Research Scientist"
   organization = "Moscow Institute of Physics and Technology"
   organization_url = ""
   gravatar = false  # Get your avatar from Gravatar.com? (true/false)
-  avatar = "portrait.jpg"  # Specify an avatar image (in `static/img/` folder) or delete value to disable avatar.
+  avatar = "bigPhoto.jpg"  # Specify an avatar image (in `static/img/` folder) or delete value to disable avatar.
   email = "nvbogach at mail.ru"
-  address = "Building L Room 208, MIPT, Dolgoprudny, 141701, Russia"
+  address = "Laboratory Building Room 208, MIPT, Dolgoprudny, 141701, Russia"
   #office_hours = "Monday 10:00 to 13:00 or email for appointment"
   #phone = "888 888 88 88"
   #skype = "echo123"
