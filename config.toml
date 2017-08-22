@@ -20,7 +20,7 @@ defaultContentLanguageInSubdir = false
 
 [params]
   name = "Nikolay V. Bogachev"
-  role = "Lecturer at the Department of Discrete Mathematics, Research Scientist at the Laboratory of Advanced Combinatorics and Network Technologies"
+  role = "Lecturer at the Department of Discrete Mathematics, Research Scientist at the Laboratory of Advanced Combinatorics and Network Applications"
   organization = "Moscow Institute of Physics and Technology"
   organization_url = ""
   gravatar = false  # Get your avatar from Gravatar.com? (true/false)
