@@ -25,7 +25,7 @@ weight = 1
 [[education.courses]]
   course = "PhD in Mathematics"
   institution = "Lomonosov Moscow State University"
-  year = 2014 - 2018
+  year = 2018
 
 #[[education.courses]]
 #  course = "MEng in Artificial Intelligence"
@@ -35,7 +35,7 @@ weight = 1
 [[education.courses]]
   course = "MSc in Mathematics"
   institution = "Lomonosov Moscow State University"
-  year = 2009 - 2014
+  year = 2014
  
 +++
 
