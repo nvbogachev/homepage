@@ -25,7 +25,7 @@ weight = 1
 [[education.courses]]
   course = "PhD in Mathematics"
   institution = "Lomonosov Moscow State University"
-  year = 2018
+  year = 2014 - 2018
 
 #[[education.courses]]
 #  course = "MEng in Artificial Intelligence"
@@ -35,7 +35,7 @@ weight = 1
 [[education.courses]]
   course = "MSc in Mathematics"
   institution = "Lomonosov Moscow State University"
-  year = 2014
+  year = 2009 - 2014
  
 +++
 
@@ -43,8 +43,7 @@ weight = 1
 
 
 Since Sep 2016 I am a Lecturer at the Department of Discrete Mathematics and since Feb 2017 I am also 
-a Research Scientist at the Laboratory of Advanced
-Combinatorics and Network Applications. My research interests include Hyperbolic Geometry, Geometry of Discrete
-Groups, Coxeter Groups and Polyhedra, Hyperbolic Reflection Groups, Discrete Geometry and Combinatorics, Determinantal Point Processes.
+a Research Scientist at the Laboratory of Advanced Combinatorics and Network Applications of MIPT. My CV:
+
 
 
