@@ -5,6 +5,8 @@ date = "2016-04-20T00:00:00"
 draft = false
 
 widget = "about"
+image = "cv-Bogachev-NV.pdf"
+
 
 # Order that this section will appear in.
 weight = 1
@@ -44,6 +46,5 @@ weight = 1
 
 Since Sep 2016 I am a Lecturer at the Department of Discrete Mathematics and since Feb 2017 I am also 
 a Research Scientist at the Laboratory of Advanced Combinatorics and Network Applications of MIPT. My CV:
-image = "cv-Bogachev-NV.pdf"
 
 
