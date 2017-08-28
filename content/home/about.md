@@ -44,6 +44,6 @@ weight = 1
 
 Since Sep 2016 I am a Lecturer at the Department of Discrete Mathematics and since Feb 2017 I am also 
 a Research Scientist at the Laboratory of Advanced Combinatorics and Network Applications of MIPT. My CV:
-
+"cv-Bogachev-NV.pdf"
 
 
