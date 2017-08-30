@@ -7,14 +7,27 @@ draft = false
 
 title = "Teaching"
 subtitle = ""
-widget = "custom"
+widget = "teaching"
 
 # Order that this section will appear in.
-weight = 60
+weight = 50
+
+view = 1
+
+#count = 3
+
+#detailed_list = true
+[[filter]]
+name = "All"
+tag = "*"
+
+[[filter]]
+name = "Geometry in Computer Science"
+tag = ".gcs"
+
+[[filter]]
+name = "Linear Algebra"
+tag = ".lin-al"
 
 +++
 
-I am a Lecturer for the following courses at MIPT:
-
-- CS101: Geometry in Computer Science
-- CS102: Linear Algebra
