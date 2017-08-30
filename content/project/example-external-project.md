@@ -3,10 +3,10 @@
 date = "2016-04-27"
 
 # Project title.
-title = "External Project"
+title = "Hyperbolic Coxeter Polytopes"
 
 # Project summary to display on homepage.
-summary = "An example of linking directly to an external project website using `external_link`."
+summary = "This is an attempt to collect some results concerning classification and properties of hyperbolic Coxeter polytopes. This page is maintained by Anna Felikson and Pavel Tumarkin. The idea of the page is suggested by Ruth Kellerhals. "
 
 # Optional image to display on homepage (relative to `static/img/` folder).
 image_preview = "boards.jpg"
@@ -16,7 +16,7 @@ image_preview = "boards.jpg"
 tags = ["demo"]
 
 # Optional external URL for project (replaces project detail page).
-external_link = "http://example.org"
+external_link = "http://www.maths.dur.ac.uk/users/anna.felikson/Polytopes/polytopes.html"
 
 # Does the project detail page use math formatting?
 math = false

@@ -26,7 +26,7 @@ view = 1
   tag = "*"
   
 [[filter]]
-  name = "Deep Learning"
+  name = "Science"
   tag = ".deep-learning"
 
 [[filter]]

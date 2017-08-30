@@ -7,7 +7,7 @@ draft = false
 
 title = "Teaching"
 subtitle = ""
-widget = "custom"
+widget = "teachings"
 
 # Order that this section will appear in.
 weight = 60
