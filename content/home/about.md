@@ -18,16 +18,16 @@ weight = 1
     "Geometry of Discrete Groups",
     "Hyperbolic Reflection Groups",
     "Coxeter Groups and Polyhedra",
-    "Discrete Geometry and Combinatorics",
-    "Determinantal Point Processes"
+    # "Discrete Geometry and Combinatorics",
+    # "Determinantal Point Processes"
 
   ]
 
 # List your qualifications (such as academic degrees).
-[[education.courses]]
-  course = "PhD in Mathematics"
-  institution = "Lomonosov Moscow State University"
-  year = 2018
+#[[education.courses]]
+#  course = "PhD in Mathematics"
+#  institution = "Lomonosov Moscow State University"
+#  year = 2018
 
 #[[education.courses]]
 #  course = "MEng in Artificial Intelligence"
@@ -43,8 +43,13 @@ weight = 1
 
 # Biography
 
+I am a mathematician with research interests in Hyperbolic Geometry and Geometry of Discrete Reflection Groups. 
+In 2014 I finished Moscow State University under the supervision of Professor E.B. Vinberg. 
+My PhD under his supervision will be finished in 2018.
+Currently I am a Lecturer and a Research Scientist at MIPT. 
 
-Since Sep 2016 I am a Lecturer at the Department of Discrete Mathematics and since Feb 2017 I am also 
-a Research Scientist at the Laboratory of Advanced Combinatorics and Network Applications of MIPT. My CV:
+In 2017 I received the Simons Foundation Prize for PhD students.
+Here you can find my CV, papers, information about my projects, and also the materials of my
+teaching courses.
 
 

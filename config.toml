@@ -22,12 +22,12 @@ defaultContentLanguageInSubdir = false
   name = "Nikolay V. Bogachev"
   role = "Lecturer and Research Scientist"
   organization = "Moscow Institute of Physics and Technology"
-  organization_url = ""
+  organization_url = "https://mipt.ru/en/"
   gravatar = false  # Get your avatar from Gravatar.com? (true/false)
   avatar = "bigPhoto.jpg"  # Specify an avatar image (in `static/img/` folder) or delete value to disable avatar.
   email = "nvbogach at mail.ru"
-  address = "Laboratory Building Room 208, MIPT, Dolgoprudny, 141701, Russia"
-  #office_hours = "Monday 10:00 to 13:00 or email for appointment"
+  address = "Laboratory Building, Room 208, MIPT, Institutsky lane 9,  Dolgoprudny, 141701, Russia"
+  office_hours = "Monday - Friday 08:30 to 17:00 or email for appointment"
   #phone = "888 888 88 88"
   #skype = "echo123"
   telegram = ""
@@ -102,7 +102,8 @@ defaultContentLanguageInSubdir = false
     'Work in progress',  # 3
     'Technical report',  # 4
     'Book',  # 5
-    'Book chapter'  # 6
+    'Book chapter',  # 6
+    'Preprint', # 7
   ]
 
   # Social/Academic Networking
@@ -138,6 +139,12 @@ defaultContentLanguageInSubdir = false
     icon_pack = "ai"
     link = "https://scholar.google.com/citations?user=S1kqhxwAAAAJ&hl=ru"
 
+   [[params.social]]
+    icon = "researchgate"
+    icon_pack = "fa"
+    link = "https://www.researchgate.net/profile/Nikolay_Bogachev2"
+
+
   [[params.social]]
     icon = "github"
     icon_pack = "fa"
@@ -156,13 +163,13 @@ defaultContentLanguageInSubdir = false
 
 [[menu.main]]
   name = "Publications"
-  url = "#publications_selected"
+  url = "#publications"
   weight = 2
 
-[[menu.main]]
-  name = "Posts"
-  url = "#posts"
-  weight = 3
+#[[menu.main]]
+#  name = "Posts"
+#  url = "#posts"
+#  weight = 3
 
 [[menu.main]]
   name = "Projects"
