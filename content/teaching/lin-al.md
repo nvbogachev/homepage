@@ -3,7 +3,7 @@
 date = "2016-04-27"
 
 # Project title.
-title = "External Project"
+title = "Linear Algebra"
 
 # Project summary to display on homepage.
 summary = "An example of linking directly to an external project website using `external_link`."
@@ -21,5 +21,8 @@ external_link = "http://example.org"
 # Does the project detail page use math formatting?
 math = false
 
+[header]
+image = "headers/bubbles-wide.jpg"
+caption = "My caption :smile:"
 +++
 
