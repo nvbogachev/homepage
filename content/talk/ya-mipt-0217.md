@@ -1,11 +1,11 @@
 +++
-date = "2017-01-01T00:00:00"
-title = "Example Talk"
+date = "2017-02-14"
+title = "Hyperbolic reflection groups and reflective hyperbolic lattices"
 abstract = ""
 abstract_short = ""
-event = "Hugo Academic Theme Conference"
-event_url = "https://example.org"
-location = "London, United Kingdom"
+event = "Seminar «MIPT & Yandex»"
+event_url = ""
+location = "Yandex, Moscow, Russia"
 
 selected = false
 math = true

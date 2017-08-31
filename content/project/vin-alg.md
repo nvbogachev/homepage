@@ -3,26 +3,23 @@
 date = "2016-04-27"
 
 # Project title.
-title = "Linear Algebra"
+title = "Vinberg's Algorithm'"
 
 # Project summary to display on homepage.
-summary = "An example of linking directly to an external project website using `external_link`."
+summary = "This is a joint project with Alexander Perepechko of the software implementation of Vinberg's Algorithm"
 
 # Optional image to display on homepage (relative to `static/img/` folder).
 image_preview = "boards.jpg"
 
 # Tags: can be used for filtering projects.
-# Example: `tags = ["gcs", "lin-al"]`
-tags = ["lin-al"]
+# Example: `tags = ["machine-learning", "deep-learning"]`
+tags = ["refl"]
 
 # Optional external URL for project (replaces project detail page).
-external_link = "http://example.org"
+external_link = "https://github.com/aperep/vinberg-algorithm"
 
 # Does the project detail page use math formatting?
 math = false
 
-[header]
-image = "headers/bubbles-wide.jpg"
-caption = "My caption :smile:"
 +++
 

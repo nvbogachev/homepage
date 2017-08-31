@@ -26,12 +26,14 @@ view = 1
   tag = "*"
   
 [[filter]]
-  name = "Science"
-  tag = ".deep-learning"
+  name = "Reflection Groups"
+  tag = ".refl"
 
 [[filter]]
   name = "Other"
-  tag = ".demo"
+  tag = ".other"
+
+
 
 +++
 
