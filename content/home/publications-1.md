@@ -8,8 +8,8 @@ draft = false
 math = true
 
 title = "Publications"
-subtitle = "Published/accepted papers"
-widget = "publications"
+subtitle = "Preprints/submitted papers"
+widget = "publications-1"
 
 # Order that this section will appear in.
 weight = 20
