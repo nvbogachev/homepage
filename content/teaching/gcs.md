@@ -31,38 +31,15 @@ caption = "My caption :smile:"
 
 Here is the page of my course "Geometry in Computer Science", which I'm reading (in Russian) for $3^{rd}$ year students of Faculty of Innovations and High Technologies at MIPT. 
 
-Материалы курса "Геометрия в компьютерных приложениях".
+Здесь находится страница курса "Геометрия в компьютерных приложениях", читаемого мною для студентов 3-го курса ФИВТ МФТИ. 
 
-[Lecture 1.](mipt-GeomCS2017-lection1.pdf) Введение. Геометрия плоских кривых: определения, касательная, нормаль, кривизна, формулы Френе.
-
-[Lecture 2.](mipt-GeomCS2017-lection2.pdf) Геометрия пространственных кривых: определения, кривизна, репер и формулы Френе.
-
-[Lecture 3.](mipt-GeomCS2017-lecture-3.pdf)
-
-[Lecture 4.](mipt-GeomCS2017-lecture-4.pdf)
-
-[Lecture 5.](mipt-GeomCS2017-lection2.pdf)
-
-[Lecture 6.](mipt-GeomCS2017-lection2.pdf)
-
-[Lecture 7.](mipt-GeomCS2017-lection2.pdf)
-
-[Lecture 8.](mipt-GeomCS2017-lection2.pdf)
-
-[Lecture 9.](mipt-GeomCS2017-lection2.pdf) Теоретическая контрольная. Список вопросов.
-
-[Lecture 10.](mipt-GeomCS2017-lection2.pdf)
-
-[Lecture 11.](mipt-GeomCS2017-lection2.pdf)
-
-[Lecture 12.](mipt-GeomCS2017-lection2.pdf)
-
-[Lecture 13.](mipt-GeomCS2017-lection2.pdf)
-
-[Lecture 14.](mipt-GeomCS2017-lection2.pdf)
-
-[Lecture 15.](mipt-GeomCS2017-lection2.pdf)
+[Лекция 1.](Lecture-1.pdf) Введение. Геометрия плоских кривых: определения, касательная, нормаль, кривизна, формулы Френе.
 
 
+[[1]](https://market.yandex.ru/product--a-o-ivanov-a-a-tuzhilin-lektsii-po-klassicheskoi-differentsialnoi-geometrii/4585892) А.О. Иванов, А.А. Тужилин --- Лекции по классической дифференциальной
+геометрии, 2009, Москва, Логос.
 
+[2] А.О. Иванов, А.А. Тужилин --- Дифференциальная геометрия и топология, 2011, Москва.
 
+[[3]](https://istina.msu.ru/publications/book/2503568/) А.\,И. Шафаревич --- Курс лекций по классической дифференциальной
+геометрии, 2007, Москва, МГУ, Механико-математический факультет.
