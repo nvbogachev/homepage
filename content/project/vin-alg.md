@@ -9,7 +9,7 @@ title = "Vinberg's Algorithm'"
 summary = "This is a joint project with Alexander Perepechko of the software implementation of Vinberg's Algorithm"
 
 # Optional image to display on homepage (relative to `static/img/` folder).
-image_preview = "boards.jpg"
+#image_preview = "boards.jpg"
 
 # Tags: can be used for filtering projects.
 # Example: `tags = ["machine-learning", "deep-learning"]`

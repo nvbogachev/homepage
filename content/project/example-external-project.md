@@ -9,7 +9,7 @@ title = "Hyperbolic Coxeter Polytopes"
 summary = "This is an attempt to collect some results concerning classification and properties of hyperbolic Coxeter polytopes. This page is maintained by Anna Felikson and Pavel Tumarkin. The idea of the page is suggested by Ruth Kellerhals. "
 
 # Optional image to display on homepage (relative to `static/img/` folder).
-image_preview = "boards.jpg"
+#image_preview = "boards.jpg"
 
 # Tags: can be used for filtering projects.
 # Example: `tags = ["machine-learning", "deep-learning"]`

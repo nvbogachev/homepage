@@ -9,7 +9,7 @@ title = "Arithmetic Hyperbolic Reflection Groups"
 summary = " "
 
 # Optional image to display on homepage (relative to `static/img/` folder).
-image_preview = "bubbles.jpg"
+#image_preview = "bubbles.jpg"
 
 # Tags: can be used for filtering projects.
 # Example: `tags = ["machine-learning", "deep-learning"]`
@@ -23,7 +23,7 @@ math = true
 
 # Optional featured image (relative to `static/img/` folder).
 [header]
-image = "headers/bubbles-wide.jpg"
+#image = "headers/bubbles-wide.jpg"
 caption = "My caption :smile:"
 
 #\newtheorem{theorem}{Theorem}
@@ -35,7 +35,7 @@ Suppose $K$ is a totally real number field with the ring of integers $A$. Suppos
 $f(x)$ is a quadratic forms of signature $(n,1)$ defined over $K$ such that for every
 non-identity embedding $\sigma \colon K \to \mathbb{R}$ the form $f^{\sigma}$ is positive definite.
 
-$\textbf{Theorem 1}$
+
 
 
 [[Vi1]](http://iopscience.iop.org/article/10.1070/RM1985v040n01ABEH003527/meta)
