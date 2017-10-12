@@ -37,6 +37,7 @@ Here is the page of my course "Geometry in Computer Science", which I'm reading 
 
 ## Новости
   - Добавлены задания по лабораторным работам-1.
+  - Добавлены таблицы с успеваемостью.
   - Добавлена Лекция 5.
   - Заочная олимпиада по [топологии](http://mathcenter.spb.ru/nikaan/olympiad/problems.pdf).
 
