@@ -35,6 +35,12 @@ caption = "My caption :smile:"
 
 Here is the page of my course "Geometry in Computer Science", which I'm reading (in Russian) for $3^{rd}$ year students of the Department of Innovation and High Technology at MIPT. 
 
+## Новости
+  - Добавлены задания по лабораторным работам-1.
+  - Добавлена Лекция 5.
+  - Заочная олимпиада по [топологии](http://mathcenter.spb.ru/nikaan/olympiad/problems.pdf).
+
+
 ## Геометрия в компьютерных приложениях
 
 
