@@ -28,7 +28,7 @@ caption = "My caption :smile:"
 
 
 
-$\textbf{Description}$
+## Description
 
 This is a page of my course for $1^{st}$ year students of Master's Program "Advanced Combinatorics" at MIPT.
 
@@ -45,7 +45,7 @@ $\textbf{Program}$
 9. Polar Decomposition.
 10. Jordan Normal Form.
 
-$\textbf{References}$
+## References
 
 [Ax] S. Axler --- Linear Algebra Done Right
 
