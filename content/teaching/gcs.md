@@ -36,7 +36,7 @@ caption = "My caption :smile:"
 Here is the page of my course "Geometry in Computer Science", which I'm reading (in Russian) for $3^{rd}$ year students of the Department of Innovation and High Technology at MIPT. 
 
 ## Новости
-  - Опубликована программа лекционной контрольной, которая состоится на лекции 02.11.2017.
+  - Опубликована программа теоретической контрольной, которая состоится на лекции 02.11.2017.
   - Добавлена Лекция 6.
   - Добавлены задания по лабораторным работам-1.
   - Добавлены таблицы с успеваемостью.

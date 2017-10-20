@@ -32,7 +32,7 @@ caption = "My caption :smile:"
 
 This is a page of my course for $1^{st}$ year students of Master's Program "Advanced Combinatorics" at MIPT.
 
-$\textbf{Program}$
+## Program
 
 1. Vector Spaces. Basis. Dimension. Linear Independence.
 2. Linear and Bilinear Functions.
