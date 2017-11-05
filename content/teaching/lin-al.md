@@ -47,7 +47,7 @@ This is a page of my course for $1^{st}$ year students of Master's Program "Adva
 
 ## Seminars & Problems
 
-1. [Seminar 1](Seminar-1.pdf) Affine and Vector Spaces. 
+[Seminar 1](Seminar-1.pdf). 06.11.2017. Affine and Vector Spaces. 
 
 
 ## References
