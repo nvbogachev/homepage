@@ -45,7 +45,13 @@ This is a page of my course for $1^{st}$ year students of Master's Program "Adva
 9. Polar Decomposition.
 10. Jordan Normal Form.
 
+## Seminars & Problems
+
+1. [Seminar 1](Seminar-1.pdf) Affine and Vector Spaces. 
+
+
 ## References
+
 
 [Ax] S. Axler --- Linear Algebra Done Right
 
