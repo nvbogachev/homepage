@@ -49,6 +49,16 @@ This is a page of my course for $1^{st}$ year students of Master's Program "Adva
 
 [Seminar 1](Seminar-1.pdf). 06.11.2017. Affine and Vector Spaces. 
 
+[Seminar 2](Seminar-2.pdf). 13.11.2017. Transformation Groups.
+
+[Seminar 3](Seminar-3.pdf). 04.12.2017. Linear and Bilinear Functions. 
+
+[Seminar 4](Seminar-4.pdf). 11.12.2017. Quadratic Forms and Symmetric Bilinear Functions. 
+
+## Seminar Results
+
+See [tables](https://docs.google.com/spreadsheets/d/e/2PACX-1vQOLGqxKyplu5NqZyabV703SO--R-vmxD7ib9NhvgQhKgkJTjRu669pO15qDZ6uEr7ZKiJMjBGc82-6/pubhtml)
+
 
 ## References
 
@@ -56,3 +66,5 @@ This is a page of my course for $1^{st}$ year students of Master's Program "Adva
 [Ax] S. Axler --- Linear Algebra Done Right
 
 [Vi] E.B. Vinberg --- Course of Algebra, 2017, MCCME, Moscow.
+
+
