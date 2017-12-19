@@ -39,13 +39,6 @@ Here is the page of my course "Geometry in Computer Science", which I'm reading 
   - Зачет состоится в среду 20 декабря в 14:00 в ауд. 522 ГК.
   - Итоги, результаты, оценки - см. [здесь](https://docs.google.com/spreadsheets/d/e/2PACX-1vTkSdSYSy6DLq5gUYqNeOOabUIb4x2_bhjbNplvhmfiROrL2N7h5TsyX-alYN55rnDtlcQoz9av_f3J/pubhtml)
 
-# - Опубликована программа теоретической контрольной, которая состоится на лекции 02.11.2017.
-# - Добавлена Лекция 6.
-# - Добавлены задания по лабораторным работам-1.
-# - Добавлены таблицы с успеваемостью.
-# - Добавлена Лекция 5.
-#- Заочная олимпиада по [топологии](http://mathcenter.spb.ru/nikaan/olympiad/problems.pdf).
-
 
 ## Геометрия в компьютерных приложениях
 
