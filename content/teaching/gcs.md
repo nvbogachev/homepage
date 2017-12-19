@@ -36,7 +36,7 @@ caption = "My caption :smile:"
 Here is the page of my course "Geometry in Computer Science", which I'm reading (in Russian) for $3^{rd}$ year students of the Department of Innovation and High Technology at MIPT. 
 
 ## Новости
-  - Зачет состоится в среду 20 декабря в 14:00 в ауд. 522 ГК.
+  - Зачет состоится в среду 20 декабря в 14:00 в ауд. 525 ГК.
   - Итоги, результаты, оценки - см. [здесь](https://docs.google.com/spreadsheets/d/e/2PACX-1vTkSdSYSy6DLq5gUYqNeOOabUIb4x2_bhjbNplvhmfiROrL2N7h5TsyX-alYN55rnDtlcQoz9av_f3J/pubhtml)
 
 
