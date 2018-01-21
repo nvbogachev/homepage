@@ -53,7 +53,9 @@ This is a page of my course for $1^{st}$ year students of Master's Program "Adva
 
 [Seminar 3](Seminar-3.pdf). 04.12.2017. Linear and Bilinear Functions. 
 
-[Seminar 4](Seminar-4.pdf). 11.12.2017. Quadratic Forms and Symmetric Bilinear Functions. 
+[Seminar 4](Seminar-4.pdf). 11.12.2017. Quadratic Forms and Symmetric Bilinear Functions.
+
+[Seminar 5](Seminar-5.pdf). 08.01.2018. Euclidean and Hermition Spaces.
 
 ## Seminar Results
 
