@@ -57,6 +57,9 @@ This is a page of my course for $1^{st}$ year students of Master's Program "Adva
 
 [Seminar 5](Seminar-5.pdf). 08.01.2018. Euclidean and Hermition Spaces.
 
+[Seminar 6](Seminar-6.pdf). 24.01.2018. Linear Operators.
+
+
 ## Seminar Results
 
 See [tables](https://docs.google.com/spreadsheets/d/e/2PACX-1vQOLGqxKyplu5NqZyabV703SO--R-vmxD7ib9NhvgQhKgkJTjRu669pO15qDZ6uEr7ZKiJMjBGc82-6/pubhtml)
