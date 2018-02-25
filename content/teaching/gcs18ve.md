@@ -60,6 +60,8 @@ Here is the page of my course "Geometry in Computer Science", which I'm reading 
 
 [Семинар 1.](gcs-sem-spr-1.pdf) 19.02.2018. Сиплициальные комплексы и триангуляции поверхностей. 
 
+[Семинар 2.](gcs-sem-spr-2.pdf) 26.02.2018. Симплициальные поверхности.
+
 
 
 ## Список литературы
