@@ -49,7 +49,7 @@ Here is the page of my course "Geometry in Computer Science", which I'm reading 
 
 [Лекция 1.](http://brickisland.net/DDGFall2017/wp-content/uploads/2017/09/CMU_DDG_Fall2017_02_SimpicialComplex-1.pdf) 19.02.2018. Введение. Симплициальные комплексы. Сетки на поверхностях.
 
-Лекция 2.
+Лекция 2. 26.02.2018. Дискретные поверхности. Внешние формы на многообразиях. Дискретные внешние формы на дискретных поверхностях.
   
 - [Часть 1:](http://brickisland.net/DDGFall2017/wp-content/uploads/2017/09/CMU_DDG_Fall2017_02_ExteriorAlgebra.pdf) Алгебра внешних форм.
 - [Часть 2:](http://brickisland.net/DDGFall2017/wp-content/uploads/2017/09/CMU_DDG_Fall2017_02_DifferentialForms-1.pdf) Дифференциальные формы.
