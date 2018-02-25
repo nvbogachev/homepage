@@ -23,8 +23,12 @@ name = "All"
 tag = "*"
 
 [[filter]]
-name = "Geometry in Computer Science"
-tag = ".gcs"
+name = "Geometry in Computer Science - Fall 2017"
+tag = ".gcs17os"
+
+[[filter]]
+name = "Geometry in Computer Science - Spring 2018"
+tag = ".gcs18ve"
 
 [[filter]]
 name = "Linear Algebra"
