@@ -60,3 +60,5 @@ Here is the page of my course "Geometry in Computer Science", which I'm reading 
 
 
 [[1]](http://www.cs.cmu.edu/~kmcrane/Projects/DGPDEC/paper.pdf) Keenan Crane --- Discrete Differential Geometry: An Applied Introduction, 2017.
+[[2]](Alexander_I._Bobenko.pdf) A.I. Bobenko, P. Schröder, J.M. Sullivan, G. Ziegler (ed.) --- Discrete Differential Geometry, 2008.
+
