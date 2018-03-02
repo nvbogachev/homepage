@@ -13,7 +13,7 @@ summary = "В этом разделе приведено описание мои
 
 # Tags: can be used for filtering projects.
 # Example: `tags = ["machine-learning", "deep-learning"]`
-#tags = ["refl"]
+tags = ["refl"]
 
 # Optional external URL for project (replaces project detail page).
 #external_link = ""
