@@ -2,14 +2,14 @@
 abstract = "In this paper we announce a software implementation of Vinberg's Algorithm for Hyperbolic Lattices."
 abstract_short = " "
 authors = ["NV Bogachev, AJu Perepechko"]
-date = "2017-02-20"
+date = "2018-05-01"
 image_preview = ""
 math = true
 publication_types = ["2"]
 publication = "*Mathematical Notes, 2018, to appear*"
 publication_short = ""
 selected = false
-title = "[1] Vinberg's Algorithm for Hyperbolic Lattices'"
+title = "[2] Vinberg's Algorithm for Hyperbolic Lattices"
 url_code = ""
 url_dataset = ""
 url_pdf = ""
