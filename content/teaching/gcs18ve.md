@@ -57,6 +57,7 @@ Here is the page of my course "Geometry in Computer Science", which I'm reading 
 - [Часть 4:](http://brickisland.net/DDGFall2017/wp-content/uploads/2017/09/CMU_DDG_Fall2017_06_DiscreteExteriorCalculus.pdf) Дискретные внешние формы.
 
 Лекция 3. 05.03.2018. Дискретные внешние формы, дискретный дифференциал, дискретная звезда Ходжа, дискретное внешнее умножение.
+
 - [Слайды](http://brickisland.net/DDGSpring2016/wp-content/uploads/2016/04/DDG_CMUSpring2016_ExteriorCalculus.pdf)
 - [Конспект (русс.)](lec-03.pdf)
 
