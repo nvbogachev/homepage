@@ -61,16 +61,29 @@ Here is the page of my course "Geometry in Computer Science", which I'm reading 
 - [Слайды](http://brickisland.net/DDGSpring2016/wp-content/uploads/2016/04/DDG_CMUSpring2016_ExteriorCalculus.pdf)
 - [Конспект (русс.)](lec-03.pdf)
 
+Лекция 4. 12.03.2018. Дискретные формы и сетки: повторение.
 
-## Семинар
-
-[Семинар 1.](gcs-sem-spr-1.pdf) 19.02.2018. Сиплициальные комплексы и триангуляции поверхностей. 
-
-[Семинар 2.](gcs-sem-spr-2.pdf) 26.02.2018. Симплициальные поверхности.
-
-[Семинар 3.](gcs-sem-spr-3.pdf) 05.03.2018. Внешние и дифференциальные формы.
+Лекция 5. 19.03.2018. Дискретные кривизны и нормали. См. [[1]](http://www.cs.cmu.edu/~kmcrane/Projects/DGPDEC/paper.pdf) K. Crane "DDG", стр. 65--79.
 
 
+
+
+## Семинары
+
+
+- [Успеваемость](https://docs.google.com/spreadsheets/d/e/2PACX-1vRVBM-23gUE-pgAdmGRTKOiTE-hcwfgIKym8-lFtXkbZmSpdvgoRvz7Vbio2ZQBWJskIlVjcuu56Hqw/pubhtml)
+
+- Задачи.
+
+  + [Семинар 1.](gcs-sem-spr-1.pdf) 19.02.2018. Сиплициальные комплексы и триангуляции поверхностей. 
+
+  + [Семинар 2.](gcs-sem-spr-2.pdf) 26.02.2018. Симплициальные поверхности.
+ 
+  + [Семинар 3.](gcs-sem-spr-3.pdf) 05.03.2018. Внешние и дифференциальные формы.
+
+  + [Семинар 4.](gcs-sem-spr-4.pdf) 12.03.2018. Сетки и дискретные формы.
+
+  + [Семинар 5.](gcs-sem-spr-5.pdf) 19.03.2018. Кривизны.
 
 ## Список литературы
 
