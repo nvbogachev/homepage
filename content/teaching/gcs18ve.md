@@ -65,6 +65,7 @@ Here is the page of my course "Geometry in Computer Science", which I'm reading 
 
 Лекция 5. 19.03.2018. Дискретные кривизны и нормали. См. [[1]](http://www.cs.cmu.edu/~kmcrane/Projects/DGPDEC/paper.pdf) K. Crane "DDG", стр. 65--79.
 
+Лекция 6. 02.04.2018. Кривизны. См [конспект](lec05-06.pdf). 
 
 
 
@@ -84,6 +85,8 @@ Here is the page of my course "Geometry in Computer Science", which I'm reading 
   + [Семинар 4.](gcs-sem-spr-4.pdf) 12.03.2018. Сетки и дискретные формы.
 
   + [Семинар 5.](gcs-sem-spr-5.pdf) 19.03.2018. Кривизны.
+ 
+  + [Семинар 6.](gcs-sem-spr-6.pdf) 02.04.2018. Кривизны-2.
 
 ## Список литературы
 
