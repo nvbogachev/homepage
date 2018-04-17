@@ -40,15 +40,20 @@ caption = "My caption :smile:"
   - By the result of A. Borel and Harish-Chandra (see [BHC62]) or G. Mostow and Tamagawa (see [MT62]), the group $O'(f, A)$ is the cocompact discrete group of motions of the space $\mathbb{H}^n$ with an exception of the field $K = \mathbb{Q}$, when such group could be of cofinite volume, but not cocompact. The case $K = \mathbb{Q}$ was studied by Venkov in 1937 (see [Ven37]).
 
 
-## Existence Theorems
+## Existence and Finiteness Theorems
 
-1. Arithmetic hyperbolic reflection groups do not exist for dimensions $n \geq 30$.
-2. Arithmetic
-3. 
+1. (Nikulin, 2007) There are only finitely many of arithmetic maximal hyperbolic reflection groups.
+2. (Vinberg, 1984) In Lobachevsky spaces $\mathbb{H}^n$ of dimension $n \ge 30$ there are no arithmetic hyperbolic reflection groups.
+3. (Vinberg, 1984) In Lobachevsky spaces $\mathbb{H}^n$ of dimension $n \ge 22$  there are no arithmetic hyperbolic reflection groups with a ground field other than $\Q(\sqrt{2})$, $\Q(\sqrt{5})$ and $\Q(\cos(2\pi/7))$. 
+4. (Vinberg, 1984) In Lobachevsky spaces $\HH^n$ of dimension $n \ge 14$  there are no arithmetic hyperbolic reflection groups with a ground field other than $\Q(\sqrt{2})$, $\Q(\sqrt{3})$, $\Q(\sqrt{5})$, $\Q(\sqrt{6})$, $\Q(\sqrt{2}, \sqrt{3})$, $\Q(\sqrt{2}, \sqrt{5})$ and $\Q(\cos(2\pi/m))$, where $m=7,9,11,15,16,$ or $20$.
+5. (Nikulin, 2011) In the Lobachevsky spaces $\HH^n$ of dimension $4 \leq n \leq 13$ the degree $d = [\mathbb{F} : \mathbb{Q}]$ is at most $25$.
+6. (Belolipetsky, 2011) In the Lobachevsky space $\HH^3$ the degree $d$ is at most $9$.
+7. (Linowitz, 2017) In the Lobachevsky plane $\HH^2$ the degree $d$ is at most $7$.
+
 
 ## Vinberg's Algorithm
 - See here the brief description.
-- R. Guglielmetti's implementation for hyperbolic lattices with an orthogonal basis (the program with the documentation is available here, and also some information you can find in [Gugl17])
+- R. Guglielmetti's implementation for hyperbolic lattices (over a series of ground fields) with an orthogonal basis (the program with the documentation is available here, and also some information you can find in [Gugl17])
 - Sowtware implementation by Bogachev and Perepechko for arbitrary integral hyperbolic lattices (the program, some brief description). See also the paper [BP18].
 
 ## Classification results
@@ -76,6 +81,21 @@ caption = "My caption :smile:"
 3. $K = \mathbb{Q}[\sqrt{5}]$
 4. $K = \mathbb{Q}[\cos(2\pi/7)]$
 5. Other Fields. $\textbf{Open Problem}$.
+
+
+## Open Problems
+
+1. Classification of reflective hyperbolic lattices with ground fields other than Q.
+
+2. Find the list of all possible ground fields of arithmetic hyperbolic reflection groups.
+
+3. Improve the upper bounds for degrees of ground fields of arithmetic hyperbolic reflection groups.
+
+4. Classification of reflective anisotropic hyperbolic lattices over Q of rank 4. 
+
+5. Classification of reflective anisotropic hyperbolic lattices over Q of ranks more than 6. 
+
+6. Efficient software implementation of Vinberg's Algorithm.
 
 
 ## References
