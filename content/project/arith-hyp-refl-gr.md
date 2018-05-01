@@ -6,7 +6,7 @@ date = "2016-04-27"
 title = "Arithmetic Hyperbolic Reflection Groups"
 
 # Project summary to display on homepage.
-summary = " "
+summary = "This is an attempt to collect some results concerning classification of arithmetic hyperbolic reflection groups and reflective hyperbolic lattices. This page is under construction. Any suggestions and corrections are welcome."
 
 # Optional image to display on homepage (relative to `static/img/` folder).
 #image_preview = "bubbles.jpg"
@@ -29,6 +29,12 @@ caption = "My caption :smile:"
 #\newtheorem{theorem}{Theorem}
 
 +++
+
+-  This is an attempt to collect some results concerning classification of arithmetic hyperbolic reflection groups and reflective hyperbolic lattices.
+-  This page is under construction. Any suggestions and corrections are welcome.
+-  For more detailed discussion of the general theory of hyperbolic [Coxeter](https://en.wikipedia.org/wiki/Harold_Scott_MacDonald_Coxeter) polytopes see the [page](http://www.maths.dur.ac.uk/users/anna.felikson/Polytopes/polytopes.html) of [Anna Felikson](http://www.maths.dur.ac.uk/users/anna.felikson/) and [Pavel Tumarkin](http://www.maths.dur.ac.uk/users/pavel.tumarkin/).
+- This page is constructed by [Nikolay Bogachev](https://nvbogachev.netlify.com/). The idea is suggested by [Anna Felikson](http://www.maths.dur.ac.uk/users/anna.felikson/) and [Ruth Kellerhals](http://homeweb1.unifr.ch/kellerha/pub/Ruth-Main.html).
+
 
 
 ## Basic definitions and facts
