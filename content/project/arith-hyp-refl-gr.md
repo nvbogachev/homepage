@@ -64,7 +64,7 @@ caption = "My caption :smile:"
 3. (Vinberg, 1984) In Lobachevsky spaces $\mathbb{H}^n$ of dimension $n \ge 22$  there are no arithmetic hyperbolic reflection groups with a ground field other than $\mathbb{Q}(\sqrt{2})$, $\mathbb{Q}(\sqrt{5})$ and $\mathbb{Q}(\cos(2\pi/7))$. See [Vin84].
 4. (Vinberg, 1984) In Lobachevsky spaces $\mathbb{H}^n$ of dimension $n \ge 14$  there are no arithmetic hyperbolic reflection groups with a ground field other than $\mathbb{Q}(\sqrt{2})$, $\mathbb{Q}(\sqrt{3})$, $\mathbb{Q}(\sqrt{5})$, $\mathbb{Q}(\sqrt{6})$, $\mathbb{Q}(\sqrt{2}, \sqrt{3})$, $\mathbb{Q}(\sqrt{2}, \sqrt{5})$ and $\mathbb{Q}(\cos(2\pi/m))$, where $m=7,9,11,15,16,$ or $20$. See [Vin84].
 5. (Nikulin, 2011) In the Lobachevsky spaces $\mathbb{H}^n$ of dimension $4 \leq n \leq 13$ the degree $d = [\mathbb{F} : \mathbb{Q}]$ is at most $25$. See [Nik11].
-6. (Belolipetsky, 2011) In the Lobachevsky space $\mathbb{H}^3$ the degree $d$ is at most $9$. See [Bel11].
+6. (Belolipetsky, 2011) In the Lobachevsky space $\mathbb{H}^3$ the degree $d$ is at most $9$. See [Bel09] and [Bel11].
 7. (Linowitz, 2017) In the Lobachevsky plane $\mathbb{H}^2$ the degree $d$ is at most $7$. See [Lin17].
 
 
@@ -79,8 +79,8 @@ In 1972 (see [Vin72] and [Vin73]), Vinberg proposed an affective algorithm of co
 ## Classification results
 
 1. $\mathbb{F} = \mathbb{Q}$
-  + V.V. Nikulin, 1979,1981,1984. $2$-reflective hyperbolic lattices (for all $1 < n < 21$ and $n \ne 4$). 
-  + E.Vinberg, 1972. Unimodular reflective hyperbolic lattices (reflective for all $n \le 19$).
+  + V.V. Nikulin, 1979,1981,1984. $2$-reflective hyperbolic lattices (for all $1 < n < 21$ and $n \ne 4$). See [Nik79], [Nik81] and [Nik84].
+  + E.Vinberg, 1972. Unimodular reflective hyperbolic lattices (reflective for all $n \le 19$). See [Vin72] and [VK78].
   
 
   - $n=2$.
@@ -89,18 +89,18 @@ In 1972 (see [Vin72] and [Vin73]), Vinberg proposed an affective algorithm of co
      + D. Allcock, 2012. Full classification of Reflective Lorentzian Lattices of Rank $3$. See [All12]
 
   - $n=3$.
-     + E.B. Vinberg, 2007. $2$-reflective hyperbolic lattices of rank $4$
+     + E.B. Vinberg, 2007. $2$-reflective hyperbolic lattices of rank $4$. See [Vin07].
      + R. Scharlau, 1989. Reflective isotropic hyperbolic lattices. See [Sch89]
      + N.V. Bogachev, 2016-2017. $(1.2)$-reflective anisotropic hyperbolic lattices of rank $4$. See [B17] and [B18].
      + Anisotropic case:  $\textbf{Open Problem}$
 
   - $n=4$. C. Walhorn. See [SW92] and [Wal93].
-  - $n=5$. I. Turkalj. Classification of Relective Lorentzian Lattices of Signature $(5,1)$.
+  - $n=5$. I. Turkalj. Classification of Relective Lorentzian Lattices of Signature $(5,1)$. See [Tur17].
   - $n \ge 6$. $\quad \textbf{Open Problem}$
      
 2. $\mathbb{F} = \mathbb{Q}[\sqrt{2}]$.
 
-  - $n=2$. A. Mark. Classification of Reflective Hyperbolic Lattices of rank $3$.
+  - $n=2$. A. Mark. Classification of Reflective Hyperbolic Lattices of rank $3$. See [Mar17].
   - $n \ge 3$. $\quad \textbf{Open Problem}$
 
 3. $\mathbb{F} = \mathbb{Q}[\sqrt{5}]$
@@ -206,6 +206,9 @@ Nauk SSSR Ser. Mat., 44(3):637–669, 719–720, 1980.
 [Vin72] E.B. Vinberg.The groups of units of certain quadratic forms. Mat.Sb.(N.S.), 87 (129): 18–36, 1972.
 
 [Vin73] E.B. Vinberg. Some arithmetical discrete groups in Lobachevsky spaces. --- In: Proc. Int. Coll. on Discrete Subgroups of Lie Groups and Appl. to Moduli (Bombay, January 1973).~--- Oxford: University Press, 1975, p. 323 --- 348.
+
+[VK78] E.B. Vinberg and I.M. Kaplinskaja. The groups $O_{18,1}(\mathbb{Z})$ and $O_{19,1}(\mathbb{Z})$. Dokl. Akad. Nauk SSSR, 238(6): 1273--1275, 1978.
+
 
 [Vin84] E.B.Vinberg. Absence of crystallographic groups of reflections in Lobachevskii spaces of large dimension. Trudy Moskov. Mat. Obshch., 47:68–102, 246, 1984.
 
