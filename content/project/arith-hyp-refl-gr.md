@@ -45,10 +45,10 @@ caption = "My caption :smile:"
 1. (Nikulin, 2007) There are only finitely many of arithmetic maximal hyperbolic reflection groups. See [Nik07].
 2. (Vinberg, 1984) In Lobachevsky spaces $\mathbb{H}^n$ of dimension $n \ge 30$ there are no arithmetic hyperbolic reflection groups. See [Vin84].
 3. (Vinberg, 1984) In Lobachevsky spaces $\mathbb{H}^n$ of dimension $n \ge 22$  there are no arithmetic hyperbolic reflection groups with a ground field other than $\Q(\sqrt{2})$, $\Q(\sqrt{5})$ and $\Q(\cos(2\pi/7))$. See [Vin84].
-4. (Vinberg, 1984) In Lobachevsky spaces $\HH^n$ of dimension $n \ge 14$  there are no arithmetic hyperbolic reflection groups with a ground field other than $\Q(\sqrt{2})$, $\Q(\sqrt{3})$, $\Q(\sqrt{5})$, $\Q(\sqrt{6})$, $\Q(\sqrt{2}, \sqrt{3})$, $\Q(\sqrt{2}, \sqrt{5})$ and $\Q(\cos(2\pi/m))$, where $m=7,9,11,15,16,$ or $20$. See [Vin84].
-5. (Nikulin, 2011) In the Lobachevsky spaces $\HH^n$ of dimension $4 \leq n \leq 13$ the degree $d = [\mathbb{F} : \mathbb{Q}]$ is at most $25$. See [Nik11].
-6. (Belolipetsky, 2011) In the Lobachevsky space $\HH^3$ the degree $d$ is at most $9$. See [Bel11].
-7. (Linowitz, 2017) In the Lobachevsky plane $\HH^2$ the degree $d$ is at most $7$. See [Lin17].
+4. (Vinberg, 1984) In Lobachevsky spaces $\mathbb{H}^n$ of dimension $n \ge 14$  there are no arithmetic hyperbolic reflection groups with a ground field other than $\mathbb{Q}(\sqrt{2})$, $\mathbb{Q}(\sqrt{3})$, $\mathbb{Q}(\sqrt{5})$, $\mathbb{Q}(\sqrt{6})$, $\mathbb{Q}(\sqrt{2}, \sqrt{3})$, $\mathbb{Q}(\sqrt{2}, \sqrt{5})$ and $\mathbb{Q}(\cos(2\pi/m))$, where $m=7,9,11,15,16,$ or $20$. See [Vin84].
+5. (Nikulin, 2011) In the Lobachevsky spaces $\mathbb{H}^n$ of dimension $4 \leq n \leq 13$ the degree $d = [\mathbb{F} : \mathbb{Q}]$ is at most $25$. See [Nik11].
+6. (Belolipetsky, 2011) In the Lobachevsky space $\mathbb{H}^3$ the degree $d$ is at most $9$. See [Bel11].
+7. (Linowitz, 2017) In the Lobachevsky plane $\mathbb{H}^2$ the degree $d$ is at most $7$. See [Lin17].
 
 
 ## Vinberg's Algorithm
@@ -59,8 +59,8 @@ caption = "My caption :smile:"
 ## Classification results
 
 1. $K = \mathbb{Q}$
-  + V.V. Nikulin, 1981,1984. $2$-reflective hyperbolic lattices (for all $1 < n < 21$ and $n \ne 4$) 
-  + E.Vinberg, 1972. Unimodular reflective hyperbolic lattices (reflective for all $n \le 19$)
+  + V.V. Nikulin, 1981,1984. $2$-reflective hyperbolic lattices (for all $1 < n < 21$ and $n \ne 4$). 
+  + E.Vinberg, 1972. Unimodular reflective hyperbolic lattices (reflective for all $n \le 19$).
   
 
   - $n=2$.
@@ -70,14 +70,18 @@ caption = "My caption :smile:"
 
   - $n=3$.
      + E.B. Vinberg, 2007. $2$-reflective hyperbolic lattices of rank $4$
-     + R. Scharlau, 1989. Reflective isotropic hyperbolic lattices
-     + N.V. Bogachev, 2016-2017. $(1.2)$-reflective anisotropic hyperbolic lattices of rank $4$
+     + R. Scharlau, 1989. Reflective isotropic hyperbolic lattices. See [Sch89]
+     + N.V. Bogachev, 2016-2017. $(1.2)$-reflective anisotropic hyperbolic lattices of rank $4$. See [B17] and [B18].
      + Anisotropic case:  $\textbf{Open Problem}$
-  - $n=4$.
-  - $n=5$.
+  - $n=4$. C. Walhorn. See [SW92] and [Wal93].
+  - $n=5$.I. Turkalj. Classification of Relective Lorentzian Lattices of Signature $(5,1)$.
   - $n \ge 6$. $\quad \textbf{Open Problem}$
      
-2. $K = \mathbb{Q}[\sqrt{2}]$
+2. $K = \mathbb{Q}[\sqrt{2}]$.
+
+  - $n=2$. A. Mark. Classification of Reflective Hyperbolic Lattices of rank $3$.
+  - $n \ge 3$. $\quad \textbf{Open Problem}$
+
 3. $K = \mathbb{Q}[\sqrt{5}]$
 4. $K = \mathbb{Q}[\cos(2\pi/7)]$
 5. Other Fields. $\textbf{Open Problem}$.
@@ -138,6 +142,12 @@ lattices of rank $4$. Izv.Math., 2018.
 [Nik09]
 
 [Nik11]
+
+[Sch89]
+
+[SW92]
+
+[Wal93]
 
 [Ven37] B.A. Venkov. 
 
