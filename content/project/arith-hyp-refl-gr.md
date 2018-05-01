@@ -114,17 +114,29 @@ In 1972 (see [Vin72] and [Vin73]), Vinberg proposed an affective algorithm of co
 5. Other Ground Fields. $\textbf{Open Problem}$.
 
 
+## Methods of Classification
+
+(Under construction...)
+
+-  Nikulin's ideas. See [Nik00].
+-  Allcock's methods. See [All12] and [Mar17].
+-  Scharlau's approach for isotropic lattices. See [Sch89], [SW92], [W93] and [Tur89].
+-  Vinberg's Method for Lattices of Rank $4$. See [Vin07]
+-  Spectral Method. See [Bel16].
+-  Method of the outermost edge. See [B17] and [B18].
+
+
 ## Open Problems
 
-1. Classification of reflective hyperbolic lattices with ground fields other than Q.
+1. Classification of reflective hyperbolic lattices with ground fields other than $\mathbb{Q}$.
 
 2. Find the list of all possible ground fields of arithmetic hyperbolic reflection groups.
 
 3. Improve the upper bounds for degrees of ground fields of arithmetic hyperbolic reflection groups.
 
-4. Classification of reflective anisotropic hyperbolic lattices over Q of rank 4. 
+4. Classification of reflective anisotropic hyperbolic lattices over $\mathbb{Q}$ of rank 4. 
 
-5. Classification of reflective anisotropic hyperbolic lattices over Q of ranks more than 6. 
+5. Classification of reflective anisotropic hyperbolic lattices over $\mathbb{Q}$ of ranks more than 6. 
 
 6. Efficient software implementation of Vinberg's Algorithm.
 
