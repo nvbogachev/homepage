@@ -56,8 +56,8 @@ caption = "My caption :smile:"
 In 1972 (see [Vin72] and [Vin73]), Vinberg proposed an affective algorithm of constructing the fundamental polyhedron $P$ for hyperbolic reflection group. It works for each reflection group, but is efficient only for groups of the form $O_r (L)$.
 
 - See here the [brief](VA-Descr.pdf) description.
-- R. Guglielmetti's implementation for hyperbolic lattices (over a series of ground fields) with an orthogonal basis (the program with the documentation is available here, and also some information you can find in [Gugl17])
-- Sowtware implementation by Bogachev and Perepechko for arbitrary integral hyperbolic lattices (the [program](https://github.com/aperep/vinberg-algorithm), some [brief description](VA-Implementation)). See also the paper [BP18].
+- R. Guglielmetti's implementation for hyperbolic lattices (over a series of ground fields) with an orthogonal basis (the program with the documentation is available [here](https://rgugliel.github.io/AlVin/), and also some information you can find in [[Gugl17]](http://homeweb1.unifr.ch/kellerha/pub/DissRGuglielmetti-final.pdf))
+- Sowtware implementation by Bogachev and Perepechko for arbitrary integral hyperbolic lattices (the [program](https://github.com/aperep/vinberg-algorithm), some [brief description](VA-Implementation.pdf)). See also the paper [BP18].
 
 ## Classification results
 
@@ -130,6 +130,8 @@ Russian Mathematical Surveys, 2017, vol. 1 (433), p. 179 - 181.
 lattices of rank $4$. Izv.Math., 2018.
 
 [BP18] N.V. Bogachev, A.Ju. Perepechko --- Vinberg's Algorithm for Hyperbolic Lattices.
+
+[[Gugl17]](http://homeweb1.unifr.ch/kellerha/pub/DissRGuglielmetti-final.pdf)
 
 [LMR06]
 
