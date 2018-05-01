@@ -39,7 +39,7 @@ caption = "My caption :smile:"
 
 ## Basic definitions and facts
 
-- Suppose $\mathbb{F}$ is a totally real number field with the ring of integers $\mathbb{O}_{\mathbb{F}}$. Suppose $f(x)$ is a quadratic forms of signature $(n,1)$ defined over $\mathbb{F}$ such that for every non-identity embedding $\sigma \colon \mathbb{F} \to \mathbb{R}$ the form $f^{\sigma}$ is positive definite. Such forms $f(x)$ are said to be admissible. 
+  - Suppose $\mathbb{F}$ is a totally real number field with the ring of integers $\mathbb{O}_{\mathbb{F}}$. Suppose $f(x)$ is a quadratic forms of signature $(n,1)$ defined over $\mathbb{F}$ such that for every non-identity embedding $\sigma \colon \mathbb{F} \to \mathbb{R}$ the form $f^{\sigma}$ is positive definite. Such forms $f(x)$ are said to be admissible. 
 
   - Suppose $O'(f, \mathbb{O}_{\mathbb{F}})$ is the group of integral automorphisms (i.e. the automorphisms  with coefficients from $\mathbb{O}_{\mathbb{F}}$) of the form $f(x)$, preserving the $n$-dimensional Lobachevsky (hyperbolic) space $\mathbb{H^n}$.
   
