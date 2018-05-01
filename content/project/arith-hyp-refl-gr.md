@@ -42,19 +42,19 @@ caption = "My caption :smile:"
 
 ## Existence and Finiteness Theorems
 
-1. (Nikulin, 2007) There are only finitely many of arithmetic maximal hyperbolic reflection groups.
-2. (Vinberg, 1984) In Lobachevsky spaces $\mathbb{H}^n$ of dimension $n \ge 30$ there are no arithmetic hyperbolic reflection groups.
-3. (Vinberg, 1984) In Lobachevsky spaces $\mathbb{H}^n$ of dimension $n \ge 22$  there are no arithmetic hyperbolic reflection groups with a ground field other than $\Q(\sqrt{2})$, $\Q(\sqrt{5})$ and $\Q(\cos(2\pi/7))$. 
-4. (Vinberg, 1984) In Lobachevsky spaces $\HH^n$ of dimension $n \ge 14$  there are no arithmetic hyperbolic reflection groups with a ground field other than $\Q(\sqrt{2})$, $\Q(\sqrt{3})$, $\Q(\sqrt{5})$, $\Q(\sqrt{6})$, $\Q(\sqrt{2}, \sqrt{3})$, $\Q(\sqrt{2}, \sqrt{5})$ and $\Q(\cos(2\pi/m))$, where $m=7,9,11,15,16,$ or $20$.
-5. (Nikulin, 2011) In the Lobachevsky spaces $\HH^n$ of dimension $4 \leq n \leq 13$ the degree $d = [\mathbb{F} : \mathbb{Q}]$ is at most $25$.
-6. (Belolipetsky, 2011) In the Lobachevsky space $\HH^3$ the degree $d$ is at most $9$.
-7. (Linowitz, 2017) In the Lobachevsky plane $\HH^2$ the degree $d$ is at most $7$.
+1. (Nikulin, 2007) There are only finitely many of arithmetic maximal hyperbolic reflection groups. See [Nik07].
+2. (Vinberg, 1984) In Lobachevsky spaces $\mathbb{H}^n$ of dimension $n \ge 30$ there are no arithmetic hyperbolic reflection groups. See [Vin84].
+3. (Vinberg, 1984) In Lobachevsky spaces $\mathbb{H}^n$ of dimension $n \ge 22$  there are no arithmetic hyperbolic reflection groups with a ground field other than $\Q(\sqrt{2})$, $\Q(\sqrt{5})$ and $\Q(\cos(2\pi/7))$. See [Vin84].
+4. (Vinberg, 1984) In Lobachevsky spaces $\HH^n$ of dimension $n \ge 14$  there are no arithmetic hyperbolic reflection groups with a ground field other than $\Q(\sqrt{2})$, $\Q(\sqrt{3})$, $\Q(\sqrt{5})$, $\Q(\sqrt{6})$, $\Q(\sqrt{2}, \sqrt{3})$, $\Q(\sqrt{2}, \sqrt{5})$ and $\Q(\cos(2\pi/m))$, where $m=7,9,11,15,16,$ or $20$. See [Vin84].
+5. (Nikulin, 2011) In the Lobachevsky spaces $\HH^n$ of dimension $4 \leq n \leq 13$ the degree $d = [\mathbb{F} : \mathbb{Q}]$ is at most $25$. See [Nik11].
+6. (Belolipetsky, 2011) In the Lobachevsky space $\HH^3$ the degree $d$ is at most $9$. See [Bel11].
+7. (Linowitz, 2017) In the Lobachevsky plane $\HH^2$ the degree $d$ is at most $7$. See [Lin17].
 
 
 ## Vinberg's Algorithm
-- See here the brief description.
+- See here the [brief](VA-Descr.pdf) description.
 - R. Guglielmetti's implementation for hyperbolic lattices (over a series of ground fields) with an orthogonal basis (the program with the documentation is available here, and also some information you can find in [Gugl17])
-- Sowtware implementation by Bogachev and Perepechko for arbitrary integral hyperbolic lattices (the program, some brief description). See also the paper [BP18].
+- Sowtware implementation by Bogachev and Perepechko for arbitrary integral hyperbolic lattices (the [program](https://github.com/aperep/vinberg-algorithm), some [brief description](VA-Implementation)). See also the paper [BP18].
 
 ## Classification results
 
@@ -65,8 +65,8 @@ caption = "My caption :smile:"
 
   - $n=2$.
 
-     + V. Nikulin, 2000 
-     + D. Allcock, 2012
+     + V. Nikulin, 2000. Classification of reflective lattices of rank $3$ with square free discriminants. See [Nik00]
+     + D. Allcock, 2012. Full classification of Reflective Lorentzian Lattices of Rank $3$. See [All12]
 
   - $n=3$.
      + E.B. Vinberg, 2007. $2$-reflective hyperbolic lattices of rank $4$
@@ -100,7 +100,12 @@ caption = "My caption :smile:"
 
 ## References
 
-[All12] D.Allcock
+[Agol06] Ian Agol, 
+
+[All12] D.~Allcock, The Reflective Lorentzian Lattices of Rank $3$, in Mem.Amer.Math.Soc.
+(Amer.Math.Soc., Providence, RI, 2012), Vol. 220, No. 1033.
+
+[Bel11]
 
 [[Bel16]](http://www.ams.org/journals/bull/2016-53-03/S0273-0979-2016-01530-8/S0273-0979-2016-01530-8.pdf)
 M. Belolipetsky --- Arithmetic hyperbolic reflection groups
@@ -114,6 +119,12 @@ lattices of rank $4$. Izv.Math., 2018.
 
 [BP18] N.V. Bogachev, A.Ju. Perepechko --- Vinberg's Algorithm for Hyperbolic Lattices.
 
+[LMR06]
+
+[Lin17] Linowitz
+
+[Nik79]
+
 [Nik80]
 
 [Nik81]
@@ -121,6 +132,12 @@ lattices of rank $4$. Izv.Math., 2018.
 [Nik00]
 
 [Nik07]
+
+[Nik08]
+
+[Nik09]
+
+[Nik11]
 
 [Ven37] B.A. Venkov. 
 
