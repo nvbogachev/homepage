@@ -44,7 +44,7 @@ caption = "My caption :smile:"
 
 1. (Nikulin, 2007) There are only finitely many of arithmetic maximal hyperbolic reflection groups. See [Nik07].
 2. (Vinberg, 1984) In Lobachevsky spaces $\mathbb{H}^n$ of dimension $n \ge 30$ there are no arithmetic hyperbolic reflection groups. See [Vin84].
-3. (Vinberg, 1984) In Lobachevsky spaces $\mathbb{H}^n$ of dimension $n \ge 22$  there are no arithmetic hyperbolic reflection groups with a ground field other than $\Q(\sqrt{2})$, $\Q(\sqrt{5})$ and $\Q(\cos(2\pi/7))$. See [Vin84].
+3. (Vinberg, 1984) In Lobachevsky spaces $\mathbb{H}^n$ of dimension $n \ge 22$  there are no arithmetic hyperbolic reflection groups with a ground field other than $\mathbb{Q}(\sqrt{2})$, $\mathbb{Q}(\sqrt{5})$ and $\mathbb{Q}(\cos(2\pi/7))$. See [Vin84].
 4. (Vinberg, 1984) In Lobachevsky spaces $\mathbb{H}^n$ of dimension $n \ge 14$  there are no arithmetic hyperbolic reflection groups with a ground field other than $\mathbb{Q}(\sqrt{2})$, $\mathbb{Q}(\sqrt{3})$, $\mathbb{Q}(\sqrt{5})$, $\mathbb{Q}(\sqrt{6})$, $\mathbb{Q}(\sqrt{2}, \sqrt{3})$, $\mathbb{Q}(\sqrt{2}, \sqrt{5})$ and $\mathbb{Q}(\cos(2\pi/m))$, where $m=7,9,11,15,16,$ or $20$. See [Vin84].
 5. (Nikulin, 2011) In the Lobachevsky spaces $\mathbb{H}^n$ of dimension $4 \leq n \leq 13$ the degree $d = [\mathbb{F} : \mathbb{Q}]$ is at most $25$. See [Nik11].
 6. (Belolipetsky, 2011) In the Lobachevsky space $\mathbb{H}^3$ the degree $d$ is at most $9$. See [Bel11].
@@ -52,6 +52,9 @@ caption = "My caption :smile:"
 
 
 ## Vinberg's Algorithm
+
+In 1972 (see [Vin72] and [Vin73]), Vinberg proposed an affective algorithm of constructing the fundamental polyhedron $P$ for hyperbolic reflection group. It works for each reflection group, but is efficient only for groups of the form $O_r (L)$.
+
 - See here the [brief](VA-Descr.pdf) description.
 - R. Guglielmetti's implementation for hyperbolic lattices (over a series of ground fields) with an orthogonal basis (the program with the documentation is available here, and also some information you can find in [Gugl17])
 - Sowtware implementation by Bogachev and Perepechko for arbitrary integral hyperbolic lattices (the [program](https://github.com/aperep/vinberg-algorithm), some [brief description](VA-Implementation)). See also the paper [BP18].
@@ -59,7 +62,7 @@ caption = "My caption :smile:"
 ## Classification results
 
 1. $K = \mathbb{Q}$
-  + V.V. Nikulin, 1981,1984. $2$-reflective hyperbolic lattices (for all $1 < n < 21$ and $n \ne 4$). 
+  + V.V. Nikulin, 1979,1981,1984. $2$-reflective hyperbolic lattices (for all $1 < n < 21$ and $n \ne 4$). 
   + E.Vinberg, 1972. Unimodular reflective hyperbolic lattices (reflective for all $n \le 19$).
   
 
@@ -73,8 +76,9 @@ caption = "My caption :smile:"
      + R. Scharlau, 1989. Reflective isotropic hyperbolic lattices. See [Sch89]
      + N.V. Bogachev, 2016-2017. $(1.2)$-reflective anisotropic hyperbolic lattices of rank $4$. See [B17] and [B18].
      + Anisotropic case:  $\textbf{Open Problem}$
+
   - $n=4$. C. Walhorn. See [SW92] and [Wal93].
-  - $n=5$.I. Turkalj. Classification of Relective Lorentzian Lattices of Signature $(5,1)$.
+  - $n=5$. I. Turkalj. Classification of Relective Lorentzian Lattices of Signature $(5,1)$.
   - $n \ge 6$. $\quad \textbf{Open Problem}$
      
 2. $K = \mathbb{Q}[\sqrt{2}]$.
@@ -106,13 +110,17 @@ caption = "My caption :smile:"
 
 [Agol06] Ian Agol, 
 
-[All12] D.~Allcock, The Reflective Lorentzian Lattices of Rank $3$, in Mem.Amer.Math.Soc.
+[ABSW08]
+
+[All12] D. Allcock, The Reflective Lorentzian Lattices of Rank $3$, in Mem.Amer.Math.Soc.
 (Amer.Math.Soc., Providence, RI, 2012), Vol. 220, No. 1033.
 
 [Bel11]
 
 [[Bel16]](http://www.ams.org/journals/bull/2016-53-03/S0273-0979-2016-01530-8/S0273-0979-2016-01530-8.pdf)
 M. Belolipetsky --- Arithmetic hyperbolic reflection groups
+
+[BHC62] A. Borel and Harish-Chandra. 
 
 [[B17]](http://www.turpion.org/php/paper.phtml?journal_id=rm&paper_id=5044)
 N.V. Bogachev --- Reflective anisotropic hyperbolic lattices of rank 4, 
@@ -126,6 +134,10 @@ lattices of rank $4$. Izv.Math., 2018.
 [LMR06]
 
 [Lin17] Linowitz
+
+[Mar17]
+
+[MT62]
 
 [Nik79]
 
@@ -150,6 +162,12 @@ lattices of rank $4$. Izv.Math., 2018.
 [Wal93]
 
 [Ven37] B.A. Venkov. 
+
+[Vin72]
+
+[Vin73]
+
+[Vin84]
 
 [[Vin85]](http://iopscience.iop.org/article/10.1070/RM1985v040n01ABEH003527/meta)
 E.B. Vinberg --- Hyperbolic reflection groups, Russian Mathematical Surveys, 1985, vol. 40, p. 31 - 75.
