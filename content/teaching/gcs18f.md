@@ -3,7 +3,7 @@
 date = "2016-04-27"
 
 # Project title.
-title = "Geometry in Computer Science (in Russian), Spring 2018"
+title = "Geometry in Computer Science (in Russian), Fall 2018"
 
 # Project summary to display on homepage.
 #summary = "Lorem ipsum dolor sit amet, consectetur adipiscing elit."
@@ -13,7 +13,7 @@ title = "Geometry in Computer Science (in Russian), Spring 2018"
 
 # Tags: can be used for filtering projects.
 # Example: `tags = ["machine-learning", "deep-learning"]`
-tags = ["gcs17os"]
+tags = ["gcs18f"]
 
 # Optional external URL for project (replaces project detail page).
 external_link = ""
