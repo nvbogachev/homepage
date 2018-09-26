@@ -47,7 +47,17 @@ Here is the page of my course "Geometry in Computer Science", which I'm reading 
 
 ## Лекции
 
-[Лекция 1.](Lecture-1.pdf) 05.09.2018. Введение. Симплициальные комплексы. Сетки на поверхностях.
+[Лекция 1.](Lecture-1.pdf) 05.09.2018. Введение. Геометрия плоских кривых.
+
+[Лекция 2.](Lecture-2.pdf) 12.09.2018. Введение. Геометрия пространственных кривых и поверхностей.
+
+
+## Семинары
+
+[Семинар 1.](1-exercises.pdf) Плоские кривые.
+
+[Семинар 2.](2-exercises.pdf) Пространственные кривые и поверхности.
+
 
 ## Список литературы
 
@@ -55,4 +65,14 @@ Here is the page of my course "Geometry in Computer Science", which I'm reading 
 [[1]](http://www.cs.cmu.edu/~kmcrane/Projects/DGPDEC/paper.pdf) Keenan Crane --- Discrete Differential Geometry: An Applied Introduction, 2017.
 
 [[2]](Alexander_I._Bobenko.pdf) A.I. Bobenko, P. Schröder, J.M. Sullivan, G. Ziegler (ed.) --- Discrete Differential Geometry, 2008.
+
+[[3]](https://www.ozon.ru/context/detail/id/138649973/) В.И. Арнольд --- Математические методы классической механики, 2017, Москва, URSS, 5-е изд.
+
+[4] В.И. Богачев, О.Г. Смолянов --- Действительный и функциональный анализ:
+университетский курс, 2-е изд., М-Ижевск, 2011.
+
+[[5]](https://market.yandex.ru/product--a-o-ivanov-a-a-tuzhilin-lektsii-po-klassicheskoi-differentsialnoi-geometrii/4585892) А.О. Иванов, А.А. Тужилин --- Лекции по классической дифференциальной геометрии, 2009, Москва, Логос.
+
+[6] А.О. Иванов, А.А. Тужилин --- Дифференциальная геометрия и топология, 2011, Москва.
+
 
