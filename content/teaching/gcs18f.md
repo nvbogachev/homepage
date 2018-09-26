@@ -68,7 +68,7 @@ Here is the page of my course "Geometry in Computer Science", which I'm reading 
 
 ## Лабораторные
 
-1. [Поток кривизны плоской кривизны](https://share.cocalc.com/share/26cbe64f-ec14-4685-925f-67f6b606b0ff/practice/curvature-flow/Задание.md?viewer=share) Дедлайн: 01:20 ночи 07.10.2018.
+1. [Поток кривизны плоской кривизны.](https://share.cocalc.com/share/26cbe64f-ec14-4685-925f-67f6b606b0ff/practice/curvature-flow/Задание.md?viewer=share) Дедлайн: 01:20 ночи 07.10.2018.
 
 ## Список литературы
 
