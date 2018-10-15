@@ -46,3 +46,7 @@ caption = "My caption :smile:"
 
 Более подробное описание доступно в этом [PDF](Bogachev-NIR.pdf).
 
+См. также черновик моей [диссертации](Bogachev-PhD-2018.pdf).
+
+
+
