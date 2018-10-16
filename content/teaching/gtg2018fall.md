@@ -3,7 +3,7 @@
 date = "2016-04-27"
 
 # Project title.
-title = "Geometry in Computer Science (in Russian), Fall 2018"
+title = "Geometries and Transformation Groups (in Russian), Fall 2018"
 
 # Project summary to display on homepage.
 #summary = "Lorem ipsum dolor sit amet, consectetur adipiscing elit."
@@ -13,7 +13,7 @@ title = "Geometry in Computer Science (in Russian), Fall 2018"
 
 # Tags: can be used for filtering projects.
 # Example: `tags = ["machine-learning", "deep-learning"]`
-tags = ["gcs18f"]
+tags = ["gtg2018fall"]
 
 # Optional external URL for project (replaces project detail page).
 external_link = ""
@@ -47,7 +47,17 @@ Associate Professor A. Perepechko).
 
 ## Семинары
 
-Задача, сданная на семинаре, стоит 1 балл. Задача, сделанная дома, стоит 0.75 балла. Задачи со звёздочкой стоят вдвое больше. Если задача была разобрана на семинаре, то с домашнего задания она снимается. На дом остаются все задачи, не сделанные или не разобранные на семинаре. Домашние задания собираются прямо перед семинаром, убираются со стола и больше не принимаются. Избранные задачи из ДЗ будем разбирать.
+1. 13.10.2018. Многомерные аффинные и векторные пространства.
+  - [Листок с задачами.](1-exercises.pdf) Многомерные аффинные и векторные пространства.
+  - См. неформальное введение и главы 1,3,4,5,6 книги А.Л. Городенцева [2].
+  - См. главы 1,2,5 книги Э.Б. Винберга [1].
 
 
-[Семинар 1.](1-exercises.pdf) Многомерные аффинные и векторные пространства.
+
+## Литература
+
+[1] Э.Б. Винберг. "Курс алгебры".
+
+[[2]](http://gorod.bogomolov-lab.ru/ps/stud/geom_ru/1617/lec_total.pdf) А.Л. Городенцев. "Геометрия".
+
+
