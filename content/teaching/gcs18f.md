@@ -47,6 +47,8 @@ Here is the page of my course "Geometry in Computer Science", which I'm reading 
 2. Лабораторные.
 3. Теоретическая контрольная в ноябре.
 
+За результатами можно следить [здесь](https://docs.google.com/spreadsheets/d/e/2PACX-1vTUW4TooGxO8A8imoPbxhMXVmMV7xx-m8D60b4eg3krfLHHcjHEiKNXUT9NTTva_vILSj_rcx5IPLo7/pubhtml#).
+
 Основным источником материалов являются слайды и конспекты лекций, а также книга американского профессора [Keenan Crane](http://www.cs.cmu.edu/~kmcrane/). Это [ссылка](http://brickisland.net/DDGFall2017/) на страницу его курса со слайдами лекций и упражнениями.
 
 ## Лекции
@@ -71,6 +73,9 @@ Here is the page of my course "Geometry in Computer Science", which I'm reading 
 [Семинар 3.](3-exercises.pdf) Поверхности. I квадратичная форма.
 
 [Семинар 4.](4-exercises.pdf) Поверхности. II квадратичная форма.
+
+[Семинар 5.](5-exercises.pdf) Симплициальные комплексы и дискретные поверхности.
+
 
 ## Лабораторные
 
