@@ -67,7 +67,7 @@ Here is the page of my course "Geometry in Computer Science", which I'm reading 
 
 Лекция 7. 29.11.2018. Дискретный Лапласиан и его приложения: сглаживание и деформация.
 
-  - [Слайды](LaplaceAnchors.pdf) лекции на англ. яз. (автор Keenan Crane).
+  - [Слайды](LaplaceAnchors.pdf) лекции на англ. яз. (авторы Sorkine et al.)
   - [Конспект](lec07.pdf) на русском языке.
 
 
@@ -92,7 +92,7 @@ Here is the page of my course "Geometry in Computer Science", which I'm reading 
 
 [Семинар 8.](8-exercises.pdf) Повторение.
 
-[Семинар 9.](9-exercises.pdf) Внешние и дифференциальные формы.
+[Семинар 9.](9-exercises.pdf) Дискретные внешние формы.
 
 
 ## Лабораторные
