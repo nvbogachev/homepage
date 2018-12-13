@@ -47,13 +47,17 @@ This is a page of my course for the $1^{st}$ year students of Master's Program "
 
 ## Seminars & Problems
 
-[Seminar 1](Seminar-1.pdf). 07.11.2017. Affine and Vector Spaces. 
+[Problem Set 1](Seminar-1.pdf). Affine and Vector Spaces. 
+
+[Problem Set 2](Seminar-2.pdf). Linear Maps and Bilinear Functions. 
+
+[Problem Set 3](Seminar-3.pdf). Quadratic Forms and Symmetric Bilinear Functions.
 
 
 
 ## Seminar Results
 
-
+See the tables [here](https://docs.google.com/spreadsheets/d/e/2PACX-1vREq9gSMVnXaIirmaI4Q6Dxj_PW1pB5hpoAPBoIcunpArg0IFGD_DcwMhTWu_juNwIzxIQugU4b_RY7/pubhtml).
 
 
 ## References
