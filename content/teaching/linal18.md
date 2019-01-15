@@ -53,6 +53,9 @@ This is a page of my course for the $1^{st}$ year students of Master's Program "
 
 [Problem Set 3](Seminar-3.pdf). Quadratic Forms and Symmetric Bilinear Functions.
 
+[Problem Set 4](ProblemSet4.pdf). Euclidean Spaces.
+
+[Problem Set 5](ProblemSet5.pdf). Linear Operators.
 
 
 ## Seminar Results
