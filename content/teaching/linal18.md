@@ -57,6 +57,7 @@ This is a page of my course for the $1^{st}$ year students of Master's Program "
 
 [Problem Set 5](ProblemSet5.pdf). Linear Operators.
 
+[Problem Set 6](ProblemSet6.pdf). Linear Operators-2.
 
 ## Seminar Results
 
