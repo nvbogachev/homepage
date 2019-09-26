@@ -25,10 +25,11 @@ weight = 1
 
 
 # List your qualifications (such as academic degrees).
-#[[education.courses]]
-#  course = "PhD in Mathematics"
-#  institution = "Lomonosov Moscow State University"
-#  year = 2018
+
+[[education.courses]]
+  course = "PhD in Mathematics"
+  institution = "Higher School of Economics"
+  year = 2019
 
 #[[education.courses]]
 #  course = "MEng in Artificial Intelligence"
@@ -44,7 +45,7 @@ weight = 1
 
 # Biography
 
-I am a mathematician with research interests in Hyperbolic Geometry and Geometry of Discrete Reflection Groups. In 2014 I graduated from Moscow State University under the supervision of [Professor E.B. Vinberg](http://halgebra.math.msu.su/wiki/doku.php/staff:vinberg:english) (see also [here](http://www.ams.org/distribution/mmj/vol8-4-2008/vinberg-birthday.html)). My PhD under his supervision will be finished in 2018. Currently I am a Lecturer and a Research Scientist at MIPT. 
+I am a mathematician with research interests in Hyperbolic Geometry and Geometry of Discrete Reflection Groups. In 2014 I graduated from Moscow State University under the supervision of [Professor E.B. Vinberg](http://halgebra.math.msu.su/wiki/doku.php/staff:vinberg:english) (see also [here](http://www.ams.org/distribution/mmj/vol8-4-2008/vinberg-birthday.html)). My [PhD thesis](pdf/Bogachev-PhD-2018.pdf) under his supervision was successfully defended in March 2019. Currently I am a Lecturer and a Research Scientist at MIPT. 
 
 In 2017 and 2018 I received the Simons Foundation Prize for PhD students. Here you can find my [CV](pdf/cv-Bogachev-NV.pdf), papers, information about my projects and the materials of my teaching courses.
 
