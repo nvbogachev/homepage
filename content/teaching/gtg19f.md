@@ -9,7 +9,7 @@ title = "Geometries and Transformation Groups (in Russian), Fall 2019"
 #summary = "Lorem ipsum dolor sit amet, consectetur adipiscing elit."
 
 # Optional image to display on homepage (relative to `static/img/` folder).
-#image_preview = "bubbles.jpg"
+image_preview = "GeomGroupsPoster2019.png"
 
 # Tags: can be used for filtering projects.
 # Example: `tags = ["machine-learning", "deep-learning"]`
@@ -22,8 +22,8 @@ external_link = ""
 math = true
 
 # Optional featured image (relative to `static/img/` folder).
-[header] 
-image = "GeomGroupsPoster2019.png"
+#[header] 
+#image = "GeomGroupsPoster2019.png"
 
 #url = "pdf/cv-Bogachev-NV.pdf"
 caption = "My caption :smile:"
