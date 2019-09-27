@@ -22,8 +22,8 @@ external_link = ""
 math = true
 
 # Optional featured image (relative to `static/img/` folder).
-#[header] 
-#image = "GeomGroupsPoster2019.png"
+[header] 
+image = "GeomGroupsPoster2019.png"
 
 #url = "pdf/cv-Bogachev-NV.pdf"
 caption = "My caption :smile:"
