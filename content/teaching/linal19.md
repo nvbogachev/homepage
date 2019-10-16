@@ -58,21 +58,21 @@ This is a preliminary version of the program. Some small changes are possible du
 ## Lectures (Weeks)
 
 Week1:  
-- Overview: [video]()
-- Preliminaries: 
-  +[video]()
-  +[slides]()
-- Vector Spaces:
-  +[video]()
-  +[slides]()
+  - Overview: [video]()
+  - Preliminaries: 
+    +[video]()
+    +[slides]()
+  - Vector Spaces:
+    +[video]()
+    +[slides]()
 
 Week2:
-- Affine Spaces:
-+[video]()
-+[slides]()
-- Euclidean Affine Geometry:
-+[video]()
-+[slides]()
+  - Affine Spaces:
+    +[video]()
+    +[slides]()
+  - Euclidean Affine Geometry:
+    +[video]()
+    +[slides]()
 
 
 
