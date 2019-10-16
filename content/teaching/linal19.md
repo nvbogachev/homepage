@@ -63,9 +63,9 @@ This is a preliminary version of the program. Some small changes are possible du
   
   1.2. Preliminaries: 
     
-    - [video](https://drive.google.com/open?id=1c5HGBmk3aC7VQPSaMakeujZyMYuC7DxD) 14min
+    1.2.1. [video](https://drive.google.com/open?id=1c5HGBmk3aC7VQPSaMakeujZyMYuC7DxD) 14min
     
-    - [slides](Preliminaries.pdf)
+    1.2.2. [slides](Preliminaries.pdf)
   
   1.3. Vector Spaces:
     
@@ -80,9 +80,9 @@ This is a preliminary version of the program. Some small changes are possible du
     + [slides](Vector-Spaces.pdf)
 
 2. Week2:
-  - Affine Spaces:
+  2.1. Affine Spaces:
 
-  - Euclidean Affine Geometry:
+  2.2. Euclidean Affine Geometry:
     
 
 
