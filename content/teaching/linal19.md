@@ -63,26 +63,27 @@ This is a preliminary version of the program. Some small changes are possible du
   
   - Preliminaries: 
     
-    a. [video](https://drive.google.com/open?id=1c5HGBmk3aC7VQPSaMakeujZyMYuC7DxD) 14min
+      + [video](https://drive.google.com/open?id=1c5HGBmk3aC7VQPSaMakeujZyMYuC7DxD) 14min
     
-    b. [slides](Preliminaries.pdf)
+      + [slides](Preliminaries.pdf)
   
   - Vector Spaces:
     
-    a. [video1](https://drive.google.com/open?id=10gXaqtOVew0PuxqzJAdbSqVr78kUQIEH) 15min
+      + [video1](https://drive.google.com/open?id=10gXaqtOVew0PuxqzJAdbSqVr78kUQIEH) 15min
     
-    b. [video2](https://drive.google.com/open?id=198UGEKh02KFiR6fJjM5PM6hGH0qe6AMA) 20min
+      + [video2](https://drive.google.com/open?id=198UGEKh02KFiR6fJjM5PM6hGH0qe6AMA) 20min
     
-    + [video3](https://drive.google.com/open?id=1WwplLSVWWgI-6AMPu48L0HEIIcenbhxy) 5min
+      + [video3](https://drive.google.com/open?id=1WwplLSVWWgI-6AMPu48L0HEIIcenbhxy) 5min
 
-    + [video4](https://drive.google.com/open?id=19NsXVAumF8YBdQMBEJs2t_pPgKGngZUd) 7min
+      + [video4](https://drive.google.com/open?id=19NsXVAumF8YBdQMBEJs2t_pPgKGngZUd) 7min
 
-    + [slides](Vector-Spaces.pdf)
+      + [slides](Vector-Spaces.pdf)
 
 2. Week2:
-  2.1. Affine Spaces:
+  
+  - Affine Spaces:
 
-  2.2. Euclidean Affine Geometry:
+  - Euclidean Affine Geometry:
     
 
 
