@@ -44,7 +44,7 @@ I wish you to experience the process of mathematical discovery during the course
 
 This is a preliminary version of the program. Some small changes are possible during the semester.
 
-1. Vector Spaces. Basis. Dimension. Linear Independence. Linear Maps. Coordinates.
+1. Vector Spaces. Linear Independence. Basis. Dimension. Linear Maps. Coordinates.
 2. Affine Spaces. Affine Hull. Euclidean Affine Geometry. Affine Transformations and Motions.
 3. Bilinear Functions (Forms).
 4. Symmetric Bilinear Functions (Forms). Quadratic Forms. Inertial Law. Orthogonal Basis for Symmetric Bilinear Forms. 
@@ -57,16 +57,17 @@ This is a preliminary version of the program. Some small changes are possible du
 
 ## Lectures (Weeks)
 
-Week1:  
+1. Week1: Preliminaries. Vector Spaces. Linear Independence. Basis. Dimension. Linear Maps. Coordinates.
+
   - Overview: [video]()
   - Preliminaries: 
     +[video]()
-    +[slides]()
+    +[slides](Preliminaries.pdf)
   - Vector Spaces:
     +[video]()
-    +[slides]()
+    +[slides](Vector-Spaces.pdf)
 
-Week2:
+2. Week2:
   - Affine Spaces:
     +[video]()
     +[slides]()
