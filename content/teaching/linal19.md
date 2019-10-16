@@ -59,15 +59,15 @@ This is a preliminary version of the program. Some small changes are possible du
 
 1. Week1: Preliminaries. Vector Spaces. Linear Independence. Basis. Dimension. Linear Maps. Coordinates.
 
-  + Overview: [video](https://drive.google.com/open?id=14EhIg8xC5tdWFNvg7z9bMUR2Ga2BmdJS) 2min
+  1.1. Overview: [video](https://drive.google.com/open?id=14EhIg8xC5tdWFNvg7z9bMUR2Ga2BmdJS) 2min
   
-  + Preliminaries: 
+  1.2. Preliminaries: 
     
     - [video](https://drive.google.com/open?id=1c5HGBmk3aC7VQPSaMakeujZyMYuC7DxD) 14min
     
     - [slides](Preliminaries.pdf)
   
-  + Vector Spaces:
+  1.3. Vector Spaces:
     
     + [video1](https://drive.google.com/open?id=10gXaqtOVew0PuxqzJAdbSqVr78kUQIEH) 15min
     
