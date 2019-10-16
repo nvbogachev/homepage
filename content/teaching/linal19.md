@@ -61,9 +61,12 @@ This is a preliminary version of the program. Some small changes are possible du
 
   - Overview: [video](https://drive.google.com/open?id=14EhIg8xC5tdWFNvg7z9bMUR2Ga2BmdJS) 2min
   - Preliminaries: 
-    -- [video](https://drive.google.com/open?id=1c5HGBmk3aC7VQPSaMakeujZyMYuC7DxD) 14min
-    -- [slides](Preliminaries.pdf)
-  - Vector Spaces:
+
+[video](https://drive.google.com/open?id=1c5HGBmk3aC7VQPSaMakeujZyMYuC7DxD) 14min
+    
+[slides](Preliminaries.pdf)
+
+- Vector Spaces:
     ++ [video1](https://drive.google.com/open?id=10gXaqtOVew0PuxqzJAdbSqVr78kUQIEH) 15min
     ++ [video2](https://drive.google.com/open?id=198UGEKh02KFiR6fJjM5PM6hGH0qe6AMA) 20min
     ++ [video3](https://drive.google.com/open?id=1WwplLSVWWgI-6AMPu48L0HEIIcenbhxy) 5min
