@@ -63,9 +63,9 @@ This is a preliminary version of the program. Some small changes are possible du
   
   - Preliminaries: 
     
-    + [video](https://drive.google.com/open?id=1c5HGBmk3aC7VQPSaMakeujZyMYuC7DxD) 14min
+    -+ [video](https://drive.google.com/open?id=1c5HGBmk3aC7VQPSaMakeujZyMYuC7DxD) 14min
     
-    + [slides](Preliminaries.pdf)
+    -+ [slides](Preliminaries.pdf)
   
   - Vector Spaces:
     
