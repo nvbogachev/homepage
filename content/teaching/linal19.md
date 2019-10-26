@@ -91,9 +91,25 @@ This is a preliminary version of the program. Some small changes are possible du
 2. Week2:
   
   - Affine Spaces:
+      
+      + [video:](https://drive.google.com/open?id=1bORHzbg0Hr0a3eH8JC8c7dtyA8CbWd67) 21 min
+
+      + [slides]
 
   - Euclidean Affine Geometry:
+
+      + [video](https://drive.google.com/open?id=1nej49JRqE6Vr8P7IQtt8AtbRVGrDJ3oA) 31 min
+
+      + [slides]
+
+  - Affine Maps:
+
+  - Affine Transformations:
+
+      + [video:](https://drive.google.com/open?id=1W1wU_ZDJcwj9DQu-sLVvML3ee4IPWbS8) 11 min
     
+
+3. Week3:
 
 
 
