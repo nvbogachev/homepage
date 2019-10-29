@@ -135,7 +135,9 @@ This is a preliminary version of the program. Some small changes are possible du
 
 ## Seminars & Problems
 
-[Problem Set 1](ProblemSet1.pdf). Vector Spaces. 
+[Problem Set 1](ProblemSet1.pdf). Vector Spaces.
+
+[Problem Set 2](ProblemSet2.pdf). Affine Spaces, Maps and Transformations.
 
 
 ## Seminar Results
