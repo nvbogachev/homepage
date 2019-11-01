@@ -121,6 +121,10 @@ This is a preliminary version of the program. Some small changes are possible du
 
   - Motions and Convex Sets:
 
+      + video
+
+      + [slides](Motions-ConvSets.pdf)
+
   
   - Bilinear Forms:
 
@@ -128,6 +132,12 @@ This is a preliminary version of the program. Some small changes are possible du
 
       + [slides](Bilinear-Forms.pdf)
 
+ 
+  - Exercises on Affine Geometry and Bilinear Forms:
+
+      + video
+
+      + [slides](Exercises-AffGeo-Forms.pdf)
 
 
 
@@ -138,6 +148,8 @@ This is a preliminary version of the program. Some small changes are possible du
 [Problem Set 1](ProblemSet1.pdf). Vector Spaces.
 
 [Problem Set 2](ProblemSet2.pdf). Affine Spaces, Maps and Transformations.
+
+[Problem Set 3](ProblemSet3.pdf). Linear Maps, Linear Functions and Bilinear Forms.
 
 
 ## Seminar Results
@@ -150,6 +162,6 @@ This is a preliminary version of the program. Some small changes are possible du
 
 [Ax] S. Axler --- Linear Algebra Done Right.
 
-[Vi] E.B. Vinberg --- Course of Algebra, 2017, MCCME, Moscow.
+[Vi] E.B. Vinberg --- Course in Algebra, 2003, Graduate Studies in Mathematics, Volume 56. AMS.
 
 
