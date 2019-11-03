@@ -57,7 +57,7 @@ This is a preliminary version of the program. Some small changes are possible du
 2. Affine Spaces. Affine Hull. Euclidean Affine Geometry. Affine Transformations and Motions.
 3. Bilinear Functions (Forms).
 4. Symmetric Bilinear Functions (Forms). Quadratic Forms. Inertial Law. Orthogonal Basis for Symmetric Bilinear Forms. 
-5. Euclidean and Hermitian Spaces. Gram matrices.
+5. Euclidean and Hermitian Spaces. Gram matrices. Euclidean Affine Spaces. Convex Sets and Convex Polyhedra. The Minkowski-Weyl Theorem.
 6. Linear Operators. Eigenspaces.
 7. Diagonalization of Symmetric Operators. Polar Decomposition.
 8. Projective Spaces.
@@ -121,21 +121,21 @@ This is a preliminary version of the program. Some small changes are possible du
 
   - Motions and Convex Sets:
 
-      + video
+      + [video :](https://drive.google.com/open?id=1Si7Y6BJmf7TY0WOmNu_hX3vt524lcL8Y) 13 min
 
       + [slides](Motions-ConvSets.pdf)
 
   
   - Bilinear Forms:
 
-      + video
+      + [video :](https://drive.google.com/open?id=1CwoV-g3vRO72cDLqZ2Y7JENjdNOJd9v5) 12 min
 
       + [slides](Bilinear-Forms.pdf)
 
  
   - Exercises on Affine Geometry and Bilinear Forms:
 
-      + video
+      + [video :](https://drive.google.com/open?id=1oRklQPoIyq6XtDSE3OT9SiwII8tQeN85) 37 min
 
       + [slides](Exercises-AffGeo-Forms.pdf)
 
