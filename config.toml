@@ -20,8 +20,8 @@ defaultContentLanguageInSubdir = false
 
 [params]
   name = "Nikolay Vladimirovich Bogachev"
-  role = "Lecturer and Research Scientist"
-  organization = "Moscow Institute of Physics and Technology"
+  role = "Lecturer and Research Scientist (PostDoc)"
+  organization = "Skoltech & Moscow Institute of Physics and Technology"
   organization_url = "https://mipt.ru/en/"
   gravatar = false  # Get your avatar from Gravatar.com? (true/false)
   avatar = "bigPhoto.jpg"  # Specify an avatar image (in `static/img/` folder) or delete value to disable avatar.
