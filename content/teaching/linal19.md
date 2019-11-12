@@ -121,21 +121,21 @@ This is a preliminary version of the program. Some small changes are possible du
 
   - Motions and Convex Sets:
 
-      + [video :](https://drive.google.com/open?id=1IGrNSYJX-NlzbxoyAiu3fg-tjcnP--Sg) 13 min
+      + [video :](https://drive.google.com/open?id=1wu9QEco7V9-zQwC0pZQp7VCd2DKrj92b) 13 min
 
       + [slides](Motions-ConvSets.pdf)
 
   
   - Bilinear Forms:
 
-      + [video :](https://drive.google.com/open?id=1nt39bH8YXN_mTRGnjoD10rCWXlnQalDy) 12 min
+      + [video :](https://drive.google.com/open?id=1-a3jfJQStx_CALYMXiBCXK0WitwuKRfA) 12 min
 
       + [slides](Bilinear-Forms.pdf)
 
  
   - Exercises on Affine Geometry and Bilinear Forms:
 
-      + [video :](https://drive.google.com/open?id=1FSGdTRI_hhKgDO9WRwxTMyg4fET_zHs_) 37 min
+      + [video :](https://drive.google.com/open?id=1Qo1Bi5Xjn1y9ZKj1PQolmhw8bTlVxFyC) 37 min
 
       + [slides](Exercises-AffGeo-Forms.pdf)
 
