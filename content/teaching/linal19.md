@@ -140,7 +140,38 @@ This is a preliminary version of the program. Some small changes are possible du
       + [slides](Exercises-AffGeo-Forms.pdf)
 
 
+4. Week4:
 
+  - Quadratic Forms and Orthogonal Bases:
+
+      + [video:](https://drive.google.com/open?id=1aRKWhSRu9SyQn-bpL-FyXTnvdagCXHV9) 10 min
+
+      + [slides](Quadratic-Forms-Orthogonal.pdf)
+
+  - Diagonalization/Orthogonalization of Quadratic Forms:
+
+      + [video:](https://drive.google.com/open?id=1r2bI3LsyF7stqHoPRJKSLs2Bq92eGELn) 11 min
+
+      + [slides](QF-Diagonalization.pdf)
+
+
+  - Quadratic Forms over Finite Fields:
+
+      + [video:](https://drive.google.com/open?id=1AQeKtNkDq5cW7-8_TXwRa_OIvJteqGJX) 10 min
+
+      + [slides](QF-Finite-Fields.pdf)
+
+5. Week5:
+
+  - Euclidean Vector Spaces:
+
+      + [slides](Euclid-Vec-Spaces.pdf)
+
+  - Volumes and Distances in Euclidean Spaces:
+
+  - Hermitian Spaces:
+
+  - Convex Sets and Polyhedra:
 
 
 ## Seminars & Problems
