@@ -35,7 +35,7 @@ caption = "My caption :smile:"
 
 This is a page of my course for the $1^{st}$ year students of Master's Program "Advanced Combinatorics" at MIPT.
 
-What is this course about? Linear algebra is, roughly speaking, a "linear part" of the geometry of finite-dimensional spaces. It studies vector and affine spaces, linear operators and affine transformations, and Euclidean and Hermitian structures. Linear algebra has important applications in pure mathematics, computer science, physics, engineering,and many other areas. However, this subject is very interesting in itself. Its important feature is a beautiful combination of algebra and geometry. Suppose we perform some kind of transformation, such as a reflection or stretching of the space. How do geometric objects change under this transformation? And what does remain unchanged, i.e., what are the invariants of this transformation? Linear algebra provides answers to these and other similar questions.
+What is this course about? Linear algebra is, roughly speaking, a "linear part" of the geometry of finite-dimensional spaces. It studies vector and affine spaces, linear operators and affine transformations, and Euclidean and Hermitian structures. Linear algebra has important applications in pure mathematics, computer science, physics, engineering, and many other areas. However, this subject is very interesting in itself. Its important feature is a beautiful combination of algebra and geometry. Suppose we perform some kind of transformation, such as a reflection or stretching of the space. How do geometric objects change under this transformation? And what does remain unchanged, i.e., what are the invariants of this transformation? Linear algebra provides answers to these and other similar questions.
 
 The course is organized as follows. The duration of this course is approximately 10 weeks. Each week you will watch several videos with the total duration of 40-50 minutes. Each video is related to a particular topic. In addition to the theory, we shall also discuss some exercises. Moreover, weekly seminars (or webinars) and testing will accompany this course. Your final grade will be based on your test results, your homework and the final written exam.
 
@@ -121,21 +121,21 @@ This is a preliminary version of the program. Some small changes are possible du
 
   - Motions and Convex Sets:
 
-      + [video :](https://drive.google.com/open?id=1Si7Y6BJmf7TY0WOmNu_hX3vt524lcL8Y) 13 min
+      + [video :](https://drive.google.com/open?id=1IGrNSYJX-NlzbxoyAiu3fg-tjcnP--Sg) 13 min
 
       + [slides](Motions-ConvSets.pdf)
 
   
   - Bilinear Forms:
 
-      + [video :](https://drive.google.com/open?id=1CwoV-g3vRO72cDLqZ2Y7JENjdNOJd9v5) 12 min
+      + [video :](https://drive.google.com/open?id=1nt39bH8YXN_mTRGnjoD10rCWXlnQalDy) 12 min
 
       + [slides](Bilinear-Forms.pdf)
 
  
   - Exercises on Affine Geometry and Bilinear Forms:
 
-      + [video :](https://drive.google.com/open?id=1oRklQPoIyq6XtDSE3OT9SiwII8tQeN85) 37 min
+      + [video :](https://drive.google.com/open?id=1FSGdTRI_hhKgDO9WRwxTMyg4fET_zHs_) 37 min
 
       + [slides](Exercises-AffGeo-Forms.pdf)
 
