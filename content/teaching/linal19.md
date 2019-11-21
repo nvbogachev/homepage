@@ -92,26 +92,26 @@ This is a preliminary version of the program. Some small changes are possible du
   
   - Affine Spaces:
       
-      + [video:](https://drive.google.com/open?id=1bORHzbg0Hr0a3eH8JC8c7dtyA8CbWd67) 21 min
+      + [video:](https://drive.google.com/open?id=1p8MP5gpf832hEomjL8LxT5iWLVv_QiKc) 21 min
 
       + [slides](Affine-Spaces.pdf)
 
   - Euclidean Affine Geometry:
 
-      + [video:](https://drive.google.com/open?id=1nej49JRqE6Vr8P7IQtt8AtbRVGrDJ3oA) 31 min
+      + [video:](https://drive.google.com/open?id=1s08ZXLpqcjd66N2DNe81abDbRm9cbDlv) 31 min
 
       + [slides](Euclid-Affine-Geom.pdf)
 
   - Affine Maps:
 
-      + [video:](https://drive.google.com/open?id=1uTab99eQf0la3no7mz6eZ0TFf9gdrf_c) 11 min
+      + [video:](https://drive.google.com/open?id=1RWNSYwoG2lUJerDElS5PRM9P6fR7_1MB) 11 min
 
       + [slides](Affine-Maps.pdf)
 
 
   - Affine Transformations:
 
-      + [video:](https://drive.google.com/open?id=1W1wU_ZDJcwj9DQu-sLVvML3ee4IPWbS8) 11 min
+      + [video:](https://drive.google.com/open?id=1vFy-49PEwDvvGk73htvdeddoCAdm4Zek) 11 min
 
       + [slides](Affine-Transformations.pdf)
     
