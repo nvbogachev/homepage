@@ -72,19 +72,19 @@ This is a preliminary version of the program. Some small changes are possible du
   
   - Preliminaries: 
     
-      + [video:](https://drive.google.com/open?id=1c5HGBmk3aC7VQPSaMakeujZyMYuC7DxD) 14min
+      + [video:](https://drive.google.com/open?id=1MH7ygeGvb1OKe7oy0H2eNplqhAsh0vjx) 14min
     
       + [slides](Preliminaries.pdf)
   
   - Vector Spaces:
     
-      + [video 1:](https://drive.google.com/open?id=10gXaqtOVew0PuxqzJAdbSqVr78kUQIEH) 15min
+      + [video 1:](https://drive.google.com/open?id=1XHWW1uNcmzaTrNGxejvBmir2ChhRpsnh) 15min
     
-      + [video 2:](https://drive.google.com/open?id=198UGEKh02KFiR6fJjM5PM6hGH0qe6AMA) 20min
+      + [video 2:](https://drive.google.com/open?id=1RBcMsaNGwOMJjsHH1k6YoWkBO2ETa-ao) 20min
     
-      + [video 3:](https://drive.google.com/open?id=1WwplLSVWWgI-6AMPu48L0HEIIcenbhxy) 5min
+      + [video 3:](https://drive.google.com/open?id=1r0aWn_PSQGgq-kkMzp_zqHo4QEJaAdPg) 5min
 
-      + [video 4:](https://drive.google.com/open?id=19NsXVAumF8YBdQMBEJs2t_pPgKGngZUd) 7min
+      + [video 4:](https://drive.google.com/open?id=1DKoPuVeu0rryT7C82nYgFjAYXg94YDUP) 7min
 
       + [slides](Vector-Spaces.pdf)
 
