@@ -165,14 +165,20 @@ This is a preliminary version of the program. Some small changes are possible du
 
   - Euclidean Vector Spaces:
 
+      + [video:](https://drive.google.com/open?id=17UWS-5bljq4I8WKZpNy9C37Zn1NbUfOu) 11 min
+
       + [slides](Euclid-Vec-Spaces.pdf)
 
   - Volumes and Distances in Euclidean Spaces:
 
 
+      + [video:](https://drive.google.com/open?id=1_G7yiJ2Rn-loofZ5pLSd9Db2NyFlb-uH) 11 min
+
       + [slides](Volumes-Distances.pdf)
 
   - Hermitian Spaces:
+
+      + [video:](https://drive.google.com/open?id=1wYupcFkVd6ck0L1WAGaBfORzdeQdjw6E) 7 min
 
       + [slides](Hermitian-Spaces.pdf)
 
