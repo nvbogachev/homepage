@@ -169,9 +169,19 @@ This is a preliminary version of the program. Some small changes are possible du
 
   - Volumes and Distances in Euclidean Spaces:
 
+
+      + [slides](Volumes-Distances.pdf)
+
   - Hermitian Spaces:
 
-  - Convex Sets and Polyhedra:
+      + [slides](Hermitian-Spaces.pdf)
+
+
+6. Week6:
+
+  - Convex Sets:
+
+  - Convex Polyhedra:
 
 
 ## Seminars & Problems
@@ -182,6 +192,9 @@ This is a preliminary version of the program. Some small changes are possible du
 
 [Problem Set 3](ProblemSet3.pdf). Linear Maps, Linear Functions and Bilinear Forms.
 
+[Problem Set 4](ProblemSet4.pdf). Quadratic Forms.
+
+[Problem Set 5](ProblemSet5.pdf). Euclidean and Hermitian Spaces.
 
 ## Seminar Results
 
