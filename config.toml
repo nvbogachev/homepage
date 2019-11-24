@@ -164,7 +164,7 @@ defaultContentLanguageInSubdir = false
 [[menu.main]]
   name = "Publications"
   url = "publications"
-  weight = 2
+  weight = 1
 
 #[[menu.main]]
 #  name = "Posts"
