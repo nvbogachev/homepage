@@ -60,9 +60,8 @@ This is a preliminary version of the program. Some small changes are possible du
 5. Euclidean and Hermitian Spaces. Gram matrices. Euclidean Affine Spaces. Convex Sets and Convex Polyhedra. The Minkowski-Weyl Theorem.
 6. Linear Operators. Eigenspaces.
 7. Diagonalization of Symmetric Operators. Polar Decomposition.
-8. Projective Spaces.
-9. Non-Euclidean Geometry: sphere.
-10. Non-Euclidean Geometry: hyperbolic Lobachevsky space. 
+9*. Non-Euclidean Geometry: sphere.
+10*. Non-Euclidean Geometry: hyperbolic Lobachevsky space. 
 
 ## Lectures (Weeks)
 
@@ -186,8 +185,15 @@ This is a preliminary version of the program. Some small changes are possible du
 6. Week6:
 
   - Convex Sets:
+      + [video:]()
+      + [slides]()
 
   - Convex Polyhedra:
+      
+      + [video 1:]()
+      + [video 2:]()
+      + [slides]()
+
 
 
 ## Seminars & Problems
