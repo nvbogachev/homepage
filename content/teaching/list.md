@@ -3,7 +3,7 @@
 
 title = "List of courses"
 
-date = "Fall 2019"
+date = "2019-10-20"
 #draft = false
 
 widget = "about"
