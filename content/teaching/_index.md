@@ -49,11 +49,11 @@ weight = 1
 +++
 
 
-#### Spring 2019
+#### Spring 2020
 
 - **Bachelor's Level:** Discrete Differential Geometry (DDG), continuation of [GCS2019](gcs19f).
 
-- **Research Seminar:** [Groups, Geometry & Topology]{ResSem19/20}
+- **Research Seminar:** [Groups, Geometry & Topology](ResSem19/20)
 
 #### Fall 2019 
 
@@ -64,8 +64,18 @@ weight = 1
 - **Elective Course/Special Seminar:** [Geometries & Transformation Groups](gtg19f) (in Russian)
 
 
+## **Archive**
+
+#### Fall 2018 
+
+#### Spring 2018 
+
+#### Fall 2017
+
+#### Spring 2017
+
+#### Fall 2016
 
 
-#### Archive
 
 
