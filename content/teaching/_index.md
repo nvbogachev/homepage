@@ -49,12 +49,17 @@ weight = 1
 +++
 
 
+#### Spring 2019
+
+- **Bachelor's Level:** Discrete Differential Geometry (DDG), continuation of [GCS2019](gcs19f).
+
+- **Research Seminar:**
 
 #### Fall 2019 
 
 - **Master's Level:** [Linear Algebra](linal19) (in English)
 
-- **Bachelor's Level:** [Geometry in Computer Science](gcs19f) (in Russian)
+- **Bachelor's Level:** [Geometry in Computer Science (GCS2018)](gcs19f) (in Russian)
 
 - **Elective Course/Special Seminar:** [Geometries & Transformation Groups](gtg19f) (in Russian)
 

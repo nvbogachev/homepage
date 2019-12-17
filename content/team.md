@@ -27,7 +27,7 @@ math = true
 
 +++
 
-# Research Group
+# Research Group and Activities
 
 
 ### Members
@@ -57,38 +57,7 @@ math = true
 ### Research Seminar "Groups, Geometry and Topology"
 
 
-**Plan for Educational Part**
 
-1. Hyperbolic geometry and sphere.
-
-2. Fuchsian groups. Discrete isometry groups of $H^n$ and S^n. 
-
-3. Fundamental domains of discrete groups.
-
-4. Reflection groups and Coxeter polytopes.
-
-5. Differentiable manifolds.
-
-6. Real Lie groups.
-
-7. Real Lie algebras.
-
-8. Algebraic varieties.
-
-9. Algebraic groups.
-
-10. Discrete subgroups of Lie groups.
-
-11. Arithmetic discrete groups.
- 
-
-**Discussion of Papers**
-
-1. Alex Kontorovich & Kei Nakamura, "Geometry and arithmetic of crystallographic sphere packings".
-
-2. Olivier Mila, "Nonarithmetic hyperbolic manifolds and trace rings".
-
-3. Vincent Emery & Olivier Mila, "Hyperbolic manifolds and pseudo-arithmeticity".
 
 
 
