@@ -60,9 +60,8 @@ This is a preliminary version of the program. Some small changes are possible du
 5. Euclidean and Hermitian Spaces. Gram matrices. Euclidean Affine Spaces. Convex Sets and Convex Polyhedra. The Minkowski-Weyl Theorem.
 6. Linear Operators. Eigenspaces.
 7. Diagonalization of Symmetric Operators. Polar Decomposition.
-8. Projective Spaces.
-9. Non-Euclidean Geometry: sphere.
-10. Non-Euclidean Geometry: hyperbolic Lobachevsky space. 
+9*. Non-Euclidean Geometry: sphere.
+10*. Non-Euclidean Geometry: hyperbolic Lobachevsky space. 
 
 ## Lectures (Weeks)
 
@@ -73,19 +72,14 @@ This is a preliminary version of the program. Some small changes are possible du
   - Preliminaries: 
     
       + [video:](https://drive.google.com/open?id=1MH7ygeGvb1OKe7oy0H2eNplqhAsh0vjx) 14min
-    
       + [slides](Preliminaries.pdf)
   
   - Vector Spaces:
     
       + [video 1:](https://drive.google.com/open?id=1XHWW1uNcmzaTrNGxejvBmir2ChhRpsnh) 15min
-    
       + [video 2:](https://drive.google.com/open?id=1RBcMsaNGwOMJjsHH1k6YoWkBO2ETa-ao) 20min
-    
       + [video 3:](https://drive.google.com/open?id=1r0aWn_PSQGgq-kkMzp_zqHo4QEJaAdPg) 5min
-
       + [video 4:](https://drive.google.com/open?id=1DKoPuVeu0rryT7C82nYgFjAYXg94YDUP) 7min
-
       + [slides](Vector-Spaces.pdf)
 
 2. Week2:
@@ -93,26 +87,22 @@ This is a preliminary version of the program. Some small changes are possible du
   - Affine Spaces:
       
       + [video:](https://drive.google.com/open?id=1p8MP5gpf832hEomjL8LxT5iWLVv_QiKc) 21 min
-
       + [slides](Affine-Spaces.pdf)
 
   - Euclidean Affine Geometry:
 
       + [video:](https://drive.google.com/open?id=1s08ZXLpqcjd66N2DNe81abDbRm9cbDlv) 31 min
-
       + [slides](Euclid-Affine-Geom.pdf)
 
   - Affine Maps:
 
       + [video:](https://drive.google.com/open?id=1RWNSYwoG2lUJerDElS5PRM9P6fR7_1MB) 11 min
-
       + [slides](Affine-Maps.pdf)
 
 
   - Affine Transformations:
 
       + [video:](https://drive.google.com/open?id=1vFy-49PEwDvvGk73htvdeddoCAdm4Zek) 11 min
-
       + [slides](Affine-Transformations.pdf)
     
 
@@ -122,21 +112,18 @@ This is a preliminary version of the program. Some small changes are possible du
   - Motions and Convex Sets:
 
       + [video :](https://drive.google.com/open?id=1wu9QEco7V9-zQwC0pZQp7VCd2DKrj92b) 13 min
-
       + [slides](Motions-ConvSets.pdf)
 
   
   - Bilinear Forms:
 
       + [video :](https://drive.google.com/open?id=1-a3jfJQStx_CALYMXiBCXK0WitwuKRfA) 12 min
-
       + [slides](Bilinear-Forms.pdf)
 
  
   - Exercises on Affine Geometry and Bilinear Forms:
 
       + [video :](https://drive.google.com/open?id=1Qo1Bi5Xjn1y9ZKj1PQolmhw8bTlVxFyC) 37 min
-
       + [slides](Exercises-AffGeo-Forms.pdf)
 
 
@@ -145,20 +132,17 @@ This is a preliminary version of the program. Some small changes are possible du
   - Quadratic Forms and Orthogonal Bases:
 
       + [video:](https://drive.google.com/open?id=1aRKWhSRu9SyQn-bpL-FyXTnvdagCXHV9) 10 min
-
       + [slides](Quadratic-Forms-Orthogonal.pdf)
 
   - Diagonalization/Orthogonalization of Quadratic Forms:
 
       + [video:](https://drive.google.com/open?id=1r2bI3LsyF7stqHoPRJKSLs2Bq92eGELn) 11 min
-
       + [slides](QF-Diagonalization.pdf)
 
 
   - Quadratic Forms over Finite Fields:
 
       + [video:](https://drive.google.com/open?id=1AQeKtNkDq5cW7-8_TXwRa_OIvJteqGJX) 10 min
-
       + [slides](QF-Finite-Fields.pdf)
 
 5. Week5:
@@ -166,28 +150,31 @@ This is a preliminary version of the program. Some small changes are possible du
   - Euclidean Vector Spaces:
 
       + [video:](https://drive.google.com/open?id=17UWS-5bljq4I8WKZpNy9C37Zn1NbUfOu) 11 min
-
       + [slides](Euclid-Vec-Spaces.pdf)
 
   - Volumes and Distances in Euclidean Spaces:
 
 
       + [video:](https://drive.google.com/open?id=1_G7yiJ2Rn-loofZ5pLSd9Db2NyFlb-uH) 11 min
-
       + [slides](Volumes-Distances.pdf)
 
   - Hermitian Spaces:
 
       + [video:](https://drive.google.com/open?id=1wYupcFkVd6ck0L1WAGaBfORzdeQdjw6E) 7 min
-
       + [slides](Hermitian-Spaces.pdf)
 
 
 6. Week6:
 
   - Convex Sets:
+      + [video:]()
+      + [slides]()
 
   - Convex Polyhedra:
+      + [video 1:]()
+      + [video 2:]()
+      + [slides]()
+
 
 
 ## Seminars & Problems
