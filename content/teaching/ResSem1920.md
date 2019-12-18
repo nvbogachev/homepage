@@ -33,7 +33,7 @@ caption = "My caption :smile:"
 
 ## Program
 
-**Plan for Educational Part**
+**Introduction**
 
 1. Hyperbolic geometry and sphere.
 
@@ -43,19 +43,21 @@ caption = "My caption :smile:"
 
 4. Reflection groups and Coxeter polytopes.
 
-5. Differentiable manifolds.
 
-6. Real Lie groups.
+**Educational Research Part**
 
-7. Real Lie algebras.
-
-8. Algebraic varieties.
-
-9. Algebraic groups.
-
-10. Discrete subgroups of Lie groups.
-
-11. Arithmetic discrete groups.
+1. Smooth manifolds. Manifolds with boundary. Riemannian manifolds. Examples. Complex manifolds. Riemann surfaces. Fundamental groups. Coverings. Spaces E^n, S^n H^n.
+2. Algebraic varieties. Examples.
+3. Algebraic groups. Examples. Lie groups. Algebraic groups over R and C as Lie groups.
+4. Complex algebraic groups. Lie algebras. Simple, semi-simple, reductive groups.
+5. Simple roots. Classification of simple and semi-simple algebraic groups over C.
+6. Algebraic groups over non-closed fields (R, Q, Q[sqrt d], etc.).
+7. Algebraic varieties and Riemannian manifolds as homogeneous spaces (G/H). Symmetric homogeneous spaces. Classical spaces E^n, S^n, H^n.
+8. Discrete subgroups of Lie groups. Discrete groups of isometries. Biebarbach's theorems. Fundamental domains. Fuchsian groups. 
+9. Properly discontinuous actions. Affine transformations. Flat affine manifolds. The Auslander conjecture (1964).
+10. Cayley graphs. Ramanujan graphs. Expanders. Graphs of groups. Actions of groups on trees.
+11. Arithmetic discrete groups. Rigidity theorems.
+12. Hyperbolic manifolds.
 
 
 **Discussion of Papers**

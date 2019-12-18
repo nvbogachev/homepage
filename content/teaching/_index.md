@@ -53,7 +53,7 @@ weight = 1
 
 - **Bachelor's Level:** Discrete Differential Geometry (DDG), continuation of [GCS2019](gcs19f).
 
-- **Research Seminar:** [Groups, Geometry & Topology](ResSem19/20)
+- **Research Seminar:** [Groups, Geometry & Topology](ResSem1920)
 
 #### Fall 2019 
 
