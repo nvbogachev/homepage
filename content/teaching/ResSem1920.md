@@ -35,18 +35,15 @@ caption = "My caption :smile:"
 
 **Introduction**
 
-1. Hyperbolic geometry and sphere.
-
-2. Fuchsian groups. Discrete isometry groups of $H^n$ and S^n. 
-
+1. Spaces of constant curvature E^n, S^n, H^n. Hyperbolic geometry.
+2. Fuchsian groups. Discrete isometry groups of E^n and S^n. 
 3. Fundamental domains of discrete groups.
-
 4. Reflection groups and Coxeter polytopes.
 
 
 **Educational Research Part**
 
-1. Smooth manifolds. Manifolds with boundary. Riemannian manifolds. Examples. Complex manifolds. Riemann surfaces. Fundamental groups. Coverings. Spaces E^n, S^n H^n.
+1. Smooth manifolds. Manifolds with boundary. Riemannian manifolds. Examples. Complex manifolds. Riemann surfaces. Fundamental groups. Coverings. 
 2. Algebraic varieties. Examples.
 3. Algebraic groups. Examples. Lie groups. Algebraic groups over R and C as Lie groups.
 4. Complex algebraic groups. Lie algebras. Simple, semi-simple, reductive groups.
@@ -63,7 +60,5 @@ caption = "My caption :smile:"
 **Discussion of Papers**
 
 1. Alex Kontorovich & Kei Nakamura, "Geometry and arithmetic of crystallographic sphere packings".
-
 2. Olivier Mila, "Nonarithmetic hyperbolic manifolds and trace rings".
-
 3. Vincent Emery & Olivier Mila, "Hyperbolic manifolds and pseudo-arithmeticity".
