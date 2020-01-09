@@ -130,6 +130,7 @@ This is a preliminary version of the program. Some small changes are possible du
       + [slides 1:]()
       + slides 2: [PDF](LA-Lecture6-Convex-Polyhedra-2.pdf) + [PPTX](LA-Lecture6-Convex-Polyhedra-2.pptx) + [GIF](LA-Lecture6-Convex-Polyhedra-2.gif)
 7. Week7:
+  - Linear Operators 1: [video:](https://drive.google.com/open?id=1xbgd5vTihnBV_4dwB8PjSP_iYWHq7a-y) 10 min
 
 
 
@@ -144,6 +145,8 @@ This is a preliminary version of the program. Some small changes are possible du
 [Problem Set 4](ProblemSet4.pdf). Quadratic Forms.
 
 [Problem Set 5](ProblemSet5.pdf). Euclidean and Hermitian Spaces.
+
+[Problem Set 6](ProblemSet6.pdf). Convex Polytopes.
 
 ## Seminar Results
 
