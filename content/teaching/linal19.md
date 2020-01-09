@@ -123,7 +123,7 @@ This is a preliminary version of the program. Some small changes are possible du
 6. Week6:
   - Convex Sets:
       + [video:](https://drive.google.com/open?id=1Ka9iTJ2pVC6VaYFfmyRLteapkXE3dNa4) 19 min
-      + slides: [PDF](LA-Lecture6-Convex-Sets.pdf) + [PPTX](LA-Lecture6-Convex-Sets.pptx)
+      + slides: [PDF](LA-Lecture6-Convex-Sets.pdf) + [PPTX](LA-Lecture6-Convex-Sets.pptx) + [GIF](LA-Lecture6-Convex-Sets.gif)
   - Convex Polyhedra:
       + [video 1:](https://drive.google.com/open?id=1Z1itWQ_tOt2J1Ml3ocQzHv9XidZ97LIz) 10 min
       + [video 2:](https://drive.google.com/open?id=1tju29wMcPPrS33OVRdBc3MGSxSF_JDvv) 11 min
