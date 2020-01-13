@@ -33,6 +33,8 @@ Discrete subgroups of Lie groups, geometry of discrete groups, hyperbolic geomet
 
 ### Current Projects/Work in Progress
 
+- with [Fanny Kassel](http://www.ihes.fr/~/kassel/english.html): *"Proper affine actions of Coxeter groups"*
+
 - *"Bounds for degrees of ground fields of arithmetic hyperbolic reflection groups"*
 
 - *"Classification of Stably Reflective Hyperbolic Z[√2]-Lattices of Rank 4"*
