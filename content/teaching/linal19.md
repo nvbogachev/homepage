@@ -127,10 +127,10 @@ This is a preliminary version of the program. Some small changes are possible du
   - Convex Polyhedra:
       + [video 1:](https://drive.google.com/open?id=1Z1itWQ_tOt2J1Ml3ocQzHv9XidZ97LIz) 10 min
       + [video 2:](https://drive.google.com/open?id=1tju29wMcPPrS33OVRdBc3MGSxSF_JDvv) 11 min
-      + [slides 1:]()
+      + slides 1: [PDF](LA-Lecture6-Convex-Polyhedra-1.pdf) + [PPTX](LA-Lecture6-Convex-Polyhedra-1.pptx) + [GIF](LA-Lecture6-Convex-Polyhedra-1.gif)
       + slides 2: [PDF](LA-Lecture6-Convex-Polyhedra-2.pdf) + [PPTX](LA-Lecture6-Convex-Polyhedra-2.pptx) + [GIF](LA-Lecture6-Convex-Polyhedra-2.gif)
 7. Week7:
-  - Linear Operators 1: [video:](https://drive.google.com/open?id=1xbgd5vTihnBV_4dwB8PjSP_iYWHq7a-y) 10 min
+  - Linear Operators 1: [video:](https://drive.google.com/open?id=1xbgd5vTihnBV_4dwB8PjSP_iYWHq7a-y) 10 min, slides: [PDF](LA-Lecture7-Linear-Operators.pdf) + [PPTX](LA-Lecture7-Linear-Operators.pptx) + [GIF](LA-Lecture7-Linear-Operators.gif)
 
 
 
