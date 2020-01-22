@@ -131,6 +131,7 @@ This is a preliminary version of the program. Some small changes are possible du
       + slides 2: [PDF](LA-Lecture6-Convex-Polyhedra-2.pdf) + [PPTX](LA-Lecture6-Convex-Polyhedra-2.pptx) + [GIF](LA-Lecture6-Convex-Polyhedra-2.gif)
 7. Week7:
   - Linear Operators 1: [video:](https://drive.google.com/open?id=1xbgd5vTihnBV_4dwB8PjSP_iYWHq7a-y) 10 min, slides: [PDF](LA-Lecture7-Linear-Operators.pdf) + [PPTX](LA-Lecture7-Linear-Operators.pptx) + [GIF](LA-Lecture7-Linear-Operators.gif)
+  - Lecture notes on Linear Operators: [PDF](LA7_Linear_Operators.pdf)
 
 
 
@@ -147,6 +148,8 @@ This is a preliminary version of the program. Some small changes are possible du
 [Problem Set 5](ProblemSet5.pdf). Euclidean and Hermitian Spaces.
 
 [Problem Set 6](ProblemSet6.pdf). Convex Polytopes.
+
+[Problem Set 7](ProblemSet7.pdf). Linear Operators.
 
 ## Seminar Results
 
