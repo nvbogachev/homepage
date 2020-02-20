@@ -30,8 +30,16 @@ caption = "My caption :smile:"
 
 
 
+## Seminars
 
-## Program
+**Educational part**
+
+1. Topology. Smooth manifolds. Manifolds with boundary. Riemannian manifolds. Examples. Spaces of constant curvature E^n, S^n, H^n. [Exercises 1](ProblemSet1.pdf)
+2. Homotopy equivalence. Paths. Coverings. Fundamental groups. [Exercises 2](ProblemSet2.pdf)
+3. Discrete isometry groups of E^n, S^n, H^n. Fundamental domains of discrete groups. Reflection groups and Coxeter polytopes.
+
+
+## Program (preliminary version)
 
 **Introduction**
 
