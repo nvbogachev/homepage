@@ -35,7 +35,7 @@ Discrete subgroups of Lie groups, geometry of discrete groups, hyperbolic geomet
 
 - with [Alexander Kolpakov](https://sashakolpakov.wordpress.com/): *"Quasi-arithmetic Coxeter polytopes"*
 
-- *"Bounds for degrees of ground fields of arithmetic hyperbolic reflection groups"*
+- *"Bounds for degrees of ground fields of arithmetic hyperbolic reflection groups"*, [preprint](Bogachev-GeomArithmCoxeter-2020.pdf)
 
 - *"Classification of Stably Reflective Hyperbolic Z[√2]-Lattices of Rank 4"*
 
