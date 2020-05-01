@@ -225,8 +225,7 @@ html, body {
 
 ol
 {
-    list-style-type:none;
-    counter-reset:value;
+    list-style-type:value;
 }
 
 img {
