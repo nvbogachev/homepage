@@ -220,6 +220,20 @@ html, body {
   font-size: 18px;
 }
 
+ol
+{
+    list-style-type:none;
+    counter-reset:item 11;
+}
+ol > li
+{
+    counter-increment:item -1;
+}
+ol > li:before
+{
+    content:counter(item) ". ";
+}
+
 img {
 
   vertical-align: middle;
