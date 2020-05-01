@@ -64,7 +64,7 @@ Discrete subgroups of Lie groups, geometry of discrete groups, hyperbolic geomet
 
 &nbsp; &nbsp; **4.** *"On the Classification of Stably Reflective Hyperbolic Z[√2]-Lattices of Rank 4"*, **Doklady Math.**, 2019
 
-&nbsp; &nbsp; **3.** *"Classification of (1,2)-Reflective Anisotropic Hyperbolic Lattices of Rank 4"*, **Izvestiya Math.**, 2019, Vol. 83:1, pp. 1–19, [arXiv:](https://arxiv.org/abs/1903.08147v1)
+&nbsp; &nbsp; **3.** *"Classification of (1,2)-Reflective Anisotropic Hyperbolic Lattices of Rank 4"*, **Izvestiya Math.**, 2019, Vol. 83:1, pp. 1–19, [arXiv:1903.08147](https://arxiv.org/abs/1903.08147v1)
 
 &nbsp; &nbsp; **2.** with [Alexander Perepechko](http://a.perep.ru/): *"Vinberg's Algorithm for Hyperbolic Lattices"*, **Math. Notes**, 2018, Vol. 103:5, 836–840
 
