@@ -219,7 +219,7 @@ html, body {
   line-height: 30px;
   font-size: 18px;
   counter-reset: item;
-  list-style-type: none;
+  list-style-type: value;
 }
 
 
