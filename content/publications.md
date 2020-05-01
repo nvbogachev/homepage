@@ -50,7 +50,7 @@ Discrete subgroups of Lie groups, geometry of discrete groups, hyperbolic geomet
 
 6. with [Alexander Kolpakov](https://sashakolpakov.wordpress.com/): *"On faces of quasi-arithmetic Coxeter polytopes"*, [arXiv:2002.11445](https://arxiv.org/abs/2002.11445v2)
 
-5. *"From geometry to arithmeticity of compact hyperbolic Coxeter polytopes"*, [arXiv:2003.11944](/Bogachev-GeomArithmCoxeter-2020.pdf)
+5. *"From geometry to arithmeticity of compact hyperbolic Coxeter polytopes"*, [arXiv:2003.11944](/Bogachev-GeomArithmCoxeter-2020.pdf) {: reversed="reversed"}
 
 
 
