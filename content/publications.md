@@ -84,4 +84,4 @@ Thesis: "Reflective Hyperbolic Lattices".
 
 - Notes on determinantal point processes, 2015: 
 
-
+{: reversed="reversed"}
