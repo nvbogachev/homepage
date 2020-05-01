@@ -223,6 +223,12 @@ html, body {
 }
 
 
+ol
+{
+    list-style-type:none;
+    counter-reset:value;
+}
+
 img {
 
   vertical-align: middle;
