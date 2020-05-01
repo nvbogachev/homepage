@@ -64,6 +64,8 @@ Discrete subgroups of Lie groups, geometry of discrete groups, hyperbolic geomet
 
 3. *"Classification of (1,2)-Reflective Anisotropic Hyperbolic Lattices of Rank 4"*, **Izvestiya Math.**, 2019, Vol. 83:1, pp. 1–19
 
+{: reversed="reversed"}
+
 ##### 2018
 
 2. with [Alexander Perepechko](http://a.perep.ru/): *"Vinberg's Algorithm for Hyperbolic Lattices"*, **Math. Notes**, 2018, Vol. 103:5, 836–840
