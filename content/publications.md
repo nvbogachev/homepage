@@ -33,11 +33,13 @@ Discrete subgroups of Lie groups, geometry of discrete groups, hyperbolic geomet
 
 ### Current Projects/Work in Progress
 
-- with [Alexander Kolpakov](https://sashakolpakov.wordpress.com/): *"Quasi-arithmetic Coxeter polytopes"*
+- with [Misha Belolipetsky](http://w3.impa.br/~mbel/), [Alexander Kolpakov](https://sashakolpakov.wordpress.com/) & [Leone Slavich](http://matematica.unipv.it/slavich/): *"totally geodesic subspaces of hyperbolic orbifolds, subspace stabilisers in hyperbolic lattices"*"
 
-- *"Bounds for degrees of ground fields of arithmetic hyperbolic reflection groups"* 
+- with [Alexander Kolpakov](https://sashakolpakov.wordpress.com/): *"quasi-arithmetic and arithmetic Coxeter polytopes"*
 
-- *"Classification of Stably Reflective Hyperbolic Z[√2]-Lattices of Rank 4"*
+- *"Bounds for degrees of ground fields of quasi-arithmetic hyperbolic reflection groups"* 
+
+- *"Classification of Stably Reflective Hyperbolic Z[√2]- and Z[√3]-Lattices of signature (3,1)"*
 
 - with [Alexander Perepechko](http://a.perep.ru/): *"Vinberg's Algorithm for Hyperbolic Lattices over Quadratic Fields"*
 
@@ -46,21 +48,27 @@ Discrete subgroups of Lie groups, geometry of discrete groups, hyperbolic geomet
 
 ### Preprints/submitted papers
 
-1. with [Alexander Kolpakov](https://sashakolpakov.wordpress.com/): *"On faces of quasi-arithmetic Coxeter polytopes"*, [preprint](https://arxiv.org/abs/2002.11445v2)
+1. with [Alexander Kolpakov](https://sashakolpakov.wordpress.com/): *"On faces of quasi-arithmetic Coxeter polytopes"*, [arXiv:2002.11445](https://arxiv.org/abs/2002.11445v2)
 
-2. *"From geometry to arithmeticity of compact hyperbolic Coxeter polytopes"*, [preprint](/Bogachev-GeomArithmCoxeter-2020.pdf)
+2. *"From geometry to arithmeticity of compact hyperbolic Coxeter polytopes"*, [arXiv:2003.11944](/Bogachev-GeomArithmCoxeter-2020.pdf)
 
-3. *"Stably Reflective Hyperbolic Z[√2]-Lattices of Rank 4"*, [preprint](/Bogachev-StablyReflZ2-2020.pdf)
+
 
 
 
 ### Published/accepted papers
 
+##### 2019
+
 4. *"On the Classification of Stably Reflective Hyperbolic Z[√2]-Lattices of Rank 4"*, **Doklady Math.**, 2019
 
 3. *"Classification of (1,2)-Reflective Anisotropic Hyperbolic Lattices of Rank 4"*, **Izvestiya Math.**, 2019, Vol. 83:1, pp. 1–19
 
+##### 2018
+
 2. with [Alexander Perepechko](http://a.perep.ru/): *"Vinberg's Algorithm for Hyperbolic Lattices"*, **Math. Notes**, 2018, Vol. 103:5, 836–840
+
+##### 2017
 
 1. *"Reflective Anisotropic Hyperbolic Lattices of Rank 4"*, **Russian Mathematical Surveys**, 2017, vol. 1 (433), p. 179 - 181
 
