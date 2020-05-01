@@ -48,9 +48,9 @@ Discrete subgroups of Lie groups, geometry of discrete groups, hyperbolic geomet
 
 ### Preprints/submitted papers
 
-6: with [Alexander Kolpakov](https://sashakolpakov.wordpress.com/): *"On faces of quasi-arithmetic Coxeter polytopes"*, [arXiv:2002.11445](https://arxiv.org/abs/2002.11445v2)
+**6.** with [Alexander Kolpakov](https://sashakolpakov.wordpress.com/): *"On faces of quasi-arithmetic Coxeter polytopes"*, [arXiv:2002.11445](https://arxiv.org/abs/2002.11445v2)
 
-5: *"From geometry to arithmeticity of compact hyperbolic Coxeter polytopes"*, [arXiv:2003.11944](/Bogachev-GeomArithmCoxeter-2020.pdf)
+**5.** *"From geometry to arithmeticity of compact hyperbolic Coxeter polytopes"*, [arXiv:2003.11944](/Bogachev-GeomArithmCoxeter-2020.pdf)
 
 
 
@@ -58,20 +58,20 @@ Discrete subgroups of Lie groups, geometry of discrete groups, hyperbolic geomet
 
 ### Published/accepted papers
 
-**2019**
+##### 2019
 
-4: *"On the Classification of Stably Reflective Hyperbolic Z[√2]-Lattices of Rank 4"*, **Doklady Math.**, 2019
+**4.** *"On the Classification of Stably Reflective Hyperbolic Z[√2]-Lattices of Rank 4"*, **Doklady Math.**, 2019
 
-3: *"Classification of (1,2)-Reflective Anisotropic Hyperbolic Lattices of Rank 4"*, **Izvestiya Math.**, 2019, Vol. 83:1, pp. 1–19
+**3.** *"Classification of (1,2)-Reflective Anisotropic Hyperbolic Lattices of Rank 4"*, **Izvestiya Math.**, 2019, Vol. 83:1, pp. 1–19
 
 
-**2018**
+##### 2018
 
-2: with [Alexander Perepechko](http://a.perep.ru/): *"Vinberg's Algorithm for Hyperbolic Lattices"*, **Math. Notes**, 2018, Vol. 103:5, 836–840
+**2.** with [Alexander Perepechko](http://a.perep.ru/): *"Vinberg's Algorithm for Hyperbolic Lattices"*, **Math. Notes**, 2018, Vol. 103:5, 836–840
 
-**2017**
+##### 2017
 
-1: *"Reflective Anisotropic Hyperbolic Lattices of Rank 4"*, **Russian Mathematical Surveys**, 2017, vol. 1 (433), p. 179 - 181
+**1.** *"Reflective Anisotropic Hyperbolic Lattices of Rank 4"*, **Russian Mathematical Surveys**, 2017, vol. 1 (433), p. 179 - 181
 
 ### PhD-Thesis
 
