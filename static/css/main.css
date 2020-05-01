@@ -218,21 +218,12 @@ html, body {
   text-align: justify;
   line-height: 30px;
   font-size: 18px;
-}
-
-ol
-{
+  ol{
     list-style-type:none;
     counter-reset:item 11;
+  };
 }
-ol > li
-{
-    counter-increment:item -1;
-}
-ol > li:before
-{
-    content:counter(item) ". ";
-}
+
 
 img {
 
