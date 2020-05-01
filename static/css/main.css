@@ -218,6 +218,7 @@ html, body {
   text-align: justify;
   line-height: 30px;
   font-size: 18px;
+  ol: reverse;
 }
 
 
