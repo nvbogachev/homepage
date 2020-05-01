@@ -48,40 +48,34 @@ Discrete subgroups of Lie groups, geometry of discrete groups, hyperbolic geomet
 
 ### Preprints/submitted papers
 
-&nbsp; &nbsp; **6.** with [Alexander Kolpakov](https://sashakolpakov.wordpress.com/): *"On faces of quasi-arithmetic Coxeter polytopes"*, [arXiv:2002.11445](https://arxiv.org/abs/2002.11445v2)
 
-&nbsp; &nbsp; **5.** *"From geometry to arithmeticity of compact hyperbolic Coxeter polytopes"*, [arXiv:2003.11944](/Bogachev-GeomArithmCoxeter-2020.pdf)
+&nbsp; &nbsp; **6.** *"From geometry to arithmeticity of compact hyperbolic Coxeter polytopes"*, [arXiv:2003.11944](/Bogachev-GeomArithmCoxeter-2020.pdf)
+  - SageMath [worksheet SmaRBA](https://github.com/nvbogachev/OuterMostEdge/blob/master/SmaRBA.ipynb)
 
-
+&nbsp; &nbsp; **5.** with [Alexander Kolpakov](https://sashakolpakov.wordpress.com/): *"On faces of quasi-arithmetic Coxeter polytopes"*, [arXiv:2002.11445](https://arxiv.org/abs/2002.11445v2)
+  - SageMath [worksheet PLoF](https://www.dropbox.com/s/l8rntjle8wwrrph/PLoF_Lower_dimensional_faces.ipynb)
 
 
 
 ### Published/accepted papers
 
-#### 2019
 
 &nbsp; &nbsp; **4.** *"On the Classification of Stably Reflective Hyperbolic Z[√2]-Lattices of Rank 4"*, **Doklady Math.**, 2019
 
-&nbsp; &nbsp; **3.** *"Classification of (1,2)-Reflective Anisotropic Hyperbolic Lattices of Rank 4"*, **Izvestiya Math.**, 2019, Vol. 83:1, pp. 1–19
-
-
-#### 2018
+&nbsp; &nbsp; **3.** *"Classification of (1,2)-Reflective Anisotropic Hyperbolic Lattices of Rank 4"*, **Izvestiya Math.**, 2019, Vol. 83:1, pp. 1–19, [arXiv:](https://arxiv.org/abs/1903.08147v1)
 
 &nbsp; &nbsp; **2.** with [Alexander Perepechko](http://a.perep.ru/): *"Vinberg's Algorithm for Hyperbolic Lattices"*, **Math. Notes**, 2018, Vol. 103:5, 836–840
-
-#### 2017
 
 &nbsp; &nbsp; **1.** *"Reflective Anisotropic Hyperbolic Lattices of Rank 4"*, **Russian Mathematical Surveys**, 2017, vol. 1 (433), p. 179 - 181
 
 ### PhD-Thesis
 
-Ph.D. in Mathematics of Higher School of Economics.
-Thesis: "Reflective Hyperbolic Lattices".
+- Ph.D. in Mathematics of Higher School of Economics. Thesis: "Reflective Hyperbolic Lattices".
 
 
 ### Non-published preprints & notes
 
-- Preprint 2016: 
+- Preprint 2016: *"Reflective anisotropic hyperbolic lattices of rank 4"*, [arXiv:1610.06148](https://arxiv.org/abs/1610.06148)
 
 - Notes on determinantal point processes, 2015: 
 
