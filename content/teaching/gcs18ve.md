@@ -33,7 +33,7 @@ caption = "My caption :smile:"
 
 ## English description
 
-Here is the page of my course "Geometry in Computer Science", which I'm reading (in Russian) for $3^{rd}$ year students of the Department of Innovation and High Technology at MIPT. 
+Here is the page of my course "Geometry in Computer Science", which I'm reading (in Russian, jointly with [Alexander Perepechko](http://a.perep.ru/)) for the 3rd year students of the Department of Innovation and High Technology at MIPT. 
 
 
 
@@ -41,7 +41,7 @@ Here is the page of my course "Geometry in Computer Science", which I'm reading 
 ## Геометрия в компьютерных приложениях
 
 
-Здесь находится страница курса "Геометрия в компьютерных приложениях", читаемого мною для студентов 3-го курса ФИВТ МФТИ. Материалы лекций доступны ниже. 
+Здесь находится страница курса "Геометрия в компьютерных приложениях", читаемого мною (совместно с [А.Ю. Перепечко](http://a.perep.ru/)) для студентов 3-го курса ФИВТ МФТИ. Материалы лекций доступны ниже. 
 
 Основным источником материалов являются слайды лекций и книга американского профессора [Keenan Crane](http://www.cs.cmu.edu/~kmcrane/). Это [ссылка](http://brickisland.net/DDGFall2017/) на страницу его курса со слайдами лекций и упражнениями.
 
