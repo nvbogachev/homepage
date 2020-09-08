@@ -1,9 +1,9 @@
 +++
 # Date this page was created.
-date = "2019-09-26"
+date = "2020-09-08"
 
 # Project title.
-title = "Geometry in Computer Science (in Russian), Fall 2019"
+title = "Geometry in Computer Science (in Russian), Fall 2020"
 
 # Project summary to display on homepage.
 #summary = "Lorem ipsum dolor sit amet, consectetur adipiscing elit."
@@ -13,7 +13,7 @@ title = "Geometry in Computer Science (in Russian), Fall 2019"
 
 # Tags: can be used for filtering projects.
 # Example: `tags = ["machine-learning", "deep-learning"]`
-tags = ["gcs19f"]
+tags = ["gcs20f"]
 
 # Optional external URL for project (replaces project detail page).
 external_link = ""
