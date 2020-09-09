@@ -57,12 +57,10 @@ Here is the page of my course "Geometry in Computer Science", which I'm reading 
 #### Лектор: Богачев Н.В.
 
 Лекция 1. 02.09.2020. Введение. Что такое диискретная дифференциальная геометрия? Дифференциальная геометрия vs. дискретная (комбинаторная) геометрия. Геометрия плоских кривых. Длина кривой. Натуральная параметризация. Касательная и кривизна кривой. Дискретизация. Какая дискретизация считается хорошей?
-
 - [Слайды](Lecture-1.pdf)
 - [Видео](https://drive.google.com/file/d/1nqDP8eV4ym7EVemFRPgmM_OQNui0NNtj/view?usp=sharing) 
 
 Лекция 2. 09.09.2020. Геометрия пространственных кривых и поверхностей. Кривизна и кручение пространственной кривой. Репер Френе. Поверхности. Касательное пространство. Дифференциал как линейное отображение касательных пространств. Риманова метрика (I квадратичная форма).
-
 - [Слайды](Lecture-2.pdf)
 - [Видео](https://drive.google.com/file/d/1pjAzf1NS0dCwpWumg0LuOb_o1vwUBsET/view?usp=sharing) 
 
@@ -73,6 +71,7 @@ Here is the page of my course "Geometry in Computer Science", which I'm reading 
 1. Плоские кривые. Кривизна. Дискретные кривые.
   - [Листок 1.](1.pdf)
   - [Видео](https://drive.google.com/file/d/10LpGtBCPmV6D8FRp8w4KsQSfoJmaTqgj/view)
+
 2.
 3. 
 
