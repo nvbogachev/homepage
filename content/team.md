@@ -38,7 +38,9 @@ math = true
 
   + Master's Thesis: "Quasi-arithmetic compact hyperbolic Coxeter prisms in H^3".
 
-- Gaurav Kucheriya (Masters Student)
+- Mohammad Mualla (PhD student)
+
+- Stepan Alexandrov (Masters Student)
 
 
 ### Possible Research Topics and Description of My Research Interest

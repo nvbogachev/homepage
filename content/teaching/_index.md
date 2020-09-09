@@ -48,6 +48,18 @@ weight = 1
  
 +++
 
+#### Fall 2020
+
+- **Bachelor's Level at the MIPT:** lectures on Geometry in Computer Science (see the [page](gcs20f)) at the MIPT.
+
+- **Master's Level at the MIPT:** lectures on [Linear Algebra](linal20) (in English)
+
+- **Research Seminar at the MIPT:** [Groups, Geometry & Topology]() at the MIPT
+
+- **Elective Course at the IUM:** seminars on [Reflection Groups](https://ium.mccme.ru/f20/f20-SmirnovEY.html)
+
+- **Seminar at the Skoltech:** Geometry & Topology seminar lead by Prof. [Alexander Gaifullin](https://crei.skoltech.ru/cas/ru/people-ru/aleksandr-gaifullin/)
+
 
 #### Spring 2020
 
@@ -57,7 +69,7 @@ weight = 1
 
 #### Fall 2019 
 
-- **Master's Level:** [Linear Algebra](linal19) (in English)
+
 
 - **Bachelor's Level:** [Geometry in Computer Science (GCS2018)](gcs19f) (in Russian)
 
