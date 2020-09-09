@@ -67,7 +67,7 @@ Here is the page of my course "Geometry in Computer Science", which I'm reading 
 ## Семинары
 
 
- 1. Плоские кривые. Кривизна. Дискретные кривые.
+1. Плоские кривые. Кривизна. Дискретные кривые.
 
 - [Листок 1.](1.pdf)
 - [Видео](https://drive.google.com/file/d/10LpGtBCPmV6D8FRp8w4KsQSfoJmaTqgj/view)
