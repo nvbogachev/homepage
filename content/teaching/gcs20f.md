@@ -73,7 +73,7 @@ Here is the page of my course "Geometry in Computer Science", which I'm reading 
   - [Видео](https://drive.google.com/file/d/10LpGtBCPmV6D8FRp8w4KsQSfoJmaTqgj/view)
 
 2.
-3. 
+ 
 
 
 
