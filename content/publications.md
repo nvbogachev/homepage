@@ -59,7 +59,7 @@ Discrete subgroups of Lie groups, geometry of discrete groups, hyperbolic geomet
 
 ### Published/accepted papers
 
-&nbsp; &nbsp; **5.** with [Alexander Kolpakov](https://sashakolpakov.wordpress.com/): *"On faces of quasi-arithmetic Coxeter polytopes"*, to appear in **Int. Math. Res. Not.**, [arXiv:2002.11445](https://arxiv.org/abs/2002.11445v2)
+&nbsp; &nbsp; **5.** with [Alexander Kolpakov](https://sashakolpakov.wordpress.com/): *"On faces of quasi-arithmetic Coxeter polytopes"*, to appear in **IMRN -- Int. Math. Res. Not.**, [arXiv:2002.11445](https://arxiv.org/abs/2002.11445v2)
 
 - SageMath [worksheet PLoF](https://www.dropbox.com/s/l8rntjle8wwrrph/PLoF_Lower_dimensional_faces.ipynb)
 

@@ -64,15 +64,23 @@ Here is the page of my course "Geometry in Computer Science", which I'm reading 
 - [Слайды](Lecture-2.pdf)
 - [Видео](https://drive.google.com/file/d/1pjAzf1NS0dCwpWumg0LuOb_o1vwUBsET/view?usp=sharing) 
 
+Лекция 3. 16.09.2020. Топология и гладкие поверхности. Топология. Карты, атласы. Гладкие многообразия. Гладкие поверхности. Примеры. Касательное пространство. Риманова метрика (I квадратичная форма). Отображения Гаусса и Вайнгартена. Нормальная кривизна. Главные кривизны. Оператор формы. Гауссова и средняя кривизны.
+
+- [Слайды]()
+- [Видео](https://drive.google.com/file/d/1ugOgPBoQqJ6PJ6LXtxFqb2t-Kfpj0Qu2/view?usp=sharing)
+
 ## Семинары
 
 #### Преподаватель: Перепечко А.Ю.
 
 1. Плоские кривые. Кривизна. Дискретные кривые.
+  - [Конспект](1-plane-curves.pdf)
   - [Листок 1.](1.pdf)
   - [Видео](https://drive.google.com/file/d/10LpGtBCPmV6D8FRp8w4KsQSfoJmaTqgj/view)
 
-2.
+2. Плоские и пространственные кривые.
+
+  - [Видео](https://drive.google.com/file/d/1-4nMPQ9K5g51iwTTTq-VpGu0z_ppUunh/view?usp=sharing)
  
 
 
