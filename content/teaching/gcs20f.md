@@ -70,6 +70,9 @@ Here is the page of my course "Geometry in Computer Science", which I'm reading 
 - [Видео](https://drive.google.com/file/d/1ugOgPBoQqJ6PJ6LXtxFqb2t-Kfpj0Qu2/view?usp=sharing)
 
 Лекция 4. 23.09.2020. Повторение.
+- [Слайды](GKP-Lecture-4.pdf)
+- [Видео](https://drive.google.com/file/d/1r1tCVuirks1b-NfRm7l51dIv4-uWO8xV/view?usp=sharing)
+
 
 ## Семинары
 
@@ -83,6 +86,10 @@ Here is the page of my course "Geometry in Computer Science", which I'm reading 
 2. Плоские и пространственные кривые.
 
   - [Видео](https://drive.google.com/file/d/1-4nMPQ9K5g51iwTTTq-VpGu0z_ppUunh/view?usp=sharing)
+  
+3. Все еще кривые...
+
+  - [Видео](https://drive.google.com/file/d/101nXuyvPzZOx0ZOIXCCbdx1yPzpnZp4B/view?usp=sharing)
  
 
 
