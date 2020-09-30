@@ -76,6 +76,10 @@ Here is the page of my course "Geometry in Computer Science", which I'm reading 
 - [Слайды](GKP-Lecture-4.pdf)
 - [Видео](https://drive.google.com/file/d/1r1tCVuirks1b-NfRm7l51dIv4-uWO8xV/view?usp=sharing)
 
+Лекция 5. 30.09.2020. Дискретные поверхности.
+
+- [Слайды](Lecture-4.pdf)
+- [Видео](https://drive.google.com/file/d/1W8qrmFovXhH7ZuQy8ddwDfQP8KnXdXZ9/view?usp=sharing)
 
 ## Семинары
 
@@ -95,6 +99,7 @@ Here is the page of my course "Geometry in Computer Science", which I'm reading 
 
   - [Видео](https://drive.google.com/file/d/101nXuyvPzZOx0ZOIXCCbdx1yPzpnZp4B/view?usp=sharing)
  
+ 4. 
 
 
 
