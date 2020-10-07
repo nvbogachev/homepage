@@ -81,6 +81,11 @@ Here is the page of my course "Geometry in Computer Science", which I'm reading 
 - [Слайды](Lecture-4.pdf)
 - [Видео](https://drive.google.com/file/d/1W8qrmFovXhH7ZuQy8ddwDfQP8KnXdXZ9/view?usp=sharing)
 
+
+Лекция 6. Повторение и план курса в целом. Взаимосвязи.
+
+- [Слайды](gkp-lec6.pdf)
+
 ## Семинары
 
 #### Преподаватель: Перепечко А.Ю.
