@@ -33,7 +33,7 @@ caption = "My caption :smile:"
 
 ## English description
 
-Here is the page of my course "Geometry in Computer Science", which I'm reading (in Russian, jointly with [Alexander Perepechko](http://a.perep.ru/)) for the 3rd year students of the Department of Innovation and High Technology at MIPT. 
+Here is the page of my course "Geometry in Computer Science", which I'm reading (in Russian, jointly with [Alexander Perepechko](http://a.perep.ru/)) for the 3rd year students of the Department of Innovation and High Technology at MIPT. The course is conducted online via Zoom.  
 
 
 
@@ -50,6 +50,8 @@ Here is the page of my course "Geometry in Computer Science", which I'm reading 
 
 
 Основным источником материалов являются слайды и конспекты лекций, а также книга американского профессора [Keenan Crane](http://www.cs.cmu.edu/~kmcrane/). Вот [ссылка](http://brickisland.net/DDGSpring2019) на страницу его курса со слайдами лекций и упражнениями.
+
+Курс проводится онлайн через Zoom.
 
 
 ## Лекции
@@ -104,7 +106,7 @@ Here is the page of my course "Geometry in Computer Science", which I'm reading 
 
   - [Видео](https://drive.google.com/file/d/101nXuyvPzZOx0ZOIXCCbdx1yPzpnZp4B/view?usp=sharing)
  
- 4. 
+ 
 
 
 

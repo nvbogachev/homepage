@@ -50,11 +50,11 @@ weight = 1
 
 #### Fall 2020
 
-- **Bachelor's Level at the MIPT:** lectures on Geometry in Computer Science (see the [page](gcs20f)) at the MIPT.
+- **Bachelor's Level at the MIPT:** lectures on [Geometry in Computer Science](gcs20f) at the MIPT.
 
-- **Master's Level at the MIPT:** lectures on [Linear Algebra](linal20) (in English)
+- **Master's Level at the MIPT:** lectures and webinars on [Linear Algebra](linal20) (in English)
 
-- **Research Seminar at the MIPT:** [Groups, Geometry & Topology]() at the MIPT
+- **Research Seminar at the MIPT:** [Geometry, topology and arithmetic of discrete groups](ResSem20f) at the MIPT
 
 - **Elective Course at the IUM:** seminars on [Reflection Groups](https://ium.mccme.ru/f20/f20-SmirnovEY.html)
 
@@ -69,7 +69,7 @@ weight = 1
 
 #### Fall 2019 
 
-
+- **Master's Level at the MIPT:** lectures and webinars on [Linear Algebra](linal20) (in English)
 
 - **Bachelor's Level:** [Geometry in Computer Science (GCS2018)](gcs19f) (in Russian)
 
@@ -78,15 +78,7 @@ weight = 1
 
 ## **Archive**
 
-#### Fall 2018 
 
-#### Spring 2018 
-
-#### Fall 2017
-
-#### Spring 2017
-
-#### Fall 2016
 
 
 

@@ -47,19 +47,25 @@ math = true
 
 #### Possible topics
 
-- Arithmetic & quasi-arithmetic hyperbolic Coxeter groups and manifolds
+- Arithmetic & quasi-arithmetic hyperbolic Coxeter groups and orbifolds/manifolds
 
-- Classification of stably-reflective hyperbolic lattices
+- Classification of reflective Lorentzian lattices
 
 - Crystallographic sphere packings
 
+#### My research interests (some notes for students)
+
+-
+
+-
 
 
 
-### Research Seminar "Groups, Geometry and Topology"
+### Activities
 
 
 
+- [Research Seminar](ressem20f)
 
 
 
