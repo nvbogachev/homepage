@@ -55,17 +55,25 @@ math = true
 
 #### My research interests (some notes for students)
 
--
+- Description of my research interests
 
--
-
-
-
-### Activities
+- And
 
 
 
-- [Research Seminar](ressem20f)
+### Current activities for team members (Fall 2020)
 
 
+
+- [Research Seminar](https://nvbogachev.netlify.app/teaching/ressem20f/)
+
+- Advanced course ["Reflection groups"] at the IUM
+
+- Skoltech Geometry and Topology seminar lead by Prof. A.A. Gaifullin
+
+- Novosibirsk Online Seminar "Invariants of 3-manifolds", lead by Prof. A.Yu. Vesnin
+
+- Online mini-course (at the HSE) on volumes of hyperbolic manifolds by Prof. A.Yu. Vesnin
+
+- Some other online-talks related to our research interests.
 
