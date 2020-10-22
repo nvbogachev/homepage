@@ -42,5 +42,5 @@ detailed_list = true
 
 - Hyperbolic Coxeter polytopes:
 
-- Arithmetic hyperbolic reflection groups
+- [Arithmetic hyperbolic reflection groups](arith-hyp-refl-gr)
 
