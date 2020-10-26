@@ -94,6 +94,15 @@ Here is the page of my course "Geometry in Computer Science", which I'm reading 
 - [Слайды](GKP-Lecture-7.pdf)
 - [Видео](https://drive.google.com/file/d/1JIsRdMBtTTH9SWQl4Y-UgK_Qh6GJXJju/view?usp=sharing)
 
+Лекция 8. 21.10.2020. Внешние формы. Внешнее умножение. Базис пространства k-форм. Звезда Ходжа. Дифференциальные формы на многообразиях. Дифференциал k-форм.
+
+- [Слайды](Lecture-5.pdf)
+- [Видео](https://drive.google.com/file/d/1LxEsIJ_y2AgNkpWYXwS099hYZp9aJSj1/view?usp=sharing)
+
+Лекция 9. 28.10.2020. Дифференциальные формы. Интеграл. Теорема Стокса. Обобщенный Лапласиан.
+
+Лекция 10. 04.11.2020. КОЛЛОКВИУМ.
+
 ## Семинары
 
 #### Преподаватель: Перепечко А.Ю.
