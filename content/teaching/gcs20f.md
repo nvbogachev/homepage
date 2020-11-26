@@ -114,7 +114,7 @@ Here is the page of my course "Geometry in Computer Science", which I'm reading 
 - [Видео](https://drive.google.com/file/d/15pdbwaEvbuNDUWu_P9Qv7Yxhw7F6Pw17/view?usp=sharing)
 
 
-Лекция 12. 25.11.2020. 
+Лекция 13. 25.11.2020. 
 
 - Часть 1: доказательство теоремы про свойства Лапласиана
 
@@ -123,8 +123,8 @@ Here is the page of my course "Geometry in Computer Science", which I'm reading 
 
 - Часть 2: дискретные внешние формы
 
-  + [Слайды]()
-  + [Видео]()
+  + [Слайды](Lecture-6.pdf)
+  + [Видео](https://drive.google.com/file/d/1JjVII7ZFZx3dCNApoDHON48sbe8YJnmU/view?usp=sharing)
 
 - Часть 3: дискретный Лапласиан и его применения, сглаживание и деформация.
 
