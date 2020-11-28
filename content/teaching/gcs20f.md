@@ -126,13 +126,13 @@ Here is the page of my course "Geometry in Computer Science", which I'm reading 
   + [Слайды](Lecture-6.pdf)
   + [Видео](https://drive.google.com/file/d/1JjVII7ZFZx3dCNApoDHON48sbe8YJnmU/view?usp=sharing)
 
-- Часть 3: дискретный Лапласиан и его применения, сглаживание и деформация.
+- Часть 3: дискретный Лапласиан и его приложения, сглаживание и деформация.
 
-  + [Слайды]()
-  + [Видео]()
+  + Слайды: [PDF](DDG-Laplacian-Smoothing.pdf), [GIF](DDG-Laplacian-Smoothing.gif) и [PowerPoint](DDG-Laplacian-Smoothing.pptx)
+  + [Видео](https://drive.google.com/file/d/1DPSjuPN0l-iipQEsuZOncnE3npObFg3e/view?usp=sharing)
 
 
-## Программа коллоквиума (04.11 - 11.11.2020)
+## Программа I коллоквиума (04.11 - 11.11.2020)
 
 1. Гладкие регулярные кривые в R^2 и R^3. Натуральный параметр. Кривизна кривой. Радиус кривизны. Репер Френе. Кручение кривой. Геометрический смысл кривизны и кручения кривых.
 
