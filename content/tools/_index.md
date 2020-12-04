@@ -31,11 +31,11 @@ detailed_list = true
 
 ### Software Tools
 
-- AlVin: a software implementation of Vinberg's algorithm by Rafael Guglielmetti
+- AlVin: a software implementation of Vinberg's algorithm by Rafael Guglielmetti, see the [GitHub](https://github.com/rgugliel/AlVin) project and the full [documentation](https://rgugliel.github.io/AlVin/).
 
-- CoxIter:
+- CoxIter: a program (created by Rafael Guglielmetti) computing invariants of Coxeter polytopes and checking compactness and volume finiteness. See the [GitHub](https://github.com/rgugliel/CoxIter) project, the full [documentation](https://rgugliel.github.io/CoxIter/index.html), and [Web version](https://coxiterweb.rafaelguglielmetti.ch/).
 
-- VinAl: a software implementation of Vinberg's algorithm by Sasha Perepechko and me.
+- [VinAl](https://github.com/aperep/vinberg-algorithm): a software implementation of Vinberg's algorithm created by Sasha Perepechko and me.
 
 - [PLoF](https://github.com/sashakolpakov/plof): a program computing lower dimensional faces of Coxeter polytopes created by Sasha Kolpakov in the framework of our paper.
 
@@ -45,4 +45,6 @@ detailed_list = true
 - [Hyperbolic Coxeter polytopes](http://www.maths.dur.ac.uk/users/anna.felikson/Polytopes/polytopes.html): the webpage created by [Anna Felikson](http://www.maths.dur.ac.uk/users/anna.felikson/) and [Pavel Tumarkin](http://www.maths.dur.ac.uk/users/pavel.tumarkin/)
 
 - [Arithmetic hyperbolic reflection groups](arith-hyp-refl-gr)
+
+- [Online Research Seminars](https://researchseminars.org).
 
