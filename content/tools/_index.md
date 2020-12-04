@@ -31,16 +31,18 @@ detailed_list = true
 
 ### Software Tools
 
-- AlVin:
+- AlVin: a software implementation of Vinberg's algorithm by Rafael Guglielmetti
 
 - CoxIter:
 
-- VinAl:
+- VinAl: a software implementation of Vinberg's algorithm by Sasha Perepechko and me.
+
+- [PLoF](https://github.com/sashakolpakov/plof): a program computing lower dimensional faces of Coxeter polytopes created by Sasha Kolpakov in the framework of our paper.
 
 
 ### Useful Links
 
-- Hyperbolic Coxeter polytopes:
+- [Hyperbolic Coxeter polytopes](http://www.maths.dur.ac.uk/users/anna.felikson/Polytopes/polytopes.html): the webpage created by [Anna Felikson](http://www.maths.dur.ac.uk/users/anna.felikson/) and [Pavel Tumarkin](http://www.maths.dur.ac.uk/users/pavel.tumarkin/)
 
 - [Arithmetic hyperbolic reflection groups](arith-hyp-refl-gr)
 
