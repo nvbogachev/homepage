@@ -29,12 +29,12 @@ caption = "My caption :smile:"
 
 +++
 
-{{< figure src="img/poster-bogachev-course.jpg" title="" width="1000">}}
+{{< figure src="img/poster-bogachev-course.jpg" title="" width="950">}}
 
 
 ## English description
 
-Here is the page of my course "Geometry, arithmetic and dynamics of discrete groups", which I'm reading (in Russian) for the 3rd--5th year students or PhD students of IUM, MIPT, and HSE. The course is conducted online via Zoom.  
+Here is the page of my course "Geometry, arithmetic and dynamics of discrete groups" (in Russian) for the 3rd--5th year students or PhD students of IUM, MIPT, and HSE. The course is conducted online via Zoom.  
 
 
 
@@ -65,7 +65,7 @@ https://combgeo.org/events-ru/bogachev-course/
 
 **Первая лекция состоится во вторник 9 февраля в 17:30.**
 
-### Примерная программа курса:
+### **Примерная программа курса**
 
 1. Предварительные сведения. Топология. Алгебраическая топология. Гомотопии, накрытия, фундаментальные группы. Примеры.
 
