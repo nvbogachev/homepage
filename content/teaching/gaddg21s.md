@@ -9,7 +9,7 @@ title = "Geometry, arithmetic and dynamics of discrete groups (in Russian, IUM &
 #summary = "Lorem ipsum dolor sit amet, consectetur adipiscing elit."
 
 # Optional image to display on homepage (relative to `static/img/` folder).
-image_preview = "poster-bogachev-course.jpg"
+image_preview = "/poster-bogachev-course.jpg"
 
 # Tags: can be used for filtering projects.
 # Example: `tags = ["machine-learning", "deep-learning"]`
@@ -51,6 +51,13 @@ https://ium.mccme.ru/s21/s21-Bogachev.html
 Страница курса на сайте Лаборатории комбинаторных и геометрических структур в МФТИ:
 https://combgeo.org/events-ru/bogachev-course/
 
+
+
+Лекции будут проходить онлайн в Zoom:
+
+Идент. конф.: 986 2594 4049
+
+Пароль — порядок группы S_6.
 
 ### Примерная программа курса:
 
