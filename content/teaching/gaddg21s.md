@@ -13,7 +13,7 @@ image_preview = "poster-bogachev-course.jpg"
 
 # Tags: can be used for filtering projects.
 # Example: `tags = ["machine-learning", "deep-learning"]`
-tags = ["gcs20f"]
+#tags = ["gcs20f"]
 
 # Optional external URL for project (replaces project detail page).
 external_link = ""
@@ -23,7 +23,7 @@ math = true
 
 # Optional featured image (relative to `static/img/` folder).
 [header]
-image = "poster-bogachev-course.jpg"
+image = poster-bogachev-course.jpg
 #url = "pdf/cv-Bogachev-NV.pdf"
 caption = "My caption :smile:"
 
