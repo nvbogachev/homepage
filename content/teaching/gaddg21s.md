@@ -23,7 +23,7 @@ math = true
 
 # Optional featured image (relative to `static/img/` folder).
 [header]
-image = "poster-bogachev-course.jpg"
+image = "/poster-bogachev-course.jpg"
 #url = "pdf/cv-Bogachev-NV.pdf"
 caption = "My caption :smile:"
 
