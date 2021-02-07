@@ -48,6 +48,13 @@ weight = 1
  
 +++
 
+#### Spring 2021
+
+- **Advanced Course at the IUM & MIPT & HSE:** [Geometry, arithmetic and dynamics of discrete groups](gaddg21s) in Russian.
+
+- **Seminar at the Skoltech:** Geometry & Topology seminar lead by Prof. [Alexander Gaifullin](https://crei.skoltech.ru/cas/ru/people-ru/aleksandr-gaifullin/) 
+
+
 #### Fall 2020
 
 - **Bachelor's Level at the MIPT:** lectures on [Geometry in Computer Science](gcs20f) at the MIPT.
