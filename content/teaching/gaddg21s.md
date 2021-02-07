@@ -9,7 +9,7 @@ title = "Geometry, arithmetic and dynamics of discrete groups (in Russian, IUM &
 #summary = "Lorem ipsum dolor sit amet, consectetur adipiscing elit."
 
 # Optional image to display on homepage (relative to `static/img/` folder).
-image_preview = poster-bogachev-course.jpg
+image_preview = "poster-bogachev-course.jpg"
 
 # Tags: can be used for filtering projects.
 # Example: `tags = ["machine-learning", "deep-learning"]`
@@ -23,7 +23,7 @@ math = true
 
 # Optional featured image (relative to `static/img/` folder).
 [header]
-image = img/poster-bogachev-course.jpg
+image = "poster-bogachev-course.jpg"
 #url = "pdf/cv-Bogachev-NV.pdf"
 caption = "My caption :smile:"
 
