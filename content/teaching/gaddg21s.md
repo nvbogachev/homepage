@@ -1,6 +1,6 @@
 +++
 # Date this page was created.
-#date = "2021-01-06"
+date = "2021-01-06"
 
 # Project title.
 title = "Geometry, arithmetic and dynamics of discrete groups (in Russian, IUM & MIPT & HSE), Spring 2021"
