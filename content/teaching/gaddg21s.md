@@ -1,6 +1,6 @@
 +++
 # Date this page was created.
-date = "2020-09-08"
+#date = "2020-09-08"
 
 # Project title.
 title = "Geometry, arithmetic and dynamics of discrete groups (in Russian, IUM & MIPT & HSE), Spring 2021"
@@ -9,7 +9,7 @@ title = "Geometry, arithmetic and dynamics of discrete groups (in Russian, IUM &
 #summary = "Lorem ipsum dolor sit amet, consectetur adipiscing elit."
 
 # Optional image to display on homepage (relative to `static/img/` folder).
-image_preview = "poster-bogachev-course.jpg"
+image_preview = poster-bogachev-course.jpg
 
 # Tags: can be used for filtering projects.
 # Example: `tags = ["machine-learning", "deep-learning"]`
@@ -23,7 +23,7 @@ math = true
 
 # Optional featured image (relative to `static/img/` folder).
 [header]
-image = poster-bogachev-course.jpg
+image = img/poster-bogachev-course.jpg
 #url = "pdf/cv-Bogachev-NV.pdf"
 caption = "My caption :smile:"
 
