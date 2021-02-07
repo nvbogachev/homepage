@@ -29,7 +29,7 @@ caption = "My caption :smile:"
 
 +++
 
-{{< figure src="img/poster-bogachev-course.jpg" title="Poster" width="200">}}
+{{< figure src="img/poster-bogachev-course.jpg" title="" width="700">}}
 
 
 ## English description
