@@ -29,7 +29,7 @@ caption = "My caption :smile:"
 
 +++
 
-{{< figure src="img/poster-bogachev-course.jpg" title="" width="700">}}
+{{< figure src="img/poster-bogachev-course.jpg" title="" width="1000">}}
 
 
 ## English description
@@ -62,6 +62,8 @@ https://combgeo.org/events-ru/bogachev-course/
 Идент. конф.: 986 2594 4049
 
 Пароль — порядок группы S_6.
+
+**Первая лекция состоится во вторник 9 февраля в 17:30.**
 
 ### Примерная программа курса:
 
