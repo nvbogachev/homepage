@@ -1,6 +1,6 @@
 +++
 # Date this page was created.
-#date = "2020-09-08"
+#date = "2021-01-06"
 
 # Project title.
 title = "Geometry, arithmetic and dynamics of discrete groups (in Russian, IUM & MIPT & HSE), Spring 2021"
@@ -23,7 +23,7 @@ math = true
 
 # Optional featured image (relative to `static/img/` folder).
 [header]
-image = "poster-bogachev-course.jpg"
+image = "img/poster-bogachev-course.jpg"
 #url = "pdf/cv-Bogachev-NV.pdf"
 caption = "My caption :smile:"
 
