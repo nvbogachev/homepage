@@ -65,16 +65,17 @@ https://combgeo.org/events-ru/bogachev-course/
 
 **Первая лекция состоится во вторник 9 февраля в 17:30.**
 
+Лекция 23 февраля **не состоится**.
 
 ### **Лекции**
 
 1. 09.02.2021. Введение (общая картина: что изучаем?). Элементы общей и алгебраической топологии: топологические многообразия и конструкции, гомотопии, фундаментальные группы, накрытия.
-- Слайды/конспекты: [Lec1.pdf](IUM-discrete-groups-Lec1.pdf)
-- [Видео](https://drive.google.com/file/d/1jObTpldRMo3l8o4rJI5pahuNZzS9T1yt/view?usp=sharing)
+  - Слайды/конспекты: [Lec1.pdf](IUM-discrete-groups-Lec1.pdf)
+  - [Видео](https://drive.google.com/file/d/1jObTpldRMo3l8o4rJI5pahuNZzS9T1yt/view?usp=sharing)
 
 2. 16.02.2021. Риманова геометрия: гладкие многообразия, группы Ли, римановы многообразия, симметрические однородные пространства, пространства постоянной секционной кривизны, пространство Лобачевского H^n.
-- Слайды/конспекты: [Lec2.pdf](IUM-discrete-groups-Lec2.pdf)
-- [Видео](https://drive.google.com/file/d/19HHy3tVld9yeY3SS5uk1DlawQXkWDwPA/view?usp=sharing)
+  - Слайды/конспекты: [Lec2.pdf](IUM-discrete-groups-Lec2.pdf)
+  - [Видео](https://drive.google.com/file/d/19HHy3tVld9yeY3SS5uk1DlawQXkWDwPA/view?usp=sharing)
 
 3. Дискретные подгруппы групп Ли: мера Хаара на локально компактной группе, решетки в группах Ли, простейшие свойства решеток.
 
