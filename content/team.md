@@ -57,7 +57,7 @@ math = true
 
 - Alexey Glazkin (Bachelor's Student, 2021)
 
-  + Current project:
+  + Current project: discrete surfaces, hole detecting and filling algorithms, triangular meshes
 
 
 ### Possible Research Topics and Description of My Research Interest
