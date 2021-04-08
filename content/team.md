@@ -34,13 +34,30 @@ math = true
 
 - Nikolay Bogachev (team leader)
 
-- Khusrav Yorov (PhD student)
+- Khusrav Yorov (PhD student, 2019 -- present)
 
-  + Master's Thesis: "Quasi-arithmetic compact hyperbolic Coxeter prisms in H^3".
+  + Master's Thesis: "Quasi-arithmetic compact hyperbolic Coxeter prisms in H^3", 2018--2019.
 
-- Mohammad Mualla (PhD student)
+- Mohammad Mualla (PhD student, 2019 -- present)
 
-- Stepan Alexandrov (Masters Student)
+  + Current project 1: Reflective Lorentzian lattices over Z
+  + Current project 2: Isomorphism and Jordan decomposition of lattices over quadratic rings of integers, software implementation
+
+- Stepan Alexandrov (Bachelor's Student, 2019 -- present)
+
+  + Current project: Gale diagrams and combinatorial properties of compact hyperbolic Coxeter polytopes
+
+- Dmitry Guschin (Bachelor's Student, 2020 -- present)
+
+  + Current project: Reflective Lorentzian lattices and the Vinberg algorithm
+
+- Igor Novikov (Bachelor's Student, 2020 -- present)
+
+  + Current project: Fuchsian groups and Cartan involutions
+
+- Alexey Glazkin (Bachelor's Student, 2021)
+
+  + Current project:
 
 
 ### Possible Research Topics and Description of My Research Interest
@@ -57,8 +74,7 @@ math = true
 
 - Description of my research interests
 
-- And
-
+- 
 
 
 ### Current activities for team members (Fall 2020)
