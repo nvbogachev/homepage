@@ -43,22 +43,22 @@ Here is a webpage of ongoing seminar at the Skoltech Center for Advanced Studies
 2. Dr. [Nikolay Bogachev](https://nvbogachev.netlify.app/) (Postdoc; Skoltech & MIPT). **The dynamical proof of the Mostow Rigidity Theorem**. 
 
   - Lecture 1. 29.01.2021.
-    + [Video1](https://drive.google.com/file/d/1rvnxqU5nVVhvSpSiE4U0g3zE9brbweZe/view?usp=sharing)
-    + [Lec1.pdf](Bogachev-Mostow-Rigidity-SkoltechSeminar-2021-Lec1.pdf)
+      + [Video1](https://drive.google.com/file/d/1rvnxqU5nVVhvSpSiE4U0g3zE9brbweZe/view?usp=sharing)
+      + [Lec1.pdf](Bogachev-Mostow-Rigidity-SkoltechSeminar-2021-Lec1.pdf)
   - Lecture 2. 05.02.2021.
-    + [Video2](https://drive.google.com/file/d/1wyHWHzi14DxHiqf4K3A5iq93D1myU7e_/view?usp=sharing)
-    + [Lec2.pdf](Bogachev-Mostow-Rigidity-SkoltechSeminar-2021-Lec2.pdf)
+      + [Video2](https://drive.google.com/file/d/1wyHWHzi14DxHiqf4K3A5iq93D1myU7e_/view?usp=sharing)
+      + [Lec2.pdf](Bogachev-Mostow-Rigidity-SkoltechSeminar-2021-Lec2.pdf)
   - Lecture 3. 19.02.2021.
-    + [Video3](https://drive.google.com/file/d/1nnZ5kaQKcNC17vne2u5PRSg-GGARVJfX/view?usp=sharing)
-    + [Lec3.pdf](Bogachev-Mostow-Rigidity-SkoltechSeminar-2021-Lec3.pdf)
+      + [Video3](https://drive.google.com/file/d/1nnZ5kaQKcNC17vne2u5PRSg-GGARVJfX/view?usp=sharing)
+      + [Lec3.pdf](Bogachev-Mostow-Rigidity-SkoltechSeminar-2021-Lec3.pdf)
   - Lecture 4. 26.02.2021.
-    + [Video4](https://drive.google.com/file/d/1oWOgb4sj75iQ8gBd6GlKIsiOxFjbQbF3/view?usp=sharing)
-    + [Lec4.pdf](Bogachev-Mostow-Rigidity-SkoltechSeminar-2021-Lec4.pdf)
+      + [Video4](https://drive.google.com/file/d/1oWOgb4sj75iQ8gBd6GlKIsiOxFjbQbF3/view?usp=sharing)
+      + [Lec4.pdf](Bogachev-Mostow-Rigidity-SkoltechSeminar-2021-Lec4.pdf)
   - Lecture 5. 05.03.2021.
-    + [Video5](https://drive.google.com/file/d/1AX2JMCzY-6VlyUCJBATCSGcvBkd435g1/view?usp=sharing)
-    + [Lec5.pdf](Bogachev-Mostow-Rigidity-SkoltechSeminar-2021-Lec5.pdf)
+      + [Video5](https://drive.google.com/file/d/1AX2JMCzY-6VlyUCJBATCSGcvBkd435g1/view?usp=sharing)
+      + [Lec5.pdf](Bogachev-Mostow-Rigidity-SkoltechSeminar-2021-Lec5.pdf)
   - Discussion meeting. 12.03.2021.
-    + [Notes.pdf](Mostow-Rigidity-ProblemSet1.pdf)
+      + [Notes.pdf](Mostow-Rigidity-ProblemSet1.pdf)
 
 3. Prof. [Alexander Gaifullin](https://crei.skoltech.ru/cas/ru/people-ru/aleksandr-gaifullin/)  (Full Prof.; Steklov Inst & MSU & Skoltech). **Intro to mapping class groups**.
 
