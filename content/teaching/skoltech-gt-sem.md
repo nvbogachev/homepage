@@ -35,11 +35,13 @@ Here is a webpage of ongoing seminar at the Skoltech Center for Advanced Studies
 
 ## Seminars 2020--2021
 
-1. Nikita Klemyatin (Skoltech & HSE) - PhD student.
+1. Nikita Klemyatin (PhD student; Skoltech & HSE).
 
-2. Nikolay Bogachev](https://nvbogachev.netlify.app/) (Skoltech & MIPT) - Postdoc/assistant prof. *The dynamical proof of the Mostow Rigidity Theorem*. 
+2. Dr. [Nikolay Bogachev](https://nvbogachev.netlify.app/) (Postdoc; Skoltech & MIPT). *The dynamical proof of the Mostow Rigidity Theorem*. 
 
-3. [Alexander Gaifullin](https://crei.skoltech.ru/cas/ru/people-ru/aleksandr-gaifullin/)  (Steklov Inst & MSU & Skoltech) - Full Prof. *Intro to mapping class groups*.
+3. Prof. [Alexander Gaifullin](https://crei.skoltech.ru/cas/ru/people-ru/aleksandr-gaifullin/)  (Full Prof.; Steklov Inst & MSU & Skoltech). *Intro to mapping class groups*.
 
-4. Alexey Ruhovich (Skoltech & HSE) - PhD student.
+4. Alexey Ruhovich (PhD student; Skoltech & HSE). *On the paper ["Arithmetic groups symmetry and finiteness properties of Torelli groups"](https://annals.math.princeton.edu/wp-content/uploads/annals-v177-n2-p01-s.pdf)*.
+
+5. 
 
