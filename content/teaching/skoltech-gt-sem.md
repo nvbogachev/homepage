@@ -30,7 +30,7 @@ caption = "My caption :smile:"
 
 # The Skoltech Geometry & Topology Seminar (in Russian)
 
-Here is a webpage of ongoing seminar at the Skoltech Center for Advanced Studies lead by Prof. A. Gaifullin. The main goal of this seminar is to analyze and discuss either some general topics or specific papers devoted to interactions between geometry, topology, and algebra. Each semester usually consists of a few (or just one) mini-courses given by young or senior participants/researchers in **Russian**.
+Here is a webpage of ongoing seminar at the Skoltech Center for Advanced Studies lead by Prof. A. Gaifullin. The main goal of this seminar is to analyze and discuss either some general topics or specific papers devoted to interactions between geometry, topology, and algebra. Each semester usually consists of a few (or just one) mini-courses given **in Russian** by young or senior participants/researchers.
 
 
 ## Seminars 2020--2021
@@ -63,8 +63,11 @@ Here is a webpage of ongoing seminar at the Skoltech Center for Advanced Studies
 3. Prof. [Alexander Gaifullin](https://crei.skoltech.ru/cas/ru/people-ru/aleksandr-gaifullin/)  (Full Prof.; Steklov Inst & MSU & Skoltech). **Intro to mapping class groups**.
 
   - Lecture 1. 26.03.2021.
+      + [Video1](https://drive.google.com/file/d/1GNvKs0vjgX2hKH7CivlC9f5SF-ul9qEs/view?usp=sharing)
   - Lecture 2. 02.04.2021.
+      + [Video2](https://drive.google.com/file/d/1WNmIwt5A28ViyKNrXy9AQAU2QL-oKnWh/view?usp=sharing)
   - Lecture 3. 09.04.2021.
+      + [Video3]()
 
 4. Alexey Ruhovich (PhD student; Skoltech & HSE). **On the paper ["Arithmetic groups symmetry and finiteness properties of Torelli groups"](https://annals.math.princeton.edu/wp-content/uploads/annals-v177-n2-p01-s.pdf)**.
 
