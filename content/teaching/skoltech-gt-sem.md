@@ -35,13 +35,27 @@ Here is a webpage of ongoing seminar at the Skoltech Center for Advanced Studies
 
 ## Seminars 2020--2021
 
-1. Nikita Klemyatin (PhD student; Skoltech & HSE).
+1. Nikita Klemyatin (PhD student; Skoltech & HSE). **Topological characterization of the complex projective space**.
 
-2. Dr. [Nikolay Bogachev](https://nvbogachev.netlify.app/) (Postdoc; Skoltech & MIPT). *The dynamical proof of the Mostow Rigidity Theorem*. 
+  - Proof of the Hirzebruch -- Kodaira theorem (CP^n).
+  - Proof of the Yau theorem (CP^2).
 
-3. Prof. [Alexander Gaifullin](https://crei.skoltech.ru/cas/ru/people-ru/aleksandr-gaifullin/)  (Full Prof.; Steklov Inst & MSU & Skoltech). *Intro to mapping class groups*.
+2. Dr. [Nikolay Bogachev](https://nvbogachev.netlify.app/) (Postdoc; Skoltech & MIPT). **The dynamical proof of the Mostow Rigidity Theorem**. 
 
-4. Alexey Ruhovich (PhD student; Skoltech & HSE). *On the paper ["Arithmetic groups symmetry and finiteness properties of Torelli groups"](https://annals.math.princeton.edu/wp-content/uploads/annals-v177-n2-p01-s.pdf)*.
+  - Lecture 1.
+  - Lecture 2.
+  - Lecture 3.
+  - Lecture 4.
+  - Lecture 5. 05.03.2021.
+  - Discussion meeting. 12.03.2021.
+
+3. Prof. [Alexander Gaifullin](https://crei.skoltech.ru/cas/ru/people-ru/aleksandr-gaifullin/)  (Full Prof.; Steklov Inst & MSU & Skoltech). **Intro to mapping class groups**.
+
+  - Lecture 1. 26.03.2021.
+  - Lecture 2. 02.04.2021.
+  - Lecture 3. 09.04.2021.
+
+4. Alexey Ruhovich (PhD student; Skoltech & HSE). **On the paper ["Arithmetic groups symmetry and finiteness properties of Torelli groups"](https://annals.math.princeton.edu/wp-content/uploads/annals-v177-n2-p01-s.pdf)**.
 
 5. 
 
