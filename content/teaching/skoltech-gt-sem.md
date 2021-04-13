@@ -30,7 +30,7 @@ caption = "My caption :smile:"
 
 # The Skoltech Geometry & Topology Seminar (in Russian)
 
-Here is a webpage of ongoing seminar at the Skoltech Center for Advanced Studies lead by Prof. A. Gaifullin. The main goal of this seminar is to analyze and discuss either some general topics or specific papers devoted to interactions between geometry, topology, and algebra. Each semester usually consists of a few (or just one) mini-courses given **in Russian** by young or senior participants/researchers.
+Here is a webpage of ongoing seminar at the Skoltech Center for Advanced Studies lead by Prof. [Alexander Gaifullin](https://crei.skoltech.ru/cas/ru/people-ru/aleksandr-gaifullin/). The main goal of this seminar is to analyze and discuss either some general topics or specific papers devoted to interactions between geometry, topology, and algebra. Each semester usually consists of a few (or just one) mini-courses given **in Russian** by young or senior participants/researchers.
 
 
 ## Seminars 2020--2021
@@ -40,7 +40,7 @@ Here is a webpage of ongoing seminar at the Skoltech Center for Advanced Studies
   - Proof of the Hirzebruch -- Kodaira theorem (CP^n).
   - Proof of the Yau theorem (CP^2).
 
-2. Dr. [Nikolay Bogachev](https://nvbogachev.netlify.app/) (Postdoc; Skoltech & MIPT). **The dynamical proof of the Mostow Rigidity Theorem**. 
+2. Dr. [Nikolay Bogachev](https://nvbogachev.netlify.app/) (Postdoc/Assistant prof; Skoltech & MIPT). **The dynamical proof of the Mostow Rigidity Theorem for compact hyperbolic manifolds**. 
 
   - Lecture 1. 29.01.2021.
       + [Video1](https://drive.google.com/file/d/1rvnxqU5nVVhvSpSiE4U0g3zE9brbweZe/view?usp=sharing)
@@ -60,7 +60,7 @@ Here is a webpage of ongoing seminar at the Skoltech Center for Advanced Studies
   - Discussion meeting. 12.03.2021.
       + [Notes.pdf](Mostow-Rigidity-ProblemSet1.pdf)
 
-3. Prof. [Alexander Gaifullin](https://crei.skoltech.ru/cas/ru/people-ru/aleksandr-gaifullin/)  (Full Prof.; Steklov Inst & MSU & Skoltech). **Intro to mapping class groups**.
+3. Prof. [Alexander Gaifullin](https://crei.skoltech.ru/cas/ru/people-ru/aleksandr-gaifullin/)  (Full Prof.; Steklov Inst & MSU & Skoltech). **Intro to mapping class groups and their topological aspects**.
 
   - Lecture 1. 26.03.2021.
       + [Video1](https://drive.google.com/file/d/1GNvKs0vjgX2hKH7CivlC9f5SF-ul9qEs/view?usp=sharing)
