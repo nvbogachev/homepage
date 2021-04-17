@@ -26,7 +26,7 @@ detailed_list = true
 
 ### Research Interests
 
-Discrete subgroups of Lie groups, geometry of discrete groups, hyperbolic geometry and topology, hyperbolic manifolds and orbifolds, hyperbolic reflection groups, Coxeter polytopes, arithmetic hyperbolic reflection groups, reflective Lorentzian lattices.
+Discrete subgroups of Lie groups, geometry of discrete groups, arithmetic lattices, hyperbolic geometry and topology, hyperbolic manifolds and orbifolds, hyperbolic reflection groups, Coxeter polytopes, arithmetic hyperbolic reflection groups, reflective Lorentzian lattices.
 
 
 
@@ -45,7 +45,7 @@ Discrete subgroups of Lie groups, geometry of discrete groups, hyperbolic geomet
 ### Preprints/submitted papers
 
 
-&nbsp; &nbsp; **6.** *"From geometry to arithmeticity of compact hyperbolic Coxeter polytopes"*, [arXiv:2003.11944](/Bogachev-GeomArithmCoxeter-2020.pdf)
+&nbsp; &nbsp; **6.** *"From geometry to arithmetic of compact hyperbolic Coxeter polytopes"*, [arXiv:2003.11944](/Bogachev-GeomArithmCoxeter-2020.pdf)
 
 - SageMath [worksheet SmaRBA](https://github.com/nvbogachev/OuterMostEdge/blob/master/SmaRBA.ipynb)
 

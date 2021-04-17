@@ -67,9 +67,14 @@ Here is a webpage of ongoing seminar at the Skoltech Center for Advanced Studies
   - Lecture 2. 02.04.2021.
       + [Video2](https://drive.google.com/file/d/1WNmIwt5A28ViyKNrXy9AQAU2QL-oKnWh/view?usp=sharing)
   - Lecture 3. 09.04.2021.
-      + [Video3]()
+      + [Video3](https://drive.google.com/file/d/1HlONu6AKbCP24j3m98XZCC0zPDJn-dvN/view?usp=sharing)
+  - Notes
 
 4. Alexey Ruhovich (PhD student; Skoltech & HSE). **On the paper ["Arithmetic groups symmetry and finiteness properties of Torelli groups"](https://annals.math.princeton.edu/wp-content/uploads/annals-v177-n2-p01-s.pdf)**.
+
+  - Lecture 1. 16.04.2021.
+      + [Video1](https://drive.google.com/file/d/1tbFgdzcskFHDZ97wwzpI3UnKg4z4S6I6/view?usp=sharing)
+      + [Lec1.pdf](Ruhovich-Lec1.pdf)
 
 5. 
 
