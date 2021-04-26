@@ -39,6 +39,12 @@ Here is a webpage of ongoing seminar at the Skoltech Center for Advanced Studies
 
   - Proof of the Hirzebruch -- Kodaira theorem (CP^n).
   - Proof of the Yau theorem (CP^2).
+      + [Lec1.pdf](Lec1-General-plan.pdf). General plan.
+      + [Lec2.pdf](Lec2-Preliminaries-Kahler-manifolds.pdf). Preliminaries on Kahler manifolds.
+      + [Lec3.pdf](Lec3-Bogomolov-Miyaoki-Yau-inequality-and-sectional-curvature.pdf). The Bogomolov-Miyaoki-Yau inequality and sectional curvature.
+      + [Lec4.pdf](Lec4-Kahler-Einstein-metrics-Monge-Ampere-equations.pdf). Kahler-Einstein metricsa and Monge-Ampere equations.
+      + [Lec5.pdf](Lec5-Bounds-for-Monge-Ampere.pdf). Bounds for Monge-Ampere.
+      + [Lec6.pdf](Lec6-Riemann-Roch-Final.pdf). The Riemann-Roch Theorem and final of the proof.
 
 2. Dr. [Nikolay Bogachev](https://nvbogachev.netlify.app/) (Postdoc/Assistant prof; Skoltech & MIPT). **The dynamical proof of the Mostow Rigidity Theorem for compact hyperbolic manifolds**. 
 
@@ -75,6 +81,10 @@ Here is a webpage of ongoing seminar at the Skoltech Center for Advanced Studies
   - Lecture 1. 16.04.2021.
       + [Video1](https://drive.google.com/file/d/1tbFgdzcskFHDZ97wwzpI3UnKg4z4S6I6/view?usp=sharing)
       + [Lec1.pdf](Rukhovich-Lec1.pdf)
-
+  - Lecture 2. 23.04.2021.
+      + [Video2](https://drive.google.com/file/d/1lV0BxGEGn6UUFh_iaNZZavUqenDAESf1/view?usp=sharing)
+      + [Lec2.pdf](Rukhovich-Lec2.pdf)
+      
+      
 5. 
 
