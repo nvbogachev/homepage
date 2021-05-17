@@ -33,17 +33,17 @@ Discrete subgroups of Lie groups, geometry of discrete groups, arithmetic lattic
 
 ### Current Projects/Work in Progress
 
-- with [Misha Belolipetsky](http://w3.impa.br/~mbel/), [Alexander Kolpakov](https://sashakolpakov.wordpress.com/) & [Leone Slavich](http://matematica.unipv.it/slavich/): *"totally geodesic subspaces of hyperbolic orbifolds, subspace stabilisers in hyperbolic lattices"*"
-
 - with [Kostya Golubev](https://people.math.ethz.ch/~golubevk/) & [Sasha Kolpakov](https://sashakolpakov.wordpress.com/): *"chromatic numbers of manifolds, graph embeddings in manifolds"*
 
-- with [Alexander Perepechko](http://a.perep.ru/): *"Vinberg's algorithm for Lorentzian lattices over quadratic fields"*
+- with Remi Bottinelli & [Alexander Perepechko](http://a.perep.ru/): *"Vinberg's algorithm for Lorentzian lattices over number fields"*
 
 
 
 
 ### Preprints/submitted papers
 
+
+&nbsp; &nbsp; **7.** [Misha Belolipetsky](http://w3.impa.br/~mbel/), [Alexander Kolpakov](https://sashakolpakov.wordpress.com/) & [Leone Slavich](http://matematica.unipv.it/slavich/): *"Subspace stabilisers in hyperbolic lattices"*, [arXiv:2105.06897](https://arxiv.org/abs/2105.06897)
 
 &nbsp; &nbsp; **6.** *"From geometry to arithmetic of compact hyperbolic Coxeter polytopes"*, [arXiv:2003.11944](/Bogachev-GeomArithmCoxeter-2020.pdf)
 
@@ -55,7 +55,7 @@ Discrete subgroups of Lie groups, geometry of discrete groups, arithmetic lattic
 
 ### Published/accepted papers
 
-&nbsp; &nbsp; **5.** with [Alexander Kolpakov](https://sashakolpakov.wordpress.com/): *"On faces of quasi-arithmetic Coxeter polytopes"*, to appear in **IMRN -- Int. Math. Res. Not.**, [arXiv:2002.11445](https://arxiv.org/abs/2002.11445v2)
+&nbsp; &nbsp; **5.** with [Alexander Kolpakov](https://sashakolpakov.wordpress.com/): *"On faces of quasi-arithmetic Coxeter polytopes"*, **IMRN -- Int. Math. Res. Not.**, 2021, Vol. 2021, Issue 4, pp. 3078-3096. [arXiv:2002.11445](https://arxiv.org/abs/2002.11445v2)
 
 - SageMath [worksheet PLoF](https://www.dropbox.com/s/l8rntjle8wwrrph/PLoF_Lower_dimensional_faces.ipynb)
 
