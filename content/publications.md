@@ -33,6 +33,8 @@ Discrete subgroups of Lie groups, geometry of discrete groups, arithmetic lattic
 
 ### Current Projects/Work in Progress
 
+- with [Alex Kontorovich](https://sites.math.rutgers.edu/~alexk/) & [Sasha Kolpakov](https://sashakolpakov.wordpress.com/): *"Kleinian sphere packings and arithmetic groups"*
+
 - with [Kostya Golubev](https://people.math.ethz.ch/~golubevk/) & [Sasha Kolpakov](https://sashakolpakov.wordpress.com/): *"chromatic numbers of manifolds, graph embeddings in manifolds"*
 
 - with Remi Bottinelli & [Alexander Perepechko](http://a.perep.ru/): *"Vinberg's algorithm for Lorentzian lattices over number fields"*
