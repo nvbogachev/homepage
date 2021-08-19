@@ -70,6 +70,8 @@ I am a mathematician with research interests in hyperbolic geometry and geometry
 
 **Awards**
 
+  - 2021: [Prize for Young Mathematicians of Russia](https://icm2022.org/blog/the-announcement-of-prize-for-young-russian-mathematicians-winners-among-young-scientists)
+
   - 2017, 2018: The Simons Foundation Prize for PhD students.
 
 
