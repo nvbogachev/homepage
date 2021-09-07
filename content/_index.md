@@ -65,7 +65,7 @@ I am a mathematician with research interests in hyperbolic geometry and geometry
 
   - PhD in Mathematics, 2019, Higher School of Economics
   
-  - PhD-program in Mathematics, 2014-2018, Moscow State University
+  - PhD-program in Mathematics, 2014--2018, Moscow State University
 
   - MSc in Mathematics, 2014, Moscow State University
 
