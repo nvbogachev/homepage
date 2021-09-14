@@ -48,6 +48,18 @@ weight = 1
  
 +++
 
+#### Fall 2021
+
+- **Bachelor's Level at the MIPT:** lectures on [Geometry in Computer Science](gcs21f) at the MIPT.
+
+- **Master's Level at the MIPT:** lectures and webinars on [Linear Algebra](linal20) (in English)
+
+- **Advanced Course at the MIPT:** [Ergodic theory and dynamics of discrete groups](edg21f) in Russian.
+
+- **Research Seminar at the MIPT:** [Geometry, topology and arithmetic of discrete groups](ResSem20f) at the MIPT
+
+- **Online Research Seminar at the MIPT:** [The Vinberg Distinguished Lecture Series](https://vinberg.combgeo.org/) (joint with Sasha Kolpakov and Alex Kontorovich)
+
 #### Spring 2021
 
 - **Advanced Course at the IUM & MIPT & HSE:** [Geometry, arithmetic and dynamics of discrete groups](gaddg21s) in Russian.
