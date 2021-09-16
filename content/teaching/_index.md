@@ -54,7 +54,7 @@ weight = 1
 
 - **Master's Level at the MIPT:** lectures and webinars on [Linear Algebra](linal20) (in English)
 
-- **Advanced Course at the MIPT:** [Ergodic theory and dynamics of discrete groups](edg21f) in Russian.
+- **Advanced Course at the MIPT:** [Ergodic theory and dynamics of discrete groups](edg21f) (in Russian).
 
 - **Research Seminar at the MIPT:** [Geometry, topology and arithmetic of discrete groups](ResSem20f) at the MIPT
 
