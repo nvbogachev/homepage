@@ -1,6 +1,6 @@
 +++
 # Date this page was created.
-date = "2021-01-06"
+date = "2021-09-20"
 
 # Project title.
 title = "Ergodic theory and dynamics of discrete groups (in Russian, MIPT), Fall 2021"
@@ -13,7 +13,7 @@ image_preview = "poster-bogachev-course.jpg"
 
 # Tags: can be used for filtering projects.
 # Example: `tags = ["machine-learning", "deep-learning"]`
-#tags = ["gcs20f"]
+#tags = ["edg21f"]
 
 # Optional external URL for project (replaces project detail page).
 external_link = ""
