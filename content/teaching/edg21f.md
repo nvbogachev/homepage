@@ -57,11 +57,11 @@ Here is the page of my course "Ergodic theory and dynamics of discrete groups" (
 
 1. 24.09.2021. Введение. Пример с тором. Формулировка теоремы Ратнер (Ratner's Orbit Closure Theorem). Формулировка теоремы Маргулиса про значения квадратичных форм: Oppenheim Conjecture.
   - [Слайды](Ergodic-theory-Lec-1.pdf)
-  - [Видео]()
+  - [Видео](https://drive.google.com/file/d/1-Q1Avq3dq6_A61flvZQa7plnXgjp0msh/view?usp=sharing)
   - Упражнения: Взяты из книги Morris "Ratner's Theorems".
       + §1.1., упражнения #1, 4, 5, 9, 10, 11, 12
       + §1.2., упражнения #8, 10, 12, 13.
   
 2. 01.10.2021. Меры. Мера Хаара. Фундаментальная область. Проекция меры Хаара на фактор G/Г. Решетки в группах Ли. Формулировки остальных теорем Ратнер.
-  
+  - [Видео](https://drive.google.com/file/d/1c8jTmW5cbVYvY9FvvgT9IJJbsD7srP2S/view?usp=sharing)
   

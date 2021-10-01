@@ -73,13 +73,13 @@ Here is the page of my course "Geometry in Computer Science", which I'm reading 
 Лекция 4. 22.09.2021. Геометрия пространственных кривых и поверхностей. Кривизна и кручение пространственной кривой. Риманова метрика (I квадратичная форма). Оператор формы. II квадратичная форма. Главные кривизны и направления. Теорема Менье. Экстремальные нормальные кривизны.
 
 - [Слайды](GKP-Lecture-4.pdf)
-- [Видео]()
+- [Видео](https://drive.google.com/file/d/1TdsHZnNgN15gSj2dIdWKNV-b1vDnkOCi/view?usp=sharing)
 
 Лекция 5. 29.09.2021. Гладкие многообразия с краем. Симплициальные комплексы. Дискретные (симплициальные) поверхности.
 
 - [Manifolds with boundary](Manifolds-with-boundary.pdf)
 - [Дискретные поверхности](Lecture-5.pdf)
-- [Видео]()
+- [Видео](https://drive.google.com/file/d/19_txXa1jTF7MI4fb9E88AWRzEWeFiK-U/view?usp=sharing)
 
 
 ## Семинары
