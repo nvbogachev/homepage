@@ -81,6 +81,11 @@ Here is the page of my course "Geometry in Computer Science", which I'm reading 
 - [Дискретные поверхности](Lecture-5.pdf)
 - [Видео](https://drive.google.com/file/d/19_txXa1jTF7MI4fb9E88AWRzEWeFiK-U/view?usp=sharing)
 
+Лекция 6. 13.10.2021. Внешние и дифференциальные формы. Двойственный базис пространства линейных функционалов. Внешнее умножение. Мономы. Звезда Ходжа. Дифференциал функции - частный случай дифференциальной формы (дифференциальная 1-форма). Диффернциальные формы. Дифференцирование и интегрирование дифференциальных форм.
+
+- [Слайды](Lecture-6.pdf)
+- [Видео](https://drive.google.com/file/d/15CUlpWuni-jxSwwzU61fMcyiozEIq30a/view?usp=sharing)
+
 
 ## Семинары
 
