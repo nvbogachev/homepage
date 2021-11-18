@@ -28,22 +28,27 @@ detailed_list = true
 
 # Nikolay V. Bogachev
 
-1. **Post-Doctoral Fellow** at [**Skoltech**](https://crei.skoltech.ru/cas/) \\
+1. **Research Scientist** at the [**IITP RAS**](http://iitp.ru/en/about) \\
 2. **Associate Prof. & Research Scientist** at [**MIPT**](https://mipt.ru/english/)\\
 3. **Research Scientist** at the [**Caucasus Mathematical Center of ASU**](http://en.cmcagu.ru/)
 
 
+
 ### Current Positions
 
-  - Nov 2019 - present (major position), **Post-Doctoral Fellow (Research Scientist)** at the [Center for Advanced Studies](https://crei.skoltech.ru/cas/) of [Skoltech](https://www.skoltech.ru/en) (head: Prof. [Alexander Gaifullin](https://faculty.skoltech.ru/people/alexandergaifullin))
-
-  - Feb 2019 - present (part-time), **Research Scientist** at the Laboratory of Advanced Combinatorics of the [Moscow Institute of Physics and Technology](https://mipt.ru/english/) (head: Prof. [Andrei M. Raigorodskii](https://mipt.ru/english/persons/andrey-raigorodskii#1757226))
+  - Nov 2021 - present (major tenure position), **Research Scientist** at the [Institute for Information Transmission Problems](http://iitp.ru/en/about)
 
   - Nov 2019 - present (part-time), **Assistant/Associate Professor** at the Department of Discrete Mathematics of the [Moscow Institute of Physics and Technology](https://mipt.ru/english/) (head: Prof. [Andrei M. Raigorodskii](https://mipt.ru/english/persons/andrey-raigorodskii#1757226))
+  
+  - Nov 2019 - present (part-time), **Research Scientist** at the [Laboratory of Combinatorial and Geometric Structures](https://combgeo.org/en/) of the [Moscow Institute of Physics and Technology](https://mipt.ru/english/) (head: Prof. [Janos Pach](https://www.math.nyu.edu/~pach/))
 
   - Sep 2018 - present (part-time), **Research Scientist** at the [Caucasus Mathematical Center](http://en.cmcagu.ru/) of the Adyghe State University
 
 ### Previous Positions
+
+- Nov 2019 - Nov 2021 (major position), **Post-Doctoral Fellow (Research Scientist)** at the [Center for Advanced Studies](https://crei.skoltech.ru/cas/) of [Skoltech](https://www.skoltech.ru/en) (head: Prof. [Alexander Gaifullin](https://faculty.skoltech.ru/people/alexandergaifullin))
+
+- Feb 2017 - Nov 2019 (part-time), **Research Scientist** at the Laboratory of Advanced Combinatorics of the [Moscow Institute of Physics and Technology](https://mipt.ru/english/) (head: Prof. [Andrei M. Raigorodskii](https://mipt.ru/english/persons/andrey-raigorodskii#1757226))
 
 - Sep 2016 - Oct 2019 (major position), **Lecturer & Teaching Assistant** at the Department of Discrete Mathematics of the [Moscow Institute of Physics and Technology](https://mipt.ru/english/) (head: Prof. [Andrei M. Raigorodskii](https://mipt.ru/english/persons/andrey-raigorodskii#1757226))
 

@@ -54,7 +54,7 @@ image = "img/profile.png"
 # Nikolay V. Bogachev
 
 
-[**Skoltech**](https://crei.skoltech.ru/cas/) & [**Moscow Institute of Physics and Technology**](https://mipt.ru/english/)
+[**Institute for Information Transmission Problems**](http://iitp.ru/en/about) & [**Moscow Institute of Physics and Technology**](https://mipt.ru/english/)
 
 
 ## About
