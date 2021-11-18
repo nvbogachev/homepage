@@ -45,6 +45,8 @@ Discrete subgroups of Lie groups, geometry of discrete groups, arithmetic lattic
 ### Preprints/submitted papers
 
 
+&nbsp; &nbsp; **8.** with Stepan Alexandrov (MIPT), Andrei Egorov (Novosibirsk State Univ.) & [Andrei Vesnin](http://math.nsc.ru/~vesnin/) (Tomsk & NSU & HSE): *"On volumes of hyperbolic right-angled polyhedra"*, [arXiv:2111.08789](https://arxiv.org/abs/2111.08789)
+
 &nbsp; &nbsp; **7.** with [Misha Belolipetsky](http://w3.impa.br/~mbel/), [Alexander Kolpakov](https://sashakolpakov.wordpress.com/) & [Leone Slavich](http://matematica.unipv.it/slavich/): *"Subspace stabilisers in hyperbolic lattices"*, [arXiv:2105.06897](https://arxiv.org/abs/2105.06897)
 
 &nbsp; &nbsp; **6.** *"From geometry to arithmetic of compact hyperbolic Coxeter polytopes"*, [arXiv:2003.11944](/Bogachev-GeomArithmCoxeter-2020.pdf)
