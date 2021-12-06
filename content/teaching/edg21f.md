@@ -64,4 +64,27 @@ Here is the page of my course "Ergodic theory and dynamics of discrete groups" (
   
 2. 01.10.2021. Меры. Мера Хаара. Фундаментальная область. Проекция меры Хаара на фактор G/Г. Решетки в группах Ли. Формулировки остальных теорем Ратнер.
   - [Видео](https://drive.google.com/file/d/1c8jTmW5cbVYvY9FvvgT9IJJbsD7srP2S/view?usp=sharing)
+  - [Слайды](Ergodic-theory-Lec-2.pdf)
+  
+3. Основы эргодической теории. Теорема Биркгофа - Хинчина (Pointwise Ergodic Theorem).
+  - [Слайды](Ergodic-theory-Lec-3.pdf)
+  - [Видео](https://drive.google.com/file/d/1wr-oSYBf9b-8WfJqm7XaTkDP8Tc5I2tY/view?usp=sharing)
+
+4. Основы эргодической теории - продолжение. Второе доказательство теоремы Биркгофа - Хинчина (через условные матожидания).
+  - [Слайды](Ergodic-theory-Lec-4.pdf)
+  - [Видео](https://drive.google.com/file/d/1rJuCbvVJhFy61s5wl6-VdkBw3yAirYJU/view?usp=sharing)
+
+5. Эргодичность действий групп, основные свойства. Формулировки эргодических теорем Хопф, Мура, Хове - Мура (теорема об исчезающих коэффициентах унитарных представлений - Vanishing Theorem).
+  - [Слайды](Ergodic-theory-Lec-5.pdf)
+  - [Видео](https://drive.google.com/file/d/1Xl4UJnGA3qblfDqR-l8noORcmn8hUsVd/view?usp=sharing)
+
+6. Доказательство теоремы Хове - Мура для группы SL(2).
+  - [Слайды](Ergodic-theory-Lec-6.pdf)
+  - [Видео 1]()
+  - [Видео 2](https://drive.google.com/file/d/1pkEgvrnAznpWGu7HO1b9UEj2cdyZItso/view?usp=sharing)
+
+7. Доказательство теоремы Хове - Мура для группы SL(d) и в общем случае для полупростой группы Ли G.
+  - [Слайды](Ergodic-theory-Lec-7.pdf)
+  - [Видео]()
+  
   
