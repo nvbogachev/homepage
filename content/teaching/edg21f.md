@@ -80,11 +80,11 @@ Here is the page of my course "Ergodic theory and dynamics of discrete groups" (
 
 6. Доказательство теоремы Хове - Мура для группы SL(2).
   - [Слайды](Ergodic-theory-Lec-6.pdf)
-  - [Видео 1]()
+  - [Видео 1](https://drive.google.com/file/d/1cyxRs3Yi6b-skSHogfl0gtGnua3_GX0d/view?usp=sharing)
   - [Видео 2](https://drive.google.com/file/d/1pkEgvrnAznpWGu7HO1b9UEj2cdyZItso/view?usp=sharing)
 
 7. Доказательство теоремы Хове - Мура для группы SL(d) и в более общем случае для полупростой группы Ли G.
   - [Слайды](Ergodic-theory-Lec-7.pdf)
-  - [Видео]()
+  - [Видео](https://drive.google.com/file/d/1u9jkcHXeS3o3B2AyO0u8JRbrW0EHDD2e/view?usp=sharing)
   
   
