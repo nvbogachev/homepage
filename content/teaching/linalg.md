@@ -33,7 +33,7 @@ caption = "My caption :smile:"
 ### Overview
 
 
-This is a page of my course for the $1^{st}$ year students of Master's Program "Advanced Combinatorics" at MIPT.
+This is a page of my course for the $1^{st}$ year students of Master's Program on Combinatorics at the MIPT.
 
 What is this course about? Linear algebra is, roughly speaking, a "linear part" of the geometry of finite-dimensional spaces. It studies vector and affine spaces, linear operators and affine transformations, and Euclidean and Hermitian structures. Linear algebra has important applications in pure mathematics, computer science, physics, engineering, and many other areas. However, this subject is very interesting in itself. Its important feature is a beautiful combination of algebra and geometry. Suppose we perform some kind of transformation, such as a reflection or stretching of the space. How do geometric objects change under this transformation? And what does remain unchanged, i.e., what are the invariants of this transformation? Linear algebra provides answers to these and other similar questions.
 
