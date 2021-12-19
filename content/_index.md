@@ -59,7 +59,15 @@ image = "img/profile.png"
 
 ## About
 
-I am a mathematician with research interests in hyperbolic geometry and geometry of discrete groups. In 2014, I graduated from Moscow State University under the supervision of [Professor **Ernest B. Vinberg**](http://halgebra.math.msu.su/wiki/doku.php/staff:vinberg:english) (see also [here](http://www.ams.org/distribution/mmj/vol8-4-2008/vinberg-birthday.html)). My [PhD thesis](pdf/Bogachev-PhD-2018.pdf) under his supervision was successfully defended in March 2019. Here you can find my [CV](pdf/cv-Bogachev-NV.pdf), papers, information about my projects and the materials of my teaching courses.
+I am a mathematician with research interests in hyperbolic geometry and geometry of discrete groups. In 2014, I graduated from Moscow State University under the supervision of [Professor **Ernest B. Vinberg**](http://halgebra.math.msu.su/wiki/doku.php/staff:vinberg:english) (see also [here](http://www.ams.org/distribution/mmj/vol8-4-2008/vinberg-birthday.html)). My [PhD thesis](pdf/Bogachev-PhD-2018.pdf) under his supervision was successfully defended in March 2019. Here you can find my CV, papers, information about my projects and the materials of my teaching courses.
+
+I am one of the organizers of the [Vinberg Distinguished Lecture Series](https://vinberg.combgeo.org/).
+
+**Awards**
+
+  - 2021: [Prize for Young Mathematicians of Russia](https://icm2022.org/blog/the-announcement-of-prize-for-young-russian-mathematicians-winners-among-young-scientists)
+
+  - 2017, 2018: The Simons Foundation Prize for PhD students.
 
 **Education:**
 
@@ -70,11 +78,7 @@ I am a mathematician with research interests in hyperbolic geometry and geometry
   - MSc in Mathematics, 2014, Moscow State University
 
 
-**Awards**
 
-  - 2021: [Prize for Young Mathematicians of Russia](https://icm2022.org/blog/the-announcement-of-prize-for-young-russian-mathematicians-winners-among-young-scientists)
-
-  - 2017, 2018: The Simons Foundation Prize for PhD students.
 
 
 

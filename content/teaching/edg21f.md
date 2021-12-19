@@ -99,7 +99,7 @@ Here is the page of my course "Ergodic theory and dynamics of discrete groups" (
   - [Видео](https://drive.google.com/file/d/1_BFwcN-dmsJAqfjxrdPzpGnWR2_6Agsh/view?usp=sharing)
  
 
-10. Арифметические группы. Супержесткость Маргулиса. Теорема Марглуиса об арифметичности решеток в группах Ли ранга > 1. 
+10. Арифметические группы. Супержесткость Маргулиса. Теорема Маргулиса об арифметичности решеток в группах Ли ранга > 1. Теорема Бадера, Фишера, Миллера и Стовера про арифметичность гиперболических многообразий.
   - [Слайды](Ergodic-theory-Lec-10.pdf)
   - [Видео](https://drive.google.com/file/d/1QVQTOqXucFBC3wvcnMePjLXtsZ40CBbm/view?usp=sharing)
  
