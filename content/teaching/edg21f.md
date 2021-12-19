@@ -87,4 +87,19 @@ Here is the page of my course "Ergodic theory and dynamics of discrete groups" (
   - [Слайды](Ergodic-theory-Lec-7.pdf)
   - [Видео](https://drive.google.com/file/d/1u9jkcHXeS3o3B2AyO0u8JRbrW0EHDD2e/view?usp=sharing)
   
-  
+ 
+8. Приложения теоремы Мура: теорема жесткости Мостова, пространство SL(d,R)/SL(d,Z), Kazhdan's Property (T).
+  - [Слайды](Ergodic-theory-Lec-8-1.pdf)
+  - [Видео](https://drive.google.com/file/d/1BuRD0-Vaygz1a1SPkAUsyheiE2YoAlfj/view?usp=sharing)
+ 
+
+9. Теоремы Ратнер и доказательство Oppenheim Conjecture.
+  - [Слайды (см. про Kazhdan's property (T))](Ergodic-theory-Lec-8-1.pdf)
+  - [Слайды](Ergodic-theory-Lec-9.pdf)
+  - [Видео](https://drive.google.com/file/d/1_BFwcN-dmsJAqfjxrdPzpGnWR2_6Agsh/view?usp=sharing)
+ 
+
+10. Арифметические группы. Супержесткость Маргулиса. Теорема Марглуиса об арифметичности решеток в группах Ли ранга > 1. 
+  - [Слайды](Ergodic-theory-Lec-10.pdf)
+  - [Видео](https://drive.google.com/file/d/1QVQTOqXucFBC3wvcnMePjLXtsZ40CBbm/view?usp=sharing)
+ 
