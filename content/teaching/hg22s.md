@@ -32,7 +32,7 @@ caption = "My caption :smile:"
 
 ## English description
 
-Here is the page of my course "Ergodic theory and dynamics of discrete groups" (in Russian) for the 2nd--5th year students or PhD students of ASU and MIPT and math departments of other universities of Russia. The course is conducted online via Zoom.  
+Here is the page of my course "Hyperbolic geometry and Lobachevsky spaces" (in Russian) for the 2nd--5th year students or PhD students of ASU and MIPT and math departments of other universities of Russia. The course is conducted online via Zoom.  
 
 
 
