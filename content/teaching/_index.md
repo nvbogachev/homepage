@@ -48,6 +48,12 @@ weight = 1
  
 +++
 
+#### Spring 2022
+
+- **Bachelor's Level at the MIPT:** lectures on [Differential Geometry and Topology](dgt22s) (in Russian)
+
+- **Advanced Mini-Course:** [Hyperbolic geometry and Lobachevsky spaces](hg22s) at the ASU and MIPT (in Russian)
+
 #### Fall 2021
 
 - **Bachelor's Level at the MIPT:** lectures on [Geometry in Computer Science](gcs21f) at the MIPT.
