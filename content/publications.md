@@ -33,7 +33,6 @@ Discrete subgroups of Lie groups, geometry of discrete groups, arithmetic lattic
 
 ### Current Projects/Work in Progress
 
-- with [Alex Kontorovich](https://sites.math.rutgers.edu/~alexk/) & [Sasha Kolpakov](https://sashakolpakov.wordpress.com/): *"Kleinian sphere packings and arithmetic groups"*
 
 - with [Kostya Golubev](https://people.math.ethz.ch/~golubevk/) & [Sasha Kolpakov](https://sashakolpakov.wordpress.com/): *"chromatic numbers of manifolds, graph embeddings in manifolds"*
 
@@ -43,6 +42,8 @@ Discrete subgroups of Lie groups, geometry of discrete groups, arithmetic lattic
 
 
 ### Preprints/submitted papers
+
+&nbsp; &nbsp; **11.** with [Alex Kontorovich](https://sites.math.rutgers.edu/~alexk/) & [Sasha Kolpakov](https://sashakolpakov.wordpress.com/): *"Kleinian sphere packings, reflection groups and arithmeticity"*, [arXiv:2203.01973](https://arxiv.org/abs/2203.01973).
 
 &nbsp; &nbsp; **10.** with [Alexander Kolpakov](https://sashakolpakov.wordpress.com/): *"Thin hyperbolic reflection groups"*, [arXiv:2112.14642](https://arxiv.org/abs/2112.14642)
 
