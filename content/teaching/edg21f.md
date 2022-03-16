@@ -35,6 +35,33 @@ caption = "My caption :smile:"
 Here is the page of my course "Ergodic theory and dynamics of discrete groups" (in Russian) for the 3rd--5th year students or PhD students of MIPT and math departments of other universities of Russia. The course is conducted online via Zoom.  
 
 
+### Abstract
+
+The course is devoted to various applications of ergodic theory to discrete subgroups of Lie groups. The main concepts and theorems that are planned to be covered are: the Haar measure, lattices in Lie groups, ergodic transformations, the Howe --- Moore vanishing theorem, the Moore ergodicity theorem, Ratner's theorems, the Mostow rigidity theorem, Margulis' Superrigidity and Arithmeticity theorems.
+
+### Program/Syllabus
+
+1. Introduction. Flat torus: example. Statement of Ratner's Orbit Closure Theorem. Statement of the Margulis' theorem about the values of quadratic forms: the Oppenheim Conjecture.
+
+2. Measures. The Haar measure. Fundamental domain. Projection of the Haar measure onto the quotient $G/\Gamma$. Lattices in Lie groups. Statements of the remaining Ratner's theorems.
+
+3. Foundations of ergodic theory. The Birkhoff -- Khinchin theorem (the Pointwise Ergodic Theorem).
+
+4. Foundations of ergodic theory. The second proof of the Birkhoff -- Khinchin theorem (via conditional expectation).
+
+5. Ergodicity of group actions, basic properties. Statements of ergodic theorems: Hopf's theorem, the Howe -- Moore theorem (theorem on vanishing coefficients of unitary representations or the Vanishing Theorem) and the Moore Ergodicity Theorem.
+
+6. Proof of the Howe -- Moore theorem for the group $\mathbf{SL}_2(\R)$.
+
+7. Proof of the Howe -- Moore theorem for the group $\mathbf{SL}_d(\R)$ and more generally for the semisimple Lie group G.
+
+8. Applications of Moore's theorem: the Mostow rigidity theorem; the space $\mathbf{SL}_d(\R)/\mathbf{SL}_d(\Z)$ of unimodular lattices; and Kazhdan's Property (T).
+
+9. Sketch of proof of Ratner's theorems and of proof of the Oppenheim Conjecture.
+
+10. Arithmetic groups. The Margulis  Superrigidity. Margulis' Arithmeticity Theorem for lattices in Lie groups of rank $> 1$. The theorem of Bader, Fisher, Miller, and Stover on arithmeticity of hyperbolic manifolds.
+
+
 
 
 ## Эргодическая теория и динамика дискретных групп

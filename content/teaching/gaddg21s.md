@@ -36,7 +36,42 @@ caption = "My caption :smile:"
 
 Here is the page of my course "Geometry, arithmetic and dynamics of discrete groups" (in Russian) for the 3rd--5th year students or PhD students of IUM, MIPT, and HSE. The course is conducted online via Zoom.  
 
+### Abstract/Overview
+Modern research directions in geometry, topology and discrete groups often combine geometrical, arithmetical and dynamical methods. This course is mostly devoted to hyperbolic manifolds and orbifolds, but also discrete subgroups of Lie groups and arithmetic groups are discussed. Vinberg's theory of hyperbolic reflection groups is of special interest in the framework of this course. This theory provides a lot of interesting examples and methods which turn out to be useful for different purposes. In the end of the course we discuss recent results published or accepted for publication in top mathematical journals, as well as some open problems both recently posed and with a long (30-40 years and more) history.
 
+### Prerequisities 
+
+Group theory, differential geometry, introduction to topology, foundations of Riemannian geometry.
+
+### Program/Syllabus
+
+1. Introduction (general picture: what are we studying?). Elements of general and algebraic topology: topological manifolds and constructions, homotopies, fundamental groups, coverings.
+
+2. Riemannian geometry: smooth manifolds, Lie groups, Riemannian manifolds, symmetric homogeneous spaces, spaces of constant sectional curvature, hyperbolic Lobachevsky space $\HH^n$.
+
+3. A bit more of Riemannian geometry (isometric mappings of Riemannian manifolds, totally geodesic submanifolds, Riemannian manifolds with boundary). Hyperbolic geometry (metrics and metric tensors in different models, geodesics, compactification, isometries and classification of isometries: elliptic, parabolic and loxodromic/hyperbolic motions).
+
+4. Group actions by homeomorphisms, elements of group theory, geometric group theory, discrete transformation groups, discrete isometry groups, and discrete subgroups of Lie groups: properly discontinuous group actions, discrete subgroups of topological groups, finitely generated and finitely presented groups, torsion-free groups, and the Selberg lemma (without proof), free groups, solvable groups, the Tits alternative (without proof), ping-pong lemma, Haar measure on a locally compact group, lattices in Lie groups (discrete subgroups of finite covolume with respect to the Haar measure), a fundamental domain for a discrete transformation group, and examples.
+
+5. The Haar measure on the classical groups: $\GL_n(\R)$, the group of strictly upper triangular matrices, $\mathbf{PSL}_2(\R)$, etc. Lattices (discrete subgroups of finite covolume with respect to Haar measure) in Lie groups and basic properties of lattices. The volume finiteness of a fundamental domain for a lattice and compactness of a fundamental domain for a uniform lattice. The Dirichlet domain. Fundamental domain as a generalized convex polyhedron. Equality of volumes of fundamental domains.
+
+6. Proof of the classification of isometries in hyperbolic space: elliptic, parabolic and loxodromic motions. The limit set and its properties. Cusps of fundamental polyhedra. Cusps of surfaces and manifolds. The idea behind the proof of the ping-pong lemma, and the Schottky group. The Poincare method.
+
+7. Hyperbolic surfaces: examples. Geometrization of surfaces. Modular group. Reflection groups. Elliptic and parabolic reflection groups. Vinberg's theory of hyperbolic reflection groups. Coxeter polyhedra and Coxeter --- Vinberg diagrams. Finiteness and compactness criteria for hyperbolic Coxeter polyhedra. Absence of compact Coxeter polytopes in high-dimensional Lobachevsky spaces. Discrete groups of Euclidean isometries. Bieberbach's theorem. Affine flat manifolds and their fundamental groups. The Auslander conjecture. The presence of free subgroups in lattices in $\PO_{n,1}(\R)$.
+
+8. Basic concepts of geometric group theory: Cayley graphs, quasi-isometries, fundamental lemma of geometric group theory (the Schwarz -- Milnor lemma), Gromov hyperbolicity. Surface deformations: rectangular hexagons, hyperbolic pairs pf pants, pants decomposition of surfaces, moduli spaces, Teichmüller spaces, mapping class groups. Formulations of rigidity theorems: Mostov, Margulis, Prasad.
+
+9. Proof of the Mostov rigidity theorem, part 1: lifting a smooth homotopy to pseudo-isometry, extension to a ball homeomorphism, quasi-conformality and differentiability on the ideal boundary.
+
+10. Proof of the Mostow rigidity theorem, part 2: dynamics and ergodic theory, ergodicity of geodesic flows on hyperbolic manifolds, the Howe — Moore ergodicity theorem, ergodicity of group actions, conformal map on the ideal boundary = hyperbolic isometry, two approaches to completing the proof of the Mostow rigidity.
+
+11. Number theory: the Galois theory. Algebraic k-groups. Arithmetic and quasi-arithmetic groups. The famous theorems of Margulis. Three types of arithmetic lattices in the Lie group $\PO_{n,1}(\R)$.
+
+12. Algebraic k-groups: k-groups, simple and semisimple k-groups, maximal k-tori, Tits classification of semisimple groups. Three types of arithmetic lattices in the Lie group $\PO_{n,1}(\R)$: quadratic forms, quaternion algebras and triality. Vinberg's theory of hyperbolic reflection groups. Vinberg's arithmeticity criterion. Finiteness and classification of maximal arithmetic reflection groups in Lobachevsky spaces: known results and open problems.
+
+13. The continuation of Lecture 12: algebraic groups, the Dynkin diagrams and the Tits classification, as well as type II arithmetic hyperbolic lattices defined using quaternion algebras.
+
+14. Arithmetic subgroups in $\mathbf{PSL}_2(\R)$ and $\mathbf{PSL}_2(\CC)$. Non-arithmetic manifolds constructed by Gromov and Pyatetsky--Shapiro. Quasi-arithmetic manifolds of Agol, Belolipetsky, Thomson. Totally geodesic subspaces of hyperbolic orbifolds. The idea behind the proof of the recently obtained (2018--2021) arithmeticity criterion: a hyperbolic orbifold is arithmetic if and only if it contains infinitely many totally geodesic suborbifolds.
 
 
 ## Геометрия, арифметика и динамика дискретных групп

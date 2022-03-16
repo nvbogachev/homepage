@@ -34,6 +34,39 @@ caption = "My caption :smile:"
 
 Here is the page of my course "Differential geometry and topology" (in Russian) for the 2nd year students at MIPT. The course is conducted online via Zoom.  
 
+### Prerequisities 
+Introduction to topology. Smooth surfaces. Smooth manifolds. Calculus on manifolds: differential forms, the Stokes theorem.
+
+### Program/Syllabus
+
+1. Smooth manifolds with and without boundary.
+
+2. Smooth maps between manifolds. Immersions, submersion, embeddings.
+
+3. Critical and regular points and values. Sard's Theorem.
+
+4. The Whitney Embedding Theorem. The Whitney Approximation Theorem (without proof). Transversality.
+
+5. Lie groups.
+
+6. Fibre bundles. Vector bundles. Covers. 
+
+7. Differential forms and de Rham cohomology. 
+
+8. Degree of a map. Intersection index. Foundations of the Morse theory.
+
+9. Metrics in bundles. Riemannian manifolds.
+
+10. Covariant derivatives. Connections. Curvature.
+
+11. Regular surfaces in $\R^d$. I and II fundamental forms. Gaussian curvature.
+
+12. Hyperbolic (Lobachevsky) space $\HH^n$.
+
+13*. Characteristic classes. 
+
+14*. The Gauss --- Bonnet Theorem.
+
 
 ## Дифференциальная геометрия и топология
 
@@ -67,7 +100,9 @@ Here is the page of my course "Differential geometry and topology" (in Russian) 
   - [Youtube](https://youtu.be/EtU9nt9nRME)
   - [Слайды](DiffGeomTopol-Lecture-4.pdf)
 
-5. (14.03.2022). Группы и алгебры Ли.
+5. (14.03.2022). Группы Ли. Линейные группы Ли. Касательная алгебра, экспоненциальное отображение, алгебры Ли. 
+  - [Youtube](https://youtu.be/j6i5phDFqUM)
+  - [Слайды](DiffGeomTopol-Lecture-5.pdf)
 
 6. (21.03.2022). Векторные расслоения. Примеры. Операции с векторными расслоениями.
 

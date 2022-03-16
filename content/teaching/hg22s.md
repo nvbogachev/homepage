@@ -34,6 +34,22 @@ caption = "My caption :smile:"
 
 Here is the page of my course "Hyperbolic geometry and Lobachevsky spaces" (in Russian) for the 2nd--5th year students or PhD students of ASU and MIPT and math departments of other universities of Russia. The course is conducted online via Zoom.  
 
+### Program/Syllabus
+
+1. Introduction (important role of hyperbolic geometry) and preliminaries (smooth manifolds).
+
+2. Riemannian manifolds. Vector model of hyperbolic Lobachevsky space.
+
+3. Isometric models of $\HH^n$: vector model, the Klein ball model (projective) $K^n$, the Poincare ball model $B^n$, the upper halfspace model $U^n$. Geodesics and planes in hyperbolic space. Horospheres and horoballs. Convex polyhedra. Classification of hyperbolic isometries: elliptic, parabolic, loxodromic elements.
+
+4. Discrete groups of motions. Fundamental polyhedra. Hyperbolic surfaces, orbifolds and manifolds.
+
+5. Geometrization of surfaces. Cusps. 
+
+6. The Mostow rigidity.
+
+
+
 
 
 
@@ -56,11 +72,14 @@ Here is the page of my course "Hyperbolic geometry and Lobachevsky spaces" (in R
 
 1. Краткое введение про евклидову и неевклидову геометрии. Что такое геометрия? Эрлангенская программа Кляйна. Основания теории групп. Понятия гладкого многообразия, гладкого отображения. 
   - [Youtube](https://youtu.be/jw_0TN0yOeI)
-  - [Слайды](HG-Lecture-1.pdf)
+  - [Слайды](HyperbGeom-Lecture-1.pdf)
 
-2. Понятия римановой метрики, метрического пространства. Геодезические в римановых многообразиях. Движения/изометрии. Примеры: евклидово пространство R^d, сфера S^d. Векторная модель пространства Лобачевского H^d. Гиперболическая метрика. Плоскости и прямые (вполне геодезические подпространства). Полная группа изометрий пространства Лобаческого. Проективная модель Клейна в шаре. Конформные модели Пуанкаре в шаре и в верхнем полупространстве.
+2. Понятия римановой метрики, метрического пространства. Геодезические в римановых многообразиях. Движения/изометрии. Примеры: евклидово пространство R^d, сфера S^d. Векторная модель пространства Лобачевского H^d. Гиперболическая метрика. Плоскости и прямые (вполне геодезические подпространства). Полная группа изометрий пространства Лобаческого. 
+  - [Youtube](https://youtu.be/pp9yx2jjVMw)
+  - [Слайды](HyperbGeom-Lecture-2.pdf)
 
-3. Изометричность разных моделей. Двумерная и трехмерная геометрии Лобачевского. Устройство геодезических и подпространств в разных моделях. Взаимное расположение подпространств. Полупространства. Многогранники в пространстве Лобачевского. Метрические соотношения в плоскости (теоремы синусов и косинусов, теорема Пифагора, угол параллельности). Орисферы, орициклы, оришары.
+
+3. Проективная модель Клейна в шаре. Конформные модели Пуанкаре в шаре и в верхнем полупространстве. Изометричность разных моделей. Двумерная и трехмерная геометрии Лобачевского. Устройство геодезических и подпространств в разных моделях. Взаимное расположение подпространств. Полупространства. Многогранники в пространстве Лобачевского. Метрические соотношения в плоскости (теоремы синусов и косинусов, теорема Пифагора, угол параллельности). Орисферы, орициклы, оришары.
 
 4. Примеры движений в пространстве Лобачевского в разных моделях — отражения, центральные симметрии, параболические повороты, гиперболический сдвиг вдоль геодезической. Теорема о классификации движений в пространстве Лобачевского — эллиптические, параболические и локсодромические изометрии.
 
