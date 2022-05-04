@@ -126,7 +126,7 @@ Introduction to topology. Smooth surfaces. Smooth manifolds. Calculus on manifol
   - [Youtube](https://youtu.be/ffxOOIyhNb0)
   - [Слайды](DiffGeomTopol-Lecture-10.pdf)
 
-11. (25.04.2022). Гомотопическая инвариантность когомологий де Рама. Точные последовательности. Последовательности Майера-Виеториса. Лемма Пуанкаре. Примеры подсчета когомологий де Рама.
+11. (25.04.2022). Гомотопическая инвариантность когомологий де Рама. Лемма Пуанкаре. Точные последовательности. Последовательности Майера-Виеториса. Двойственность Пуанкаре. Примеры подсчета когомологий де Рама.
   - [Youtube часть 1](https://youtu.be/rwPd_S4qoNE)
   - [Youtube часть 2](https://youtu.be/Xwnr2yf7Gso)
   - [Слайды](DiffGeomTopol-Lecture-11.pdf)
