@@ -54,7 +54,7 @@ image = "img/profile.png"
 # Nikolay V. Bogachev
 
 
-[**Institute for Information Transmission Problems**](http://iitp.ru/en/about) & [**Moscow Institute of Physics and Technology**](https://mipt.ru/english/)
+[**University of Toronto**](https://www.utoronto.ca/) 
 
 
 ## About
