@@ -32,7 +32,7 @@ caption = "My caption :smile:"
 
 ## English description
 
-Here is the page of my course "Differential geometry and topology" (in Russian) for the 2nd year students at MIPT. The course is conducted online via Zoom.  
+Here is the page of my course "Differential geometry and topology" (in Russian) for the 2nd year students at MIPT. The course was conducted online via Zoom.  
 
 ### Prerequisities 
 Introduction to topology. Smooth surfaces. Smooth manifolds. Calculus on manifolds: differential forms, the Stokes theorem.
