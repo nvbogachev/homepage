@@ -44,6 +44,7 @@ Discrete subgroups of Lie groups, geometry of discrete groups, arithmetic lattic
 ### Preprints/submitted papers
 
 
+&nbsp; &nbsp; **12.** with [Sami Douba](https://www.ihes.fr/~/douba/): *"Geometric and arithmetic properties of Löbell polyhedra"*, in preparation.
 
 &nbsp; &nbsp; **11.** with [Alexander Kolpakov](https://sashakolpakov.wordpress.com/): *"Thin hyperbolic reflection groups"*, [arXiv:2112.14642](https://arxiv.org/abs/2112.14642)
 
