@@ -43,20 +43,24 @@ Discrete subgroups of Lie groups, geometry of discrete groups, arithmetic lattic
 
 ### Preprints/submitted papers
 
-&nbsp; &nbsp; **11.** with [Alex Kontorovich](https://sites.math.rutgers.edu/~alexk/) & [Sasha Kolpakov](https://sashakolpakov.wordpress.com/): *"Kleinian sphere packings, reflection groups and arithmeticity"*, [arXiv:2203.01973](https://arxiv.org/abs/2203.01973).
-
-&nbsp; &nbsp; **10.** with [Alexander Kolpakov](https://sashakolpakov.wordpress.com/): *"Thin hyperbolic reflection groups"*, [arXiv:2112.14642](https://arxiv.org/abs/2112.14642)
 
 
-&nbsp; &nbsp; **9.** with Stepan Alexandrov (MIPT), Andrei Egorov (Novosibirsk State Univ. -- NSU) & [Andrei Vesnin](http://math.nsc.ru/~vesnin/) (Tomsk & NSU & HSE): *"On volumes of hyperbolic right-angled polyhedra"*, [arXiv:2111.08789](https://arxiv.org/abs/2111.08789)
+&nbsp; &nbsp; **11.** with [Alexander Kolpakov](https://sashakolpakov.wordpress.com/): *"Thin hyperbolic reflection groups"*, [arXiv:2112.14642](https://arxiv.org/abs/2112.14642)
 
-&nbsp; &nbsp; **8.** with [Misha Belolipetsky](http://w3.impa.br/~mbel/), [Alexander Kolpakov](https://sashakolpakov.wordpress.com/) & [Leone Slavich](http://matematica.unipv.it/slavich/): *"Subspace stabilisers in hyperbolic lattices"*, [arXiv:2105.06897](https://arxiv.org/abs/2105.06897)
+
+
+
+&nbsp; &nbsp; **10.** with [Misha Belolipetsky](http://w3.impa.br/~mbel/), [Alexander Kolpakov](https://sashakolpakov.wordpress.com/) & [Leone Slavich](http://matematica.unipv.it/slavich/): *"Subspace stabilisers in hyperbolic lattices"*, [arXiv:2105.06897](https://arxiv.org/abs/2105.06897)
 
 
 
 
 
 ### Published/accepted papers
+
+&nbsp; &nbsp; **9.** with [Alex Kontorovich](https://sites.math.rutgers.edu/~alexk/) & [Sasha Kolpakov](https://sashakolpakov.wordpress.com/): *"Kleinian sphere packings, reflection groups and arithmeticity"*, [arXiv:2203.01973](https://arxiv.org/abs/2203.01973), accepted to **Math. Comp.**
+
+&nbsp; &nbsp; **8.** with Stepan Alexandrov (MIPT), Andrei Egorov (Novosibirsk State Univ. -- NSU) & [Andrei Vesnin](http://math.nsc.ru/~vesnin/) (Tomsk & NSU & HSE): *"On volumes of hyperbolic right-angled polyhedra"*, [arXiv:2111.08789](https://arxiv.org/abs/2111.08789), **Sbornik: Math.** 
 
 &nbsp; &nbsp; **7.** with Liudmila Ostroumova-Prokhorenkova (Yandex & HSE & MIPT), Dima Baranchuk (Yandex), Yura Demidovich (MIPT), and [Alexander Kolpakov](https://sashakolpakov.wordpress.com/): *"Graph-based Nearest Neighbor Search in Hyperbolic Spaces"*, accepted to **ICLR 2022** (one of the top-3 ML & AI conference).
 
