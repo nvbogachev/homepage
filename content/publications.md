@@ -32,6 +32,7 @@ Discrete subgroups of Lie groups, geometry of discrete groups, arithmetic lattic
 
 ### Preprints/submitted papers
 
+&nbsp; &nbsp; **13.** with & Dmitry Guschin and [Andrei Vesnin](http://math.nsc.ru/~vesnin/) (Sobolev Inst. of Math.): *"Arithmeticity of ideal hyperbolic right-angled polyhedra and hyperbolic link complements"*, [preprint pdf](/Arith-ideal-polyhedra-2023.pdf)
 
 &nbsp; &nbsp; **12.** with [Sami Douba](https://www.ihes.fr/~/douba/): *"Geometric and arithmetic properties of Löbell polyhedra"*, [arXiv:2304.12590](https://arxiv.org/abs/2304.12590).
 
