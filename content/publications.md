@@ -43,7 +43,6 @@ Discrete subgroups of Lie groups, geometry of discrete groups, arithmetic lattic
 
 &nbsp; &nbsp; **11.** with [Alexander Kolpakov](https://sashakolpakov.wordpress.com/): *"Thin hyperbolic reflection groups"*, [arXiv:2112.14642](https://arxiv.org/abs/2112.14642)
 
-
 &nbsp; &nbsp; **10.** with [Misha Belolipetsky](http://w3.impa.br/~mbel/), [Alexander Kolpakov](https://sashakolpakov.wordpress.com/) & [Leone Slavich](http://matematica.unipv.it/slavich/): *"Subspace stabilisers in hyperbolic lattices"*, [arXiv:2105.06897](https://arxiv.org/abs/2105.06897)
 
 
