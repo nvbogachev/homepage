@@ -33,7 +33,7 @@ Discrete subgroups of Lie groups, geometry of discrete groups, arithmetic lattic
 ### Preprints/submitted papers
 
 
-&nbsp; &nbsp; **15.** _Quasi-arithmetic hyperbolic Coxeter prisms_, with Khusrav Yorov: *"_Quasi-arithmetic hyperbolic Coxeter prisms_"*, preprint.
+&nbsp; &nbsp; **15.** Quasi-arithmetic hyperbolic Coxeter prisms, with Khusrav Yorov, *preprint*.
 
 &nbsp; **14.** with [Sami Douba](https://www.ihes.fr/~/douba/) and [Jean Raimbault](https://www.i2m.univ-amu.fr/perso/jean.raimbault/): *"Infinitely many commensurability classes of compact Coxeter polyhedra in H^4 and H^5"*, preprint.
 
