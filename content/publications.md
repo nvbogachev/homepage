@@ -35,7 +35,7 @@ Discrete subgroups of Lie groups, geometry of discrete groups, arithmetic lattic
 
 &nbsp; &nbsp; **15.** with Khusrav Yorov: *"Quasi-arithmetic hyperbolic Coxeter prisms"*, preprint.
 
-&nbsp; &nbsp; **14.** with [Sami Douba](https://www.ihes.fr/~/douba/) and [Jean Raimbault](https://www.i2m.univ-amu.fr/perso/jean.raimbault/): *"Infinitely many commensurability classes of compact Coxeter polyhedra in H4 and H5"*, preprint.
+&nbsp; &nbsp; **14.** with [Sami Douba](https://www.ihes.fr/~/douba/) and [Jean Raimbault](https://www.i2m.univ-amu.fr/perso/jean.raimbault/): *"Infinitely many commensurability classes of compact Coxeter polyhedra in H^4 and H^5"*, preprint.
 
 &nbsp; &nbsp; **13.** with & Dmitry Guschin (MIPT) and [Andrei Vesnin](http://math.nsc.ru/~vesnin/) (Sobolev Inst. of Math.): *"Arithmeticity of ideal hyperbolic right-angled polyhedra and hyperbolic link complements"*, [preprint pdf](/Arith-ideal-polyhedra-2023.pdf)
 
@@ -45,8 +45,6 @@ Discrete subgroups of Lie groups, geometry of discrete groups, arithmetic lattic
 
 
 &nbsp; &nbsp; **10.** with [Misha Belolipetsky](http://w3.impa.br/~mbel/), [Alexander Kolpakov](https://sashakolpakov.wordpress.com/) & [Leone Slavich](http://matematica.unipv.it/slavich/): *"Subspace stabilisers in hyperbolic lattices"*, [arXiv:2105.06897](https://arxiv.org/abs/2105.06897)
-
-
 
 
 
