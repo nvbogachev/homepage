@@ -33,9 +33,9 @@ Discrete subgroups of Lie groups, geometry of discrete groups, arithmetic lattic
 ### Preprints/submitted papers
 
 
-&nbsp; &nbsp; **15.** with Khusrav Yorov: *"_Quasi-arithmetic hyperbolic Coxeter prisms_"*, preprint.
+&nbsp; &nbsp; **15.** _Quasi-arithmetic hyperbolic Coxeter prisms_, with Khusrav Yorov: *"_Quasi-arithmetic hyperbolic Coxeter prisms_"*, preprint.
 
-&nbsp; &nbsp; **14.** with [Sami Douba](https://www.ihes.fr/~/douba/) and [Jean Raimbault](https://www.i2m.univ-amu.fr/perso/jean.raimbault/): *"Infinitely many commensurability classes of compact Coxeter polyhedra in H^4 and H^5"*, preprint.
+&nbsp; **14.** with [Sami Douba](https://www.ihes.fr/~/douba/) and [Jean Raimbault](https://www.i2m.univ-amu.fr/perso/jean.raimbault/): *"Infinitely many commensurability classes of compact Coxeter polyhedra in H^4 and H^5"*, preprint.
 
 &nbsp; &nbsp; **13.** with Dmitry Guschin (MIPT) and [Andrei Vesnin](http://math.nsc.ru/~vesnin/) (Sobolev Inst. of Math.): *"Arithmeticity of ideal hyperbolic right-angled polyhedra and hyperbolic link complements"*, [preprint pdf](/Arith-ideal-polyhedra-2023.pdf)
 
@@ -51,7 +51,7 @@ Discrete subgroups of Lie groups, geometry of discrete groups, arithmetic lattic
 
 &nbsp; &nbsp; **9.** with [Alex Kontorovich](https://sites.math.rutgers.edu/~alexk/) & [Sasha Kolpakov](https://sashakolpakov.wordpress.com/): *"Kleinian sphere packings, reflection groups and arithmeticity"*, [arXiv:2203.01973](https://arxiv.org/abs/2203.01973), accepted to **Math. Comp.**
 
-&nbsp; &nbsp; **8.** with Stepan Alexandrov (MIPT), Andrei Egorov (Novosibirsk State Univ. -- NSU) & [Andrei Vesnin](http://math.nsc.ru/~vesnin/) (Tomsk & NSU & HSE): *"On volumes of hyperbolic right-angled polyhedra"*, [arXiv:2111.08789](https://arxiv.org/abs/2111.08789), **Sbornik: Math.** 
+&nbsp; &nbsp; **8.** with [Stepan Alexandrov](https://cyanprism.github.io/), Andrei Egorov (Novosibirsk State Univ. -- NSU) & [Andrei Vesnin](http://math.nsc.ru/~vesnin/) (Tomsk & NSU & HSE): *"On volumes of hyperbolic right-angled polyhedra"*, [arXiv:2111.08789](https://arxiv.org/abs/2111.08789), **Sbornik: Math.** 
 
 &nbsp; &nbsp; **7.** with Liudmila Ostroumova-Prokhorenkova (Yandex & HSE & MIPT), Dima Baranchuk (Yandex), Yura Demidovich (MIPT), and [Alexander Kolpakov](https://sashakolpakov.wordpress.com/): *"Graph-based Nearest Neighbor Search in Hyperbolic Spaces"*, accepted to **ICLR 2022** (one of the top-3 ML & AI conference).
 
